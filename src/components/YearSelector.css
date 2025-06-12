@@ -1,0 +1,75 @@
+.year-selector-compact {
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  padding: 0.75rem;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.selector-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 0.5rem;
+}
+
+.year-selector-label {
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #4b5563;
+  margin-right: 0.75rem;
+  margin-bottom: 0.25rem;
+}
+
+.year-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+}
+
+.year-button {
+  background-color: #f3f4f6;
+  border: 1px solid #d1d5db;
+  color: #4b5563;
+  padding: 0.35rem 0.75rem;
+  border-radius: 0.25rem;
+  font-size: 0.875rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.year-button:hover {
+  background-color: #e5e7eb;
+}
+
+.year-button.active {
+  background-color: #3b82f6;
+  border-color: #2563eb;
+  color: #ffffff;
+}
+
+.current-year-display {
+  text-align: center;
+  font-size: 0.8rem;
+  color: #6b7280;
+}
+
+.current-year {
+  font-weight: 600;
+  color: #1f2937;
+}
+
+/* Media query for very small screens */
+@media (max-width: 400px) {
+  .selector-container {
+    flex-direction: column;
+  }
+  
+  .year-selector-label {
+    margin-right: 0;
+    margin-bottom: 0.5rem;
+  }
+}

@@ -1,0 +1,1333 @@
+{
+  "hospitals": [
+    {
+      "id": 0,
+      "name": "Tennyson Center for Children at Colorado Christian Home",
+      "coordinates": [
+        -105.0434853,
+        39.7594523
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Colorado Mental Health Institute-Fort Logan",
+      "coordinates": [
+        -105.034208,
+        39.641285
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Eben-Ezer Lutheran Care Center",
+      "coordinates": [
+        -103.6429792,
+        40.2546936
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Cedar Springs Hospital",
+      "coordinates": [
+        -104.81664,
+        38.8019373
+      ]
+    },
+    {
+      "id": 4,
+      "name": "University of Colorado Hospital",
+      "coordinates": [
+        -104.841661,
+        39.7425435
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Kit Carson County Memorial Hospital",
+      "coordinates": [
+        -102.270406,
+        39.3029706
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Kindred Hospital Denver",
+      "coordinates": [
+        -104.9644468,
+        39.74628
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Denver West Surgery Center",
+      "coordinates": [
+        -105.1529788,
+        39.7464202
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Child First Pediatrics",
+      "coordinates": [
+        -104.8848628,
+        39.5840004
+      ]
+    },
+    {
+      "id": 9,
+      "name": "The Denver Hospice",
+      "coordinates": [
+        -104.8919851,
+        39.7199008
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Kindred Hospital Aurora",
+      "coordinates": [
+        -104.826609,
+        39.7281498
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Children's Hospital Colorado at Memorial Hospital",
+      "coordinates": [
+        -104.799593,
+        38.8393776
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Denver Health Medical Center Emergency Department Trauma Center",
+      "coordinates": [
+        -104.990709,
+        39.7284644
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Denver Health Medical Emergency Center for Children",
+      "coordinates": [
+        -104.9908679,
+        39.7276243
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Hearing Rehab Center",
+      "coordinates": [
+        -105.0953676,
+        40.5558611
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Health Unit",
+      "coordinates": [
+        -105.116451,
+        39.7173623
+      ]
+    },
+    {
+      "id": 16,
+      "name": "SCL Health Saint Joseph Hospital",
+      "coordinates": [
+        -104.9710857,
+        39.7461762
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Buck Creek Medical Center",
+      "coordinates": [
+        -106.5223865,
+        39.6396839
+      ]
+    },
+    {
+      "id": 18,
+      "name": "UCHealth Highlands Ranch Hospital",
+      "coordinates": [
+        -105.005541,
+        39.5522109
+      ]
+    },
+    {
+      "id": 19,
+      "name": "UCHealth Sterling Ranch Medical Center",
+      "coordinates": [
+        -105.0374595,
+        39.5068577
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Shaw Cancer Center",
+      "coordinates": [
+        -106.5925266,
+        39.6519134
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Cherry Hills Assisted Living & Memory Care",
+      "coordinates": [
+        -104.960809,
+        39.6020058
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Action Behavior Centers - ABA Therapy for Autism",
+      "coordinates": [
+        -105.1237378,
+        40.1362681
+      ]
+    },
+    {
+      "id": 23,
+      "name": "The Root Acupuncture",
+      "coordinates": [
+        -105.1560498,
+        39.6828034
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Middle Park Medical Center - Granby",
+      "coordinates": [
+        -105.925792,
+        40.075728
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Reunion Rehabilitation Hospital Denver",
+      "coordinates": [
+        -104.8822514,
+        39.7814708
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Encompass Health Rehab Hospital Of Littleton",
+      "coordinates": [
+        -105.0000982,
+        39.5745418
+      ]
+    },
+    {
+      "id": 27,
+      "name": "PAM Health Rehabilitation Hospital of Westminster",
+      "coordinates": [
+        -105.0683388,
+        39.8874695
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Longs Peak Hospital",
+      "coordinates": [
+        -105.0585095,
+        40.1620559
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Emergency Room",
+      "coordinates": [
+        -104.9750283,
+        39.6708975
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Unnamed Hospital",
+      "coordinates": [
+        -105.1020576,
+        40.0026041
+      ]
+    },
+    {
+      "id": 31,
+      "name": "UCHealth Urgent Care - Powers",
+      "coordinates": [
+        -104.7210237,
+        38.8942725
+      ]
+    },
+    {
+      "id": 32,
+      "name": "UCHealth Emergency Room & Primary Care",
+      "coordinates": [
+        -104.9446386,
+        39.5442116
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Devereux Cleo Wallace",
+      "coordinates": [
+        -105.0913355,
+        39.8825595
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Sky Ridge Medical Center",
+      "coordinates": [
+        -104.8712604,
+        39.5289523
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Colorado Mental Health Institute - Pueblo",
+      "coordinates": [
+        -104.6296749,
+        38.2844386
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Saint Anthony Summit Medical Center",
+      "coordinates": [
+        -106.076606,
+        39.5698533
+      ]
+    },
+    {
+      "id": 37,
+      "name": "AdventHealth Parker Hospital",
+      "coordinates": [
+        -104.7693087,
+        39.5485744
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Saint Francis Medical Center",
+      "coordinates": [
+        -104.7169612,
+        38.9385291
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Memorial Hospital North",
+      "coordinates": [
+        -104.7542172,
+        38.9678349
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Platte Valley Medical Center",
+      "coordinates": [
+        -104.7688915,
+        39.964656
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Centennial Peaks Hospital",
+      "coordinates": [
+        -105.1483597,
+        39.9520487
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Telluride Regional Medical Center",
+      "coordinates": [
+        -107.8163489,
+        37.9374433
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Grand Junction VA Medical Center",
+      "coordinates": [
+        -108.5408162,
+        39.0760897
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Cedar Springs Hospital",
+      "coordinates": [
+        -104.8166733,
+        38.8018687
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Highlands Behavioral Health",
+      "coordinates": [
+        -104.9077047,
+        39.5628045
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Northeast Emergency Room",
+      "coordinates": [
+        -104.9231693,
+        39.9279085
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Platte Valley Medical Center",
+      "coordinates": [
+        -104.7686877,
+        39.9639606
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Salud Family Health Center",
+      "coordinates": [
+        -104.9041024,
+        39.8102897
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Keefe Memorial Hospital",
+      "coordinates": [
+        -102.3549996,
+        38.8261823
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Fillmore Building",
+      "coordinates": [
+        -104.9538164,
+        39.7426371
+      ]
+    },
+    {
+      "id": 51,
+      "name": "The Medical Center Of Aurora",
+      "coordinates": [
+        -104.8328339,
+        39.6901481
+      ]
+    },
+    {
+      "id": 52,
+      "name": "AdventHealth Porter Hospital",
+      "coordinates": [
+        -104.9758624,
+        39.6699454
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Swedish Medical Center",
+      "coordinates": [
+        -104.9802372,
+        39.6540609
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Metro Community Providers North Aurora Family Health Services",
+      "coordinates": [
+        -104.8453958,
+        39.76368
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Children's Hospital Colorado Emergency Department (ED)",
+      "coordinates": [
+        -104.836152,
+        39.7423379
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Children's Hospital Colorado Anschutz Medical Campus, Aurora",
+      "coordinates": [
+        -104.8347914,
+        39.7421317
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Anschutz Inpatient Pavilion 2 & Emergency Department (University Hospital)",
+      "coordinates": [
+        -104.8426795,
+        39.742439
+      ]
+    },
+    {
+      "id": 58,
+      "name": "UCH Center for Dependency Addiction & Rehabilitation (CeDAR)",
+      "coordinates": [
+        -104.8458108,
+        39.7428226
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Marion Downs Hearing Center",
+      "coordinates": [
+        -104.8451052,
+        39.7444131
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Saint Mary's Regional Hospital",
+      "coordinates": [
+        -108.5630308,
+        39.0903452
+      ]
+    },
+    {
+      "id": 61,
+      "name": "North Colorado Medical Center",
+      "coordinates": [
+        -104.7088849,
+        40.414847
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Children's Hospital Colorado Uptown Denver",
+      "coordinates": [
+        -104.9678241,
+        39.7452813
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Good Samaritan Medical Center",
+      "coordinates": [
+        -105.0865624,
+        39.9698604
+      ]
+    },
+    {
+      "id": 64,
+      "name": "AdventHealth Avista Hospital",
+      "coordinates": [
+        -105.1515263,
+        39.9516225
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Saint Anthony North Health Campus",
+      "coordinates": [
+        -104.9913181,
+        39.9557408
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Northeast Emergency Room Campus",
+      "coordinates": [
+        -104.9232343,
+        39.9276194
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Colorado Plains Medical Center",
+      "coordinates": [
+        -103.7954881,
+        40.2602608
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Foothills Hospital",
+      "coordinates": [
+        -105.2368921,
+        40.0163519
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Sterling Regional MedCenter",
+      "coordinates": [
+        -103.2206412,
+        40.6124341
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Sedgwick County Memorial Hospital",
+      "coordinates": [
+        -102.2686398,
+        40.9940109
+      ]
+    },
+    {
+      "id": 71,
+      "name": "UC Health Emergency Room",
+      "coordinates": [
+        -105.0311823,
+        40.5225982
+      ]
+    },
+    {
+      "id": 72,
+      "name": "SCL Health Community Hospital - Northglenn",
+      "coordinates": [
+        -104.9841534,
+        39.9124362
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Yuma District Hospital",
+      "coordinates": [
+        -102.7370191,
+        40.1200377
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Southwest Memorial Hospital",
+      "coordinates": [
+        -108.5743547,
+        37.3620981
+      ]
+    },
+    {
+      "id": 75,
+      "name": "The Memorial Hospital",
+      "coordinates": [
+        -107.5797687,
+        40.5183665
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Valley View Hospital",
+      "coordinates": [
+        -107.3213895,
+        39.5329746
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Pagosa Springs Medical Center",
+      "coordinates": [
+        -107.0783295,
+        37.2523095
+      ]
+    },
+    {
+      "id": 78,
+      "name": "Gunnison Valley Hospital",
+      "coordinates": [
+        -106.9247223,
+        38.5519462
+      ]
+    },
+    {
+      "id": 79,
+      "name": "Saint Vincent General Hospital",
+      "coordinates": [
+        -106.302976,
+        39.2452157
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Heart of the Rockies Regional Medical Center",
+      "coordinates": [
+        -106.0095442,
+        38.5434799
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Conejos County Hospital",
+      "coordinates": [
+        -105.9655642,
+        37.2629499
+      ]
+    },
+    {
+      "id": 82,
+      "name": "Mount San Rafael Hospital",
+      "coordinates": [
+        -104.4877633,
+        37.1735534
+      ]
+    },
+    {
+      "id": 83,
+      "name": "Arkansas Valley Regional Medical Center",
+      "coordinates": [
+        -103.5495826,
+        37.9777708
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Unnamed Hospital",
+      "coordinates": [
+        -105.0902932,
+        39.7627237
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Prowers Medical Center",
+      "coordinates": [
+        -102.6109425,
+        38.0700258
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Wray Community District Hospital",
+      "coordinates": [
+        -102.2345379,
+        40.0761539
+      ]
+    },
+    {
+      "id": 87,
+      "name": "Haxtun Hospital District",
+      "coordinates": [
+        -102.6313363,
+        40.641885
+      ]
+    },
+    {
+      "id": 88,
+      "name": "Estes Park Medical Center",
+      "coordinates": [
+        -105.5152389,
+        40.3715138
+      ]
+    },
+    {
+      "id": 89,
+      "name": "Poudre Valley Hospital",
+      "coordinates": [
+        -105.0564428,
+        40.5720096
+      ]
+    },
+    {
+      "id": 90,
+      "name": "Banner Fort Collins Medical Center",
+      "coordinates": [
+        -105.0091156,
+        40.5211902
+      ]
+    },
+    {
+      "id": 91,
+      "name": "Evans Army Community Hospital",
+      "coordinates": [
+        -104.7975439,
+        38.719751
+      ]
+    },
+    {
+      "id": 92,
+      "name": "Pikes Peak Regional Hospital",
+      "coordinates": [
+        -105.0745821,
+        38.9746265
+      ]
+    },
+    {
+      "id": 93,
+      "name": "Penrose Hospital",
+      "coordinates": [
+        -104.8218847,
+        38.8656584
+      ]
+    },
+    {
+      "id": 94,
+      "name": "Memorial Hospital Central",
+      "coordinates": [
+        -104.7990591,
+        38.8402504
+      ]
+    },
+    {
+      "id": 95,
+      "name": "Longmont United Hospital",
+      "coordinates": [
+        -105.1261704,
+        40.1822511
+      ]
+    },
+    {
+      "id": 96,
+      "name": "Children's Hospital Colorado North Campus, Broomfield",
+      "coordinates": [
+        -104.993217,
+        40.0023939
+      ]
+    },
+    {
+      "id": 97,
+      "name": "Vibra Hospital of Denver",
+      "coordinates": [
+        -104.9804031,
+        39.8508032
+      ]
+    },
+    {
+      "id": 98,
+      "name": "North Suburban Medical Center",
+      "coordinates": [
+        -104.9850275,
+        39.8646015
+      ]
+    },
+    {
+      "id": 99,
+      "name": "84th Avenue Neighborhood Health Center",
+      "coordinates": [
+        -105.0184473,
+        39.8507829
+      ]
+    },
+    {
+      "id": 100,
+      "name": "AdventHealth Littleton Hospital",
+      "coordinates": [
+        -104.9860355,
+        39.5758126
+      ]
+    },
+    {
+      "id": 101,
+      "name": "Centennial Hospital",
+      "coordinates": [
+        -104.8229718,
+        39.5934737
+      ]
+    },
+    {
+      "id": 102,
+      "name": "National Jewish Health",
+      "coordinates": [
+        -104.9423673,
+        39.7392248
+      ]
+    },
+    {
+      "id": 103,
+      "name": "Denver Health Medical Center",
+      "coordinates": [
+        -104.991165,
+        39.7272908
+      ]
+    },
+    {
+      "id": 104,
+      "name": "Colorado Acute Long Term Hospital",
+      "coordinates": [
+        -105.0358112,
+        39.7433317
+      ]
+    },
+    {
+      "id": 105,
+      "name": "Saint Anthony Medical Campus",
+      "coordinates": [
+        -105.1292145,
+        39.7144579
+      ]
+    },
+    {
+      "id": 106,
+      "name": "Children's Hospital Colorado South Campus, Highlands Ranch",
+      "coordinates": [
+        -105.0108748,
+        39.5571396
+      ]
+    },
+    {
+      "id": 107,
+      "name": "Saint Mary-Corwin Medical Center",
+      "coordinates": [
+        -104.6229583,
+        38.234213
+      ]
+    },
+    {
+      "id": 108,
+      "name": "Yampa Valley Medical Center",
+      "coordinates": [
+        -106.8148729,
+        40.4632255
+      ]
+    },
+    {
+      "id": 109,
+      "name": "Community Hospital",
+      "coordinates": [
+        -108.6149976,
+        39.1051147
+      ]
+    },
+    {
+      "id": 110,
+      "name": "Parkview Medical Center",
+      "coordinates": [
+        -104.6125714,
+        38.2816914
+      ]
+    },
+    {
+      "id": 111,
+      "name": "Century Cancer Centers - Denver",
+      "coordinates": [
+        -104.8982248,
+        39.6210284
+      ]
+    },
+    {
+      "id": 112,
+      "name": "Colorado Prostate Cancer Center",
+      "coordinates": [
+        -104.8984586,
+        39.6209779
+      ]
+    },
+    {
+      "id": 113,
+      "name": "Memory Care at The Gardens",
+      "coordinates": [
+        -104.8682022,
+        39.6719794
+      ]
+    },
+    {
+      "id": 114,
+      "name": "San Luis Valley Regional Medical Center",
+      "coordinates": [
+        -105.8825511,
+        37.471566
+      ]
+    },
+    {
+      "id": 115,
+      "name": "Montrose Memorial Hospital",
+      "coordinates": [
+        -107.8685613,
+        38.480772
+      ]
+    },
+    {
+      "id": 116,
+      "name": "East Morgan County Hospital",
+      "coordinates": [
+        -103.6491006,
+        40.2557369
+      ]
+    },
+    {
+      "id": 117,
+      "name": "McKee Medical Center",
+      "coordinates": [
+        -105.0515167,
+        40.4132902
+      ]
+    },
+    {
+      "id": 118,
+      "name": "Medical Center of the Rockies",
+      "coordinates": [
+        -104.997797,
+        40.4155035
+      ]
+    },
+    {
+      "id": 119,
+      "name": "AdventHealth Castle Rock Hospital",
+      "coordinates": [
+        -104.8847722,
+        39.4047596
+      ]
+    },
+    {
+      "id": 120,
+      "name": "Craig Hospital",
+      "coordinates": [
+        -104.9783557,
+        39.6540587
+      ]
+    },
+    {
+      "id": 121,
+      "name": "HealthOne Rose Medical Center",
+      "coordinates": [
+        -104.9334207,
+        39.7319764
+      ]
+    },
+    {
+      "id": 122,
+      "name": "Saint Paul Health Center",
+      "coordinates": [
+        -104.951599,
+        39.7430595
+      ]
+    },
+    {
+      "id": 123,
+      "name": "St. Thomas More Hospital",
+      "coordinates": [
+        -105.2298121,
+        38.454802
+      ]
+    },
+    {
+      "id": 124,
+      "name": "Vail Health Vail Campus",
+      "coordinates": [
+        -106.382329,
+        39.6434072
+      ]
+    },
+    {
+      "id": 125,
+      "name": "HealthOne Spalding Rehabilitation Hospital",
+      "coordinates": [
+        -104.827415,
+        39.7311127
+      ]
+    },
+    {
+      "id": 126,
+      "name": "The Medical Center of Aurora-North Campus",
+      "coordinates": [
+        -104.8268538,
+        39.727709
+      ]
+    },
+    {
+      "id": 127,
+      "name": "Weisbrod Memorial County Hospital",
+      "coordinates": [
+        -102.7848403,
+        38.4804084
+      ]
+    },
+    {
+      "id": 128,
+      "name": "Rio Grande Hospital",
+      "coordinates": [
+        -106.3641215,
+        37.6743038
+      ]
+    },
+    {
+      "id": 129,
+      "name": "Family Health West Hospital",
+      "coordinates": [
+        -108.7371509,
+        39.1636821
+      ]
+    },
+    {
+      "id": 130,
+      "name": "Melissa Memorial Hospital",
+      "coordinates": [
+        -102.2900983,
+        40.5793044
+      ]
+    },
+    {
+      "id": 131,
+      "name": "Lincoln Community Hospital",
+      "coordinates": [
+        -103.473377,
+        39.1382574
+      ]
+    },
+    {
+      "id": 132,
+      "name": "Rangely District Hospital",
+      "coordinates": [
+        -108.8069442,
+        40.0790668
+      ]
+    },
+    {
+      "id": 133,
+      "name": "Southeast Colorado Hospital",
+      "coordinates": [
+        -102.6123101,
+        37.4046657
+      ]
+    },
+    {
+      "id": 134,
+      "name": "Spanish Peaks Regional Health Center",
+      "coordinates": [
+        -104.8319641,
+        37.6004898
+      ]
+    },
+    {
+      "id": 135,
+      "name": "Grand River Medical Center",
+      "coordinates": [
+        -107.7705011,
+        39.5211102
+      ]
+    },
+    {
+      "id": 136,
+      "name": "Aspen Valley Hospital",
+      "coordinates": [
+        -106.839214,
+        39.1905889
+      ]
+    },
+    {
+      "id": 137,
+      "name": "Pioneers Medical Center",
+      "coordinates": [
+        -107.8812531,
+        40.0463826
+      ]
+    },
+    {
+      "id": 138,
+      "name": "Mind Springs Health",
+      "coordinates": [
+        -108.5210222,
+        39.0790675
+      ]
+    },
+    {
+      "id": 139,
+      "name": "Middle Park Medical Center",
+      "coordinates": [
+        -106.3905877,
+        40.0570711
+      ]
+    },
+    {
+      "id": 140,
+      "name": "UCHealth Broomfield Hospital",
+      "coordinates": [
+        -105.09145,
+        39.910515
+      ]
+    },
+    {
+      "id": 141,
+      "name": "Rocky Mountain Regional VA Medical Center (RMR VAMC)",
+      "coordinates": [
+        -104.8298733,
+        39.7434248
+      ]
+    },
+    {
+      "id": 142,
+      "name": "East Morgan County Hospital",
+      "coordinates": [
+        -103.6493223,
+        40.2556413
+      ]
+    },
+    {
+      "id": 143,
+      "name": "UCHealth Highlands Ranch Hospital",
+      "coordinates": [
+        -105.0058514,
+        39.5523313
+      ]
+    },
+    {
+      "id": 144,
+      "name": "Mercy Regional Medical Center",
+      "coordinates": [
+        -107.8258869,
+        37.2359426
+      ]
+    },
+    {
+      "id": 145,
+      "name": "Unnamed Hospital",
+      "coordinates": [
+        -107.8708117,
+        37.2481243
+      ]
+    },
+    {
+      "id": 146,
+      "name": "Animas Surgical Hospital",
+      "coordinates": [
+        -107.8709281,
+        37.2481043
+      ]
+    },
+    {
+      "id": 147,
+      "name": "Parkview - Pueblo West Emergency Services",
+      "coordinates": [
+        -104.7019188,
+        38.3287332
+      ]
+    },
+    {
+      "id": 148,
+      "name": "Cesar E. Chavez Family Medical Center",
+      "coordinates": [
+        -106.1105453,
+        37.7565431
+      ]
+    },
+    {
+      "id": 149,
+      "name": "UCHealth Grandview Hospital",
+      "coordinates": [
+        -104.8170433,
+        38.9109833
+      ]
+    },
+    {
+      "id": 150,
+      "name": "Denver Springs",
+      "coordinates": [
+        -104.8276312,
+        39.5565522
+      ]
+    },
+    {
+      "id": 151,
+      "name": "Community Hospital",
+      "coordinates": [
+        -108.6150357,
+        39.1051344
+      ]
+    },
+    {
+      "id": 152,
+      "name": "Highlands Behavioral Health",
+      "coordinates": [
+        -104.9079215,
+        39.562799
+      ]
+    },
+    {
+      "id": 153,
+      "name": "UCHealth Greeley Hospital",
+      "coordinates": [
+        -104.7901327,
+        40.3910085
+      ]
+    },
+    {
+      "id": 154,
+      "name": "Unnamed Hospital",
+      "coordinates": [
+        -106.1222789,
+        38.8306353
+      ]
+    },
+    {
+      "id": 155,
+      "name": "Reunion Rehabilitational Hospital Inverness",
+      "coordinates": [
+        -104.8644576,
+        39.5602848
+      ]
+    },
+    {
+      "id": 156,
+      "name": "Unnamed Hospital",
+      "coordinates": [
+        -104.6986148,
+        40.4496704
+      ]
+    },
+    {
+      "id": 157,
+      "name": "Unnamed Hospital",
+      "coordinates": [
+        -104.6979627,
+        40.4486208
+      ]
+    },
+    {
+      "id": 158,
+      "name": "Unnamed Hospital",
+      "coordinates": [
+        -104.7907745,
+        40.3905718
+      ]
+    },
+    {
+      "id": 159,
+      "name": "Centura ER",
+      "coordinates": [
+        -104.9749275,
+        40.0448592
+      ]
+    },
+    {
+      "id": 160,
+      "name": "Banner North Colorado Medical Center",
+      "coordinates": [
+        -104.7098492,
+        40.4148687
+      ]
+    },
+    {
+      "id": 161,
+      "name": "Lutheran Medical Center",
+      "coordinates": [
+        -105.1460967,
+        39.770889
+      ]
+    },
+    {
+      "id": 162,
+      "name": "Presbyterian / Saint Luke's Medical Center",
+      "coordinates": [
+        -104.9665996,
+        39.7471526
+      ]
+    },
+    {
+      "id": 163,
+      "name": "West Springs Hospital",
+      "coordinates": [
+        -108.5215557,
+        39.0784767
+      ]
+    },
+    {
+      "id": 164,
+      "name": "UC Health Harmony Campus",
+      "coordinates": [
+        -105.0343594,
+        40.5216029
+      ]
+    },
+    {
+      "id": 165,
+      "name": "Unnamed Hospital",
+      "coordinates": [
+        -104.7088849,
+        40.4142377
+      ]
+    }
+  ],
+  "connections": []
+}
