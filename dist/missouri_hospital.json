@@ -1,0 +1,1493 @@
+{
+  "hospitals": [
+    {
+      "id": 0,
+      "name": "Mercy Hospital Jefferson",
+      "coordinates": [
+        -90.3936491,
+        38.1967583
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Saint Josephs Hill Infirmary",
+      "coordinates": [
+        -90.6873838,
+        38.4139445
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Salem Memorial District Hospital",
+      "coordinates": [
+        -91.569934,
+        37.6598285
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Nevada State Hospital and Habilitation Center",
+      "coordinates": [
+        -94.3613388,
+        37.8611491
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Emmaus Sanitarium",
+      "coordinates": [
+        -90.9923639,
+        38.6436623
+      ]
+    },
+    {
+      "id": 5,
+      "name": "SSM Health Saint Louis University Hospital",
+      "coordinates": [
+        -90.2390457,
+        38.6229713
+      ]
+    },
+    {
+      "id": 6,
+      "name": "SSM Health Cardinal Glennon Children\u2019s Hospital",
+      "coordinates": [
+        -90.2392793,
+        38.6214405
+      ]
+    },
+    {
+      "id": 7,
+      "name": "General John J Pershing Memorial Hospital",
+      "coordinates": [
+        -93.0672597,
+        39.7746017
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Metropolitan Saint Louis Psychiatric Center",
+      "coordinates": [
+        -90.275933,
+        38.653886
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Siteman Cancer Center",
+      "coordinates": [
+        -90.2603994,
+        38.6380855
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Current River Nursing Center",
+      "coordinates": [
+        -90.8257799,
+        36.6261034
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Ellett Memorial Hospital",
+      "coordinates": [
+        -94.0213068,
+        38.1926557
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Progress West Hospital",
+      "coordinates": [
+        -90.6988026,
+        38.7157313
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Missouri Delta Medical Center",
+      "coordinates": [
+        -89.5834552,
+        36.889995
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Mercy Hopsital Stoddard",
+      "coordinates": [
+        -89.9682815,
+        36.8075292
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Twin Rivers Regional Medical Center",
+      "coordinates": [
+        -90.0411604,
+        36.2353437
+      ]
+    },
+    {
+      "id": 16,
+      "name": "SSM Health Medical Group",
+      "coordinates": [
+        -90.7010567,
+        38.7962716
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Unnamed Hospital",
+      "coordinates": [
+        -90.3028225,
+        37.5588419
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Henry Country Memorial Hospital",
+      "coordinates": [
+        -93.523335,
+        38.5329554
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Unnamed Hospital",
+      "coordinates": [
+        -90.2384538,
+        38.6245319
+      ]
+    },
+    {
+      "id": 20,
+      "name": "SSM Health Saint Joseph Hospital - Wentzville",
+      "coordinates": [
+        -90.880721,
+        38.8221504
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Southeast Behavioral Hospital",
+      "coordinates": [
+        -89.5657532,
+        37.2870739
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Saint Louis Forensic Treatment Center - South",
+      "coordinates": [
+        -90.2773097,
+        38.6049899
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Research Psychiatric Center",
+      "coordinates": [
+        -94.5600165,
+        39.0114033
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Poplar Bluff Regional Medical Center - Westwood",
+      "coordinates": [
+        -90.4261255,
+        36.7855811
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Mercy Rehabilitation Hospital Saint Louis",
+      "coordinates": [
+        -90.5340658,
+        38.6484715
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Mercy Rehabilitation Hospital Springfield",
+      "coordinates": [
+        -93.2356021,
+        37.104586
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Center for Behavioral Health \u2013 Osage Beach",
+      "coordinates": [
+        -92.6288893,
+        38.1349635
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Landmark Hospital Of Joplin",
+      "coordinates": [
+        -94.5383815,
+        37.0535382
+      ]
+    },
+    {
+      "id": 29,
+      "name": "General Leonard Wood Army Community Hospital",
+      "coordinates": [
+        -92.1148326,
+        37.7661646
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Unnamed Hospital",
+      "coordinates": [
+        -90.3581555,
+        38.5825181
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Emergency Department",
+      "coordinates": [
+        -91.874594,
+        36.7388103
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Behavioral Health Crisis Stabilization Center",
+      "coordinates": [
+        -91.8744923,
+        36.7373526
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Women's Center",
+      "coordinates": [
+        -91.8741492,
+        36.7389019
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Main Entrance",
+      "coordinates": [
+        -91.8757415,
+        36.7380782
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Discover Vision",
+      "coordinates": [
+        -94.4719738,
+        38.812255
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Unnamed Hospital",
+      "coordinates": [
+        -90.4740229,
+        38.5294014
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Unnamed Hospital",
+      "coordinates": [
+        -90.4739349,
+        38.5257324
+      ]
+    },
+    {
+      "id": 38,
+      "name": "North Kansas City Hospital",
+      "coordinates": [
+        -94.5512538,
+        39.1495359
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Saint Johns Mercy Medical Center",
+      "coordinates": [
+        -90.4461859,
+        38.6446398
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Missouri Baptist Medical Center",
+      "coordinates": [
+        -90.4466678,
+        38.6357276
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Saint Alexius Hospital",
+      "coordinates": [
+        -90.2286836,
+        38.5835851
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Saint Lukes",
+      "coordinates": [
+        -94.6525609,
+        39.2090465
+      ]
+    },
+    {
+      "id": 43,
+      "name": "SSM Health St. Mary's Hospital - St. Louis",
+      "coordinates": [
+        -90.3117407,
+        38.6322218
+      ]
+    },
+    {
+      "id": 44,
+      "name": "VA St. Louis Health Care System - Jefferson Barracks Division",
+      "coordinates": [
+        -90.2823137,
+        38.4935664
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Saint Joseph Medical Center",
+      "coordinates": [
+        -94.6037801,
+        38.9362545
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Saint Luke's North",
+      "coordinates": [
+        -94.6492396,
+        39.2485619
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Kindred Hospital Northland",
+      "coordinates": [
+        -94.5872903,
+        39.2190613
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Christian Hospital Northeast Campus",
+      "coordinates": [
+        -90.240909,
+        38.7761347
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Saint Luke's North Hospital - Smithville",
+      "coordinates": [
+        -94.5812197,
+        39.3765294
+      ]
+    },
+    {
+      "id": 50,
+      "name": "SSM Health St. Joseph Hospital - St. Charles",
+      "coordinates": [
+        -90.484889,
+        38.780928
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Western Missouri Medical Center",
+      "coordinates": [
+        -93.7217927,
+        38.765867
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Boone Hospital Center",
+      "coordinates": [
+        -92.3157375,
+        38.9491606
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Saint Mary's Medical Center",
+      "coordinates": [
+        -94.2644823,
+        39.0254188
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Crittenton Childrens Center",
+      "coordinates": [
+        -94.4816703,
+        38.9244479
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Belton Regional Medical Center",
+      "coordinates": [
+        -94.5033035,
+        38.8154157
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Unnamed Hospital",
+      "coordinates": [
+        -94.342826,
+        38.2486886
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Nevada Regional Medical Center",
+      "coordinates": [
+        -94.3610369,
+        37.8304637
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Barton County Memorial Hospital",
+      "coordinates": [
+        -94.3010158,
+        37.5057426
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Freeman Hospital West",
+      "coordinates": [
+        -94.5273555,
+        37.0523499
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Scotland County Hospital",
+      "coordinates": [
+        -92.1650714,
+        40.4646461
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Bothwell Regional Health Center",
+      "coordinates": [
+        -93.2210017,
+        38.6991721
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Pike County Memorial Hospital",
+      "coordinates": [
+        -91.0650635,
+        39.4402816
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Fulton Medical Center",
+      "coordinates": [
+        -91.9654505,
+        38.8434694
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Kindred Hospital Kansas City",
+      "coordinates": [
+        -94.5748393,
+        38.9684035
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Phelps County Regional Medical Center",
+      "coordinates": [
+        -91.7850216,
+        37.9531891
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Ozarks Healthcare",
+      "coordinates": [
+        -91.8749677,
+        36.7382714
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Southeast Hospital",
+      "coordinates": [
+        -89.5402562,
+        37.311339
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Harry S. Truman Memorial Veterans\u2019 Hospital",
+      "coordinates": [
+        -92.328845,
+        38.9363895
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Cass Regional Medical Center",
+      "coordinates": [
+        -94.377323,
+        38.6649269
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Harrison County Community Hospital",
+      "coordinates": [
+        -94.0254157,
+        40.2645329
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Mosaic Medical Center - Maryville",
+      "coordinates": [
+        -94.8761803,
+        40.3258399
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Centerpoint Medical Center",
+      "coordinates": [
+        -94.3489498,
+        39.0495688
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Kansas City VA Medical Center",
+      "coordinates": [
+        -94.52757,
+        39.064512
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Saint Alexius Hospital, Jefferson Campus",
+      "coordinates": [
+        -90.2272016,
+        38.5907369
+      ]
+    },
+    {
+      "id": 75,
+      "name": "SSM St. Clare Health Center",
+      "coordinates": [
+        -90.4759887,
+        38.527769
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Des Peres Hospital",
+      "coordinates": [
+        -90.4513239,
+        38.583124
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Barnes-Jewish St. Peters Hospital",
+      "coordinates": [
+        -90.5799674,
+        38.7941488
+      ]
+    },
+    {
+      "id": 78,
+      "name": "Northwest HealthCare",
+      "coordinates": [
+        -90.3363768,
+        38.7796735
+      ]
+    },
+    {
+      "id": 79,
+      "name": "Shriners Hospital for Children",
+      "coordinates": [
+        -90.2579442,
+        38.6323109
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Barnes-Jewish Hospital",
+      "coordinates": [
+        -90.2643614,
+        38.6371658
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Fitzgibbon Hospital",
+      "coordinates": [
+        -93.2134916,
+        39.0917218
+      ]
+    },
+    {
+      "id": 82,
+      "name": "Landmark Hospital Of Columbia",
+      "coordinates": [
+        -92.3111074,
+        38.9581455
+      ]
+    },
+    {
+      "id": 83,
+      "name": "St. Luke's Hospital",
+      "coordinates": [
+        -90.5036042,
+        38.6513714
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Cedar County Memorial Hospital",
+      "coordinates": [
+        -94.0172424,
+        37.860115
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Barnes-Jewish West County Hospital",
+      "coordinates": [
+        -90.4679071,
+        38.674927
+      ]
+    },
+    {
+      "id": 86,
+      "name": "John Cochran VA Medical Center",
+      "coordinates": [
+        -90.2315423,
+        38.6427861
+      ]
+    },
+    {
+      "id": 87,
+      "name": "Washington County Memorial Hospital",
+      "coordinates": [
+        -90.7726584,
+        37.9263261
+      ]
+    },
+    {
+      "id": 88,
+      "name": "Rehabilitation Institute of Saint Louis",
+      "coordinates": [
+        -90.2579493,
+        38.6372672
+      ]
+    },
+    {
+      "id": 89,
+      "name": "Mercy South",
+      "coordinates": [
+        -90.382291,
+        38.5061899
+      ]
+    },
+    {
+      "id": 90,
+      "name": "Saint Luke's Hospital of Kansas City",
+      "coordinates": [
+        -94.5910632,
+        39.0485238
+      ]
+    },
+    {
+      "id": 91,
+      "name": "Mercy Hospital Springfield",
+      "coordinates": [
+        -93.274259,
+        37.1782144
+      ]
+    },
+    {
+      "id": 92,
+      "name": "Cox North Hospital",
+      "coordinates": [
+        -93.2897311,
+        37.2249748
+      ]
+    },
+    {
+      "id": 93,
+      "name": "Saint Luke's East Hospital",
+      "coordinates": [
+        -94.3810466,
+        38.9414256
+      ]
+    },
+    {
+      "id": 94,
+      "name": "University Hospital",
+      "coordinates": [
+        -92.3277725,
+        38.9388957
+      ]
+    },
+    {
+      "id": 95,
+      "name": "Select Speciality Hospital",
+      "coordinates": [
+        -93.2663323,
+        37.1466128
+      ]
+    },
+    {
+      "id": 96,
+      "name": "Keene Street Medical Center",
+      "coordinates": [
+        -92.2883174,
+        38.9572694
+      ]
+    },
+    {
+      "id": 97,
+      "name": "Mercy Hospital Carthage",
+      "coordinates": [
+        -94.320655,
+        37.1365272
+      ]
+    },
+    {
+      "id": 98,
+      "name": "Unnamed Hospital",
+      "coordinates": [
+        -93.2237282,
+        36.6620396
+      ]
+    },
+    {
+      "id": 99,
+      "name": "Dermatology",
+      "coordinates": [
+        -91.8751312,
+        36.7395189
+      ]
+    },
+    {
+      "id": 100,
+      "name": "Research Medical Center Brookside Campus",
+      "coordinates": [
+        -94.5772432,
+        39.006181
+      ]
+    },
+    {
+      "id": 101,
+      "name": "Truman Medical Center, Hospital Hill",
+      "coordinates": [
+        -94.5750658,
+        39.0856299
+      ]
+    },
+    {
+      "id": 102,
+      "name": "Center for Behavioral Medicine",
+      "coordinates": [
+        -94.5722784,
+        39.0849851
+      ]
+    },
+    {
+      "id": 103,
+      "name": "DePaul Health Center",
+      "coordinates": [
+        -90.4337668,
+        38.7510733
+      ]
+    },
+    {
+      "id": 104,
+      "name": "Liberty Hospital",
+      "coordinates": [
+        -94.4232246,
+        39.2746524
+      ]
+    },
+    {
+      "id": 105,
+      "name": "Missouri Baptist Sullivan Hospital",
+      "coordinates": [
+        -91.1715307,
+        38.1963436
+      ]
+    },
+    {
+      "id": 106,
+      "name": "Cooper County Memorial Hospital",
+      "coordinates": [
+        -92.7403245,
+        38.9438291
+      ]
+    },
+    {
+      "id": 107,
+      "name": "Capital Region Medical Center",
+      "coordinates": [
+        -92.181343,
+        38.5659206
+      ]
+    },
+    {
+      "id": 108,
+      "name": "Mercy Hospital Lebanon",
+      "coordinates": [
+        -92.6340607,
+        37.6813389
+      ]
+    },
+    {
+      "id": 109,
+      "name": "Mercy Orthopedic Hospital Springfield",
+      "coordinates": [
+        -93.2348434,
+        37.099204
+      ]
+    },
+    {
+      "id": 110,
+      "name": "Cox Medical Center South",
+      "coordinates": [
+        -93.2806221,
+        37.1443962
+      ]
+    },
+    {
+      "id": 111,
+      "name": "St. Mary's Hospital",
+      "coordinates": [
+        -92.2222478,
+        38.5581498
+      ]
+    },
+    {
+      "id": 112,
+      "name": "Hannibal Regional Hospital",
+      "coordinates": [
+        -91.4482138,
+        39.710477
+      ]
+    },
+    {
+      "id": 113,
+      "name": "SSM Health Rehabilitation \u2013 Bridgeton",
+      "coordinates": [
+        -90.4363245,
+        38.7521398
+      ]
+    },
+    {
+      "id": 114,
+      "name": "Lee's Summit Medical Center",
+      "coordinates": [
+        -94.332937,
+        38.9036517
+      ]
+    },
+    {
+      "id": 115,
+      "name": "Truman Medical Center Lakewood",
+      "coordinates": [
+        -94.3949983,
+        38.9727714
+      ]
+    },
+    {
+      "id": 116,
+      "name": "Lafayette Regional Health Center",
+      "coordinates": [
+        -93.8769405,
+        39.1899505
+      ]
+    },
+    {
+      "id": 117,
+      "name": "Mercy Hospital Joplin",
+      "coordinates": [
+        -94.5097107,
+        37.0365499
+      ]
+    },
+    {
+      "id": 118,
+      "name": "Mosaic Life Care at St. Joseph",
+      "coordinates": [
+        -94.7703517,
+        39.7734171
+      ]
+    },
+    {
+      "id": 119,
+      "name": "Pemiscot County Memorial Hospital",
+      "coordinates": [
+        -89.7401986,
+        36.2378569
+      ]
+    },
+    {
+      "id": 120,
+      "name": "Southeast Health Center Of Ripley County",
+      "coordinates": [
+        -90.8262639,
+        36.6215361
+      ]
+    },
+    {
+      "id": 121,
+      "name": "Cox Medical Center Branson",
+      "coordinates": [
+        -93.221451,
+        36.6510765
+      ]
+    },
+    {
+      "id": 122,
+      "name": "Poplar Bluff Regional Medical Center",
+      "coordinates": [
+        -90.4423955,
+        36.7870508
+      ]
+    },
+    {
+      "id": 123,
+      "name": "Golden Valley Memorial Hospital",
+      "coordinates": [
+        -93.7685037,
+        38.3895779
+      ]
+    },
+    {
+      "id": 124,
+      "name": "Citizens Memorial Hospital",
+      "coordinates": [
+        -93.4197473,
+        37.6265236
+      ]
+    },
+    {
+      "id": 125,
+      "name": "SSM Health Saint Joseph Hospital - Lake Saint Louis",
+      "coordinates": [
+        -90.7752791,
+        38.8023056
+      ]
+    },
+    {
+      "id": 126,
+      "name": "Black River Medical Center",
+      "coordinates": [
+        -90.4571987,
+        36.7719225
+      ]
+    },
+    {
+      "id": 127,
+      "name": "Madison Medical Center",
+      "coordinates": [
+        -90.3029528,
+        37.5588842
+      ]
+    },
+    {
+      "id": 128,
+      "name": "Community Hospital - Fairfax",
+      "coordinates": [
+        -95.395017,
+        40.3495057
+      ]
+    },
+    {
+      "id": 129,
+      "name": "Putnam County Memorial Hospital",
+      "coordinates": [
+        -93.0058642,
+        40.4828235
+      ]
+    },
+    {
+      "id": 130,
+      "name": "Sullivan County Memorial Hospital",
+      "coordinates": [
+        -93.1336714,
+        40.2015799
+      ]
+    },
+    {
+      "id": 131,
+      "name": "Samaritan Memorial Hospital",
+      "coordinates": [
+        -92.4695527,
+        39.7477953
+      ]
+    },
+    {
+      "id": 132,
+      "name": "Parkland Health Center-Bonne Terre",
+      "coordinates": [
+        -90.532912,
+        37.9118593
+      ]
+    },
+    {
+      "id": 133,
+      "name": "Parkland Health Center - Farmington",
+      "coordinates": [
+        -90.4380396,
+        37.7819721
+      ]
+    },
+    {
+      "id": 134,
+      "name": "Mercy Hospital Aurora",
+      "coordinates": [
+        -93.7099215,
+        36.969585
+      ]
+    },
+    {
+      "id": 135,
+      "name": "Hermann Area District Hospital",
+      "coordinates": [
+        -91.4494309,
+        38.6931283
+      ]
+    },
+    {
+      "id": 136,
+      "name": "Mercy Hospital Cassville",
+      "coordinates": [
+        -93.8719055,
+        36.6745653
+      ]
+    },
+    {
+      "id": 137,
+      "name": "Mercy Hospital Lincoln Grounds",
+      "coordinates": [
+        -90.963487,
+        38.9830751
+      ]
+    },
+    {
+      "id": 138,
+      "name": "Hedrick Medical Center",
+      "coordinates": [
+        -93.5512688,
+        39.817013
+      ]
+    },
+    {
+      "id": 139,
+      "name": "Northwest Medical Center",
+      "coordinates": [
+        -94.3244653,
+        40.2529119
+      ]
+    },
+    {
+      "id": 140,
+      "name": "Cox Monett Hospital",
+      "coordinates": [
+        -93.9309852,
+        36.9269773
+      ]
+    },
+    {
+      "id": 141,
+      "name": "Sainte Genevieve County Memorial Hospital",
+      "coordinates": [
+        -90.0545374,
+        37.9694552
+      ]
+    },
+    {
+      "id": 142,
+      "name": "Freeman Neosho Hospital",
+      "coordinates": [
+        -94.3693346,
+        36.866547
+      ]
+    },
+    {
+      "id": 143,
+      "name": "I-70 Community Hospital",
+      "coordinates": [
+        -93.416579,
+        38.9784129
+      ]
+    },
+    {
+      "id": 144,
+      "name": "Mercy Saint Francis Hospital",
+      "coordinates": [
+        -91.7030431,
+        37.0026844
+      ]
+    },
+    {
+      "id": 145,
+      "name": "Iron County Medical Center",
+      "coordinates": [
+        -90.6450311,
+        37.6226786
+      ]
+    },
+    {
+      "id": 146,
+      "name": "Ranken Jordan Pediatric Bridge Hospital",
+      "coordinates": [
+        -90.415906,
+        38.71041
+      ]
+    },
+    {
+      "id": 147,
+      "name": "Carroll County Memorial Hospital",
+      "coordinates": [
+        -93.4919933,
+        39.3767409
+      ]
+    },
+    {
+      "id": 148,
+      "name": "Northwest Missouri Psychiatric Rehabilitation Center",
+      "coordinates": [
+        -94.8114856,
+        39.7805863
+      ]
+    },
+    {
+      "id": 149,
+      "name": "Ray County Memorial Hospital",
+      "coordinates": [
+        -93.9572656,
+        39.2638042
+      ]
+    },
+    {
+      "id": 150,
+      "name": "SMDH Grounds",
+      "coordinates": [
+        -91.5687385,
+        37.6604444
+      ]
+    },
+    {
+      "id": 151,
+      "name": "Southeast Missouri Mental Health Center",
+      "coordinates": [
+        -90.4368613,
+        37.7736926
+      ]
+    },
+    {
+      "id": 152,
+      "name": "Hawthorne Children's Psychiatric Hospital",
+      "coordinates": [
+        -90.3141389,
+        38.6862527
+      ]
+    },
+    {
+      "id": 153,
+      "name": "Saint Francis Medical Center",
+      "coordinates": [
+        -89.5713549,
+        37.3041199
+      ]
+    },
+    {
+      "id": 154,
+      "name": "Texas County Memorial Hospital",
+      "coordinates": [
+        -91.9606935,
+        37.3161093
+      ]
+    },
+    {
+      "id": 155,
+      "name": "Heartland Behavioral Health Services",
+      "coordinates": [
+        -94.3763651,
+        37.8461723
+      ]
+    },
+    {
+      "id": 156,
+      "name": "Unnamed Hospital",
+      "coordinates": [
+        -94.5294586,
+        39.1614562
+      ]
+    },
+    {
+      "id": 157,
+      "name": "John J. Pershing VA Medical Center",
+      "coordinates": [
+        -90.4169595,
+        36.7724532
+      ]
+    },
+    {
+      "id": 158,
+      "name": "Excelsior Springs Hospital",
+      "coordinates": [
+        -94.2387763,
+        39.3630125
+      ]
+    },
+    {
+      "id": 159,
+      "name": "Free Market Physician - Cassville",
+      "coordinates": [
+        -93.8662772,
+        36.6818896
+      ]
+    },
+    {
+      "id": 160,
+      "name": "Unnamed Hospital",
+      "coordinates": [
+        -94.346484,
+        38.2491854
+      ]
+    },
+    {
+      "id": 161,
+      "name": "Unnamed Hospital",
+      "coordinates": [
+        -93.2721366,
+        37.2486148
+      ]
+    },
+    {
+      "id": 162,
+      "name": "Unnamed Hospital",
+      "coordinates": [
+        -93.5818134,
+        40.0676586
+      ]
+    },
+    {
+      "id": 163,
+      "name": "Cameron Regional Medical Center",
+      "coordinates": [
+        -94.2176779,
+        39.7301594
+      ]
+    },
+    {
+      "id": 164,
+      "name": "Lake Regional Health System",
+      "coordinates": [
+        -92.6825094,
+        38.1206919
+      ]
+    },
+    {
+      "id": 165,
+      "name": "First Aid",
+      "coordinates": [
+        -93.3390152,
+        36.6683465
+      ]
+    },
+    {
+      "id": 166,
+      "name": "First Aid",
+      "coordinates": [
+        -93.2844373,
+        36.6437092
+      ]
+    },
+    {
+      "id": 167,
+      "name": "Perry County Memorial Hospital",
+      "coordinates": [
+        -89.8658911,
+        37.7325029
+      ]
+    },
+    {
+      "id": 168,
+      "name": "Freeman Hospital East",
+      "coordinates": [
+        -94.5069947,
+        37.0500364
+      ]
+    },
+    {
+      "id": 169,
+      "name": "Beacon Surgery Center",
+      "coordinates": [
+        -94.3609879,
+        38.9633404
+      ]
+    },
+    {
+      "id": 170,
+      "name": "SSM Health St. Mary's Hospital - Audrain",
+      "coordinates": [
+        -91.8776495,
+        39.1725187
+      ]
+    },
+    {
+      "id": 171,
+      "name": "Centerpointe Hospital Of Columbia",
+      "coordinates": [
+        -92.3218925,
+        39.0069558
+      ]
+    },
+    {
+      "id": 172,
+      "name": "Medical Equipment",
+      "coordinates": [
+        -91.8760349,
+        36.7392164
+      ]
+    },
+    {
+      "id": 173,
+      "name": "Royal Oaks Hospital",
+      "coordinates": [
+        -93.5183138,
+        38.5342292
+      ]
+    },
+    {
+      "id": 174,
+      "name": "Unnamed Hospital",
+      "coordinates": [
+        -94.4517114,
+        39.5643408
+      ]
+    },
+    {
+      "id": 175,
+      "name": "Landmark Hospital Of Columbia",
+      "coordinates": [
+        -92.3112114,
+        38.9583346
+      ]
+    },
+    {
+      "id": 176,
+      "name": "Fulton State Hospital",
+      "coordinates": [
+        -91.9370641,
+        38.8467033
+      ]
+    },
+    {
+      "id": 177,
+      "name": "SSM Health",
+      "coordinates": [
+        -90.8805531,
+        38.8220963
+      ]
+    },
+    {
+      "id": 178,
+      "name": "SSM Health Outpatient Center",
+      "coordinates": [
+        -90.8785213,
+        38.8242058
+      ]
+    },
+    {
+      "id": 179,
+      "name": "Mercy Hospital Carthage",
+      "coordinates": [
+        -94.3179356,
+        37.16281
+      ]
+    },
+    {
+      "id": 180,
+      "name": "Mercy Hospital Washington",
+      "coordinates": [
+        -91.0015886,
+        38.5526237
+      ]
+    },
+    {
+      "id": 181,
+      "name": "Saint Louis Children's Hospital",
+      "coordinates": [
+        -90.2649693,
+        38.6378291
+      ]
+    },
+    {
+      "id": 182,
+      "name": "Research Medical Center",
+      "coordinates": [
+        -94.5594746,
+        39.0099424
+      ]
+    },
+    {
+      "id": 183,
+      "name": "Moberly Regional Medical Center",
+      "coordinates": [
+        -92.4141838,
+        39.4252856
+      ]
+    },
+    {
+      "id": 184,
+      "name": "Children's Mercy Hospital",
+      "coordinates": [
+        -94.5773629,
+        39.0849249
+      ]
+    },
+    {
+      "id": 185,
+      "name": "Broadway Medical Plaza",
+      "coordinates": [
+        -92.3144654,
+        38.9507212
+      ]
+    }
+  ],
+  "connections": []
+}

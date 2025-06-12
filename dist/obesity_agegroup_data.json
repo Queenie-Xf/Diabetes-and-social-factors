@@ -1,0 +1,8084 @@
+{
+  "18\u201324": [
+    {
+      "state": "AK",
+      "value": 15.4,
+      "year": 2019
+    },
+    {
+      "state": "AL",
+      "value": 24.6,
+      "year": 2019
+    },
+    {
+      "state": "AR",
+      "value": 26.3,
+      "year": 2019
+    },
+    {
+      "state": "AZ",
+      "value": 20.1,
+      "year": 2019
+    },
+    {
+      "state": "CA",
+      "value": 13.2,
+      "year": 2019
+    },
+    {
+      "state": "CO",
+      "value": 12.0,
+      "year": 2019
+    },
+    {
+      "state": "CT",
+      "value": 18.1,
+      "year": 2019
+    },
+    {
+      "state": "DC",
+      "value": 12.9,
+      "year": 2019
+    },
+    {
+      "state": "DE",
+      "value": 23.0,
+      "year": 2019
+    },
+    {
+      "state": "FL",
+      "value": 15.4,
+      "year": 2019
+    },
+    {
+      "state": "GA",
+      "value": 15.9,
+      "year": 2019
+    },
+    {
+      "state": "GU",
+      "value": 22.2,
+      "year": 2019
+    },
+    {
+      "state": "HI",
+      "value": 18.9,
+      "year": 2019
+    },
+    {
+      "state": "IA",
+      "value": 17.7,
+      "year": 2019
+    },
+    {
+      "state": "ID",
+      "value": 19.2,
+      "year": 2019
+    },
+    {
+      "state": "IL",
+      "value": 15.4,
+      "year": 2019
+    },
+    {
+      "state": "IN",
+      "value": 25.1,
+      "year": 2019
+    },
+    {
+      "state": "KS",
+      "value": 23.8,
+      "year": 2019
+    },
+    {
+      "state": "KY",
+      "value": 24.5,
+      "year": 2019
+    },
+    {
+      "state": "LA",
+      "value": 23.1,
+      "year": 2019
+    },
+    {
+      "state": "MA",
+      "value": 15.2,
+      "year": 2019
+    },
+    {
+      "state": "MD",
+      "value": 20.8,
+      "year": 2019
+    },
+    {
+      "state": "ME",
+      "value": 18.3,
+      "year": 2019
+    },
+    {
+      "state": "MI",
+      "value": 20.0,
+      "year": 2019
+    },
+    {
+      "state": "MN",
+      "value": 19.5,
+      "year": 2019
+    },
+    {
+      "state": "MO",
+      "value": 22.9,
+      "year": 2019
+    },
+    {
+      "state": "MS",
+      "value": 27.8,
+      "year": 2019
+    },
+    {
+      "state": "MT",
+      "value": 17.3,
+      "year": 2019
+    },
+    {
+      "state": "NC",
+      "value": 22.9,
+      "year": 2019
+    },
+    {
+      "state": "ND",
+      "value": 16.7,
+      "year": 2019
+    },
+    {
+      "state": "NE",
+      "value": 19.6,
+      "year": 2019
+    },
+    {
+      "state": "NH",
+      "value": 23.5,
+      "year": 2019
+    },
+    {
+      "state": "NM",
+      "value": 22.5,
+      "year": 2019
+    },
+    {
+      "state": "NV",
+      "value": 17.7,
+      "year": 2019
+    },
+    {
+      "state": "NY",
+      "value": 16.6,
+      "year": 2019
+    },
+    {
+      "state": "OH",
+      "value": 20.8,
+      "year": 2019
+    },
+    {
+      "state": "OK",
+      "value": 26.6,
+      "year": 2019
+    },
+    {
+      "state": "OR",
+      "value": 18.3,
+      "year": 2019
+    },
+    {
+      "state": "PA",
+      "value": 23.3,
+      "year": 2019
+    },
+    {
+      "state": "PR",
+      "value": 21.2,
+      "year": 2019
+    },
+    {
+      "state": "RI",
+      "value": 20.7,
+      "year": 2019
+    },
+    {
+      "state": "SC",
+      "value": 27.0,
+      "year": 2019
+    },
+    {
+      "state": "SD",
+      "value": 17.3,
+      "year": 2019
+    },
+    {
+      "state": "TN",
+      "value": 21.2,
+      "year": 2019
+    },
+    {
+      "state": "TX",
+      "value": 19.9,
+      "year": 2019
+    },
+    {
+      "state": "US",
+      "value": 18.9,
+      "year": 2019
+    },
+    {
+      "state": "UT",
+      "value": 16.3,
+      "year": 2019
+    },
+    {
+      "state": "VA",
+      "value": 20.2,
+      "year": 2019
+    },
+    {
+      "state": "VT",
+      "value": 15.0,
+      "year": 2019
+    },
+    {
+      "state": "WA",
+      "value": 15.4,
+      "year": 2019
+    },
+    {
+      "state": "WI",
+      "value": 20.5,
+      "year": 2019
+    },
+    {
+      "state": "WV",
+      "value": 24.9,
+      "year": 2019
+    },
+    {
+      "state": "WY",
+      "value": 20.6,
+      "year": 2019
+    },
+    {
+      "state": "AK",
+      "value": 21.0,
+      "year": 2020
+    },
+    {
+      "state": "AL",
+      "value": 27.1,
+      "year": 2020
+    },
+    {
+      "state": "AR",
+      "value": 27.1,
+      "year": 2020
+    },
+    {
+      "state": "AZ",
+      "value": 20.5,
+      "year": 2020
+    },
+    {
+      "state": "CA",
+      "value": 18.7,
+      "year": 2020
+    },
+    {
+      "state": "CO",
+      "value": 14.4,
+      "year": 2020
+    },
+    {
+      "state": "CT",
+      "value": 18.2,
+      "year": 2020
+    },
+    {
+      "state": "DC",
+      "value": 23.8,
+      "year": 2020
+    },
+    {
+      "state": "DE",
+      "value": 18.2,
+      "year": 2020
+    },
+    {
+      "state": "FL",
+      "value": 15.0,
+      "year": 2020
+    },
+    {
+      "state": "GA",
+      "value": 24.2,
+      "year": 2020
+    },
+    {
+      "state": "GU",
+      "value": 29.2,
+      "year": 2020
+    },
+    {
+      "state": "HI",
+      "value": 15.8,
+      "year": 2020
+    },
+    {
+      "state": "IA",
+      "value": 23.1,
+      "year": 2020
+    },
+    {
+      "state": "ID",
+      "value": 21.1,
+      "year": 2020
+    },
+    {
+      "state": "IL",
+      "value": 20.1,
+      "year": 2020
+    },
+    {
+      "state": "IN",
+      "value": 23.8,
+      "year": 2020
+    },
+    {
+      "state": "KS",
+      "value": 21.4,
+      "year": 2020
+    },
+    {
+      "state": "KY",
+      "value": 26.4,
+      "year": 2020
+    },
+    {
+      "state": "LA",
+      "value": 25.8,
+      "year": 2020
+    },
+    {
+      "state": "MA",
+      "value": 12.7,
+      "year": 2020
+    },
+    {
+      "state": "MD",
+      "value": 14.8,
+      "year": 2020
+    },
+    {
+      "state": "ME",
+      "value": 18.7,
+      "year": 2020
+    },
+    {
+      "state": "MI",
+      "value": 19.1,
+      "year": 2020
+    },
+    {
+      "state": "MN",
+      "value": 16.9,
+      "year": 2020
+    },
+    {
+      "state": "MO",
+      "value": 19.2,
+      "year": 2020
+    },
+    {
+      "state": "MS",
+      "value": 27.5,
+      "year": 2020
+    },
+    {
+      "state": "MT",
+      "value": 14.3,
+      "year": 2020
+    },
+    {
+      "state": "NC",
+      "value": 21.3,
+      "year": 2020
+    },
+    {
+      "state": "ND",
+      "value": 21.4,
+      "year": 2020
+    },
+    {
+      "state": "NE",
+      "value": 19.6,
+      "year": 2020
+    },
+    {
+      "state": "NH",
+      "value": 10.9,
+      "year": 2020
+    },
+    {
+      "state": "NJ",
+      "value": 13.6,
+      "year": 2020
+    },
+    {
+      "state": "NM",
+      "value": 15.8,
+      "year": 2020
+    },
+    {
+      "state": "NV",
+      "value": 19.8,
+      "year": 2020
+    },
+    {
+      "state": "NY",
+      "value": 16.7,
+      "year": 2020
+    },
+    {
+      "state": "OH",
+      "value": 21.3,
+      "year": 2020
+    },
+    {
+      "state": "OK",
+      "value": 24.1,
+      "year": 2020
+    },
+    {
+      "state": "OR",
+      "value": 13.9,
+      "year": 2020
+    },
+    {
+      "state": "PA",
+      "value": 16.7,
+      "year": 2020
+    },
+    {
+      "state": "PR",
+      "value": 17.6,
+      "year": 2020
+    },
+    {
+      "state": "RI",
+      "value": 16.7,
+      "year": 2020
+    },
+    {
+      "state": "SC",
+      "value": 21.2,
+      "year": 2020
+    },
+    {
+      "state": "SD",
+      "value": 18.2,
+      "year": 2020
+    },
+    {
+      "state": "TN",
+      "value": 25.3,
+      "year": 2020
+    },
+    {
+      "state": "TX",
+      "value": 22.5,
+      "year": 2020
+    },
+    {
+      "state": "US",
+      "value": 19.5,
+      "year": 2020
+    },
+    {
+      "state": "UT",
+      "value": 16.3,
+      "year": 2020
+    },
+    {
+      "state": "VA",
+      "value": 19.7,
+      "year": 2020
+    },
+    {
+      "state": "VT",
+      "value": 15.2,
+      "year": 2020
+    },
+    {
+      "state": "WA",
+      "value": 17.3,
+      "year": 2020
+    },
+    {
+      "state": "WI",
+      "value": 19.8,
+      "year": 2020
+    },
+    {
+      "state": "WV",
+      "value": 20.4,
+      "year": 2020
+    },
+    {
+      "state": "WY",
+      "value": 19.6,
+      "year": 2020
+    },
+    {
+      "state": "AK",
+      "value": 26.1,
+      "year": 2021
+    },
+    {
+      "state": "AL",
+      "value": 25.4,
+      "year": 2021
+    },
+    {
+      "state": "AR",
+      "value": 28.4,
+      "year": 2021
+    },
+    {
+      "state": "AZ",
+      "value": 20.7,
+      "year": 2021
+    },
+    {
+      "state": "CA",
+      "value": 19.5,
+      "year": 2021
+    },
+    {
+      "state": "CO",
+      "value": 13.8,
+      "year": 2021
+    },
+    {
+      "state": "CT",
+      "value": 20.0,
+      "year": 2021
+    },
+    {
+      "state": "DC",
+      "value": 15.5,
+      "year": 2021
+    },
+    {
+      "state": "DE",
+      "value": 17.5,
+      "year": 2021
+    },
+    {
+      "state": "GA",
+      "value": 19.4,
+      "year": 2021
+    },
+    {
+      "state": "GU",
+      "value": 29.9,
+      "year": 2021
+    },
+    {
+      "state": "HI",
+      "value": 22.7,
+      "year": 2021
+    },
+    {
+      "state": "IA",
+      "value": 21.7,
+      "year": 2021
+    },
+    {
+      "state": "ID",
+      "value": 16.0,
+      "year": 2021
+    },
+    {
+      "state": "IL",
+      "value": 19.3,
+      "year": 2021
+    },
+    {
+      "state": "IN",
+      "value": 22.5,
+      "year": 2021
+    },
+    {
+      "state": "KS",
+      "value": 22.2,
+      "year": 2021
+    },
+    {
+      "state": "KY",
+      "value": 28.2,
+      "year": 2021
+    },
+    {
+      "state": "LA",
+      "value": 23.0,
+      "year": 2021
+    },
+    {
+      "state": "MA",
+      "value": 12.8,
+      "year": 2021
+    },
+    {
+      "state": "MD",
+      "value": 19.7,
+      "year": 2021
+    },
+    {
+      "state": "ME",
+      "value": 21.1,
+      "year": 2021
+    },
+    {
+      "state": "MI",
+      "value": 22.9,
+      "year": 2021
+    },
+    {
+      "state": "MN",
+      "value": 17.5,
+      "year": 2021
+    },
+    {
+      "state": "MO",
+      "value": 26.3,
+      "year": 2021
+    },
+    {
+      "state": "MS",
+      "value": 26.4,
+      "year": 2021
+    },
+    {
+      "state": "MT",
+      "value": 18.9,
+      "year": 2021
+    },
+    {
+      "state": "NC",
+      "value": 20.5,
+      "year": 2021
+    },
+    {
+      "state": "ND",
+      "value": 18.0,
+      "year": 2021
+    },
+    {
+      "state": "NE",
+      "value": 19.0,
+      "year": 2021
+    },
+    {
+      "state": "NH",
+      "value": 17.0,
+      "year": 2021
+    },
+    {
+      "state": "NJ",
+      "value": 15.8,
+      "year": 2021
+    },
+    {
+      "state": "NM",
+      "value": 23.0,
+      "year": 2021
+    },
+    {
+      "state": "NV",
+      "value": 21.0,
+      "year": 2021
+    },
+    {
+      "state": "NY",
+      "value": 20.8,
+      "year": 2021
+    },
+    {
+      "state": "OH",
+      "value": 21.8,
+      "year": 2021
+    },
+    {
+      "state": "OK",
+      "value": 30.6,
+      "year": 2021
+    },
+    {
+      "state": "OR",
+      "value": 16.9,
+      "year": 2021
+    },
+    {
+      "state": "PA",
+      "value": 19.0,
+      "year": 2021
+    },
+    {
+      "state": "PR",
+      "value": 23.4,
+      "year": 2021
+    },
+    {
+      "state": "RI",
+      "value": 20.1,
+      "year": 2021
+    },
+    {
+      "state": "SC",
+      "value": 21.0,
+      "year": 2021
+    },
+    {
+      "state": "SD",
+      "value": 20.8,
+      "year": 2021
+    },
+    {
+      "state": "TN",
+      "value": 25.8,
+      "year": 2021
+    },
+    {
+      "state": "TX",
+      "value": 22.1,
+      "year": 2021
+    },
+    {
+      "state": "US",
+      "value": 20.7,
+      "year": 2021
+    },
+    {
+      "state": "UT",
+      "value": 16.7,
+      "year": 2021
+    },
+    {
+      "state": "VA",
+      "value": 17.4,
+      "year": 2021
+    },
+    {
+      "state": "VI",
+      "value": 18.1,
+      "year": 2021
+    },
+    {
+      "state": "VT",
+      "value": 18.4,
+      "year": 2021
+    },
+    {
+      "state": "WA",
+      "value": 18.3,
+      "year": 2021
+    },
+    {
+      "state": "WI",
+      "value": 23.1,
+      "year": 2021
+    },
+    {
+      "state": "WV",
+      "value": 30.4,
+      "year": 2021
+    },
+    {
+      "state": "WY",
+      "value": 28.8,
+      "year": 2021
+    },
+    {
+      "state": "AK",
+      "value": 24.5,
+      "year": 2022
+    },
+    {
+      "state": "AL",
+      "value": 19.8,
+      "year": 2022
+    },
+    {
+      "state": "AR",
+      "value": 27.6,
+      "year": 2022
+    },
+    {
+      "state": "AZ",
+      "value": 23.3,
+      "year": 2022
+    },
+    {
+      "state": "CA",
+      "value": 13.8,
+      "year": 2022
+    },
+    {
+      "state": "CO",
+      "value": 15.0,
+      "year": 2022
+    },
+    {
+      "state": "CT",
+      "value": 19.6,
+      "year": 2022
+    },
+    {
+      "state": "DC",
+      "value": 23.3,
+      "year": 2022
+    },
+    {
+      "state": "DE",
+      "value": 28.0,
+      "year": 2022
+    },
+    {
+      "state": "FL",
+      "value": 21.2,
+      "year": 2022
+    },
+    {
+      "state": "GA",
+      "value": 25.9,
+      "year": 2022
+    },
+    {
+      "state": "GU",
+      "value": 25.4,
+      "year": 2022
+    },
+    {
+      "state": "HI",
+      "value": 21.8,
+      "year": 2022
+    },
+    {
+      "state": "IA",
+      "value": 23.5,
+      "year": 2022
+    },
+    {
+      "state": "ID",
+      "value": 25.0,
+      "year": 2022
+    },
+    {
+      "state": "IL",
+      "value": 19.9,
+      "year": 2022
+    },
+    {
+      "state": "IN",
+      "value": 25.3,
+      "year": 2022
+    },
+    {
+      "state": "KS",
+      "value": 24.5,
+      "year": 2022
+    },
+    {
+      "state": "KY",
+      "value": 24.1,
+      "year": 2022
+    },
+    {
+      "state": "LA",
+      "value": 23.3,
+      "year": 2022
+    },
+    {
+      "state": "MA",
+      "value": 14.0,
+      "year": 2022
+    },
+    {
+      "state": "MD",
+      "value": 22.3,
+      "year": 2022
+    },
+    {
+      "state": "ME",
+      "value": 23.4,
+      "year": 2022
+    },
+    {
+      "state": "MI",
+      "value": 19.7,
+      "year": 2022
+    },
+    {
+      "state": "MN",
+      "value": 19.6,
+      "year": 2022
+    },
+    {
+      "state": "MO",
+      "value": 22.1,
+      "year": 2022
+    },
+    {
+      "state": "MS",
+      "value": 26.3,
+      "year": 2022
+    },
+    {
+      "state": "MT",
+      "value": 18.3,
+      "year": 2022
+    },
+    {
+      "state": "NC",
+      "value": 21.1,
+      "year": 2022
+    },
+    {
+      "state": "ND",
+      "value": 23.1,
+      "year": 2022
+    },
+    {
+      "state": "NE",
+      "value": 23.0,
+      "year": 2022
+    },
+    {
+      "state": "NH",
+      "value": 15.8,
+      "year": 2022
+    },
+    {
+      "state": "NJ",
+      "value": 14.5,
+      "year": 2022
+    },
+    {
+      "state": "NM",
+      "value": 21.4,
+      "year": 2022
+    },
+    {
+      "state": "NV",
+      "value": 27.0,
+      "year": 2022
+    },
+    {
+      "state": "NY",
+      "value": 20.1,
+      "year": 2022
+    },
+    {
+      "state": "OH",
+      "value": 26.6,
+      "year": 2022
+    },
+    {
+      "state": "OK",
+      "value": 29.7,
+      "year": 2022
+    },
+    {
+      "state": "OR",
+      "value": 17.8,
+      "year": 2022
+    },
+    {
+      "state": "PA",
+      "value": 16.0,
+      "year": 2022
+    },
+    {
+      "state": "PR",
+      "value": 21.8,
+      "year": 2022
+    },
+    {
+      "state": "RI",
+      "value": 24.5,
+      "year": 2022
+    },
+    {
+      "state": "SC",
+      "value": 21.8,
+      "year": 2022
+    },
+    {
+      "state": "SD",
+      "value": 19.3,
+      "year": 2022
+    },
+    {
+      "state": "TN",
+      "value": 24.0,
+      "year": 2022
+    },
+    {
+      "state": "TX",
+      "value": 20.9,
+      "year": 2022
+    },
+    {
+      "state": "US",
+      "value": 20.5,
+      "year": 2022
+    },
+    {
+      "state": "UT",
+      "value": 18.2,
+      "year": 2022
+    },
+    {
+      "state": "VA",
+      "value": 17.9,
+      "year": 2022
+    },
+    {
+      "state": "VI",
+      "value": 3.8,
+      "year": 2022
+    },
+    {
+      "state": "VT",
+      "value": 14.7,
+      "year": 2022
+    },
+    {
+      "state": "WA",
+      "value": 21.1,
+      "year": 2022
+    },
+    {
+      "state": "WI",
+      "value": 26.0,
+      "year": 2022
+    },
+    {
+      "state": "WV",
+      "value": 30.8,
+      "year": 2022
+    },
+    {
+      "state": "WY",
+      "value": 22.2,
+      "year": 2022
+    },
+    {
+      "state": "AK",
+      "value": 22.8,
+      "year": 2023
+    },
+    {
+      "state": "AL",
+      "value": 26.1,
+      "year": 2023
+    },
+    {
+      "state": "AR",
+      "value": 29.2,
+      "year": 2023
+    },
+    {
+      "state": "AZ",
+      "value": 20.8,
+      "year": 2023
+    },
+    {
+      "state": "CA",
+      "value": 14.9,
+      "year": 2023
+    },
+    {
+      "state": "CO",
+      "value": 13.0,
+      "year": 2023
+    },
+    {
+      "state": "CT",
+      "value": 14.1,
+      "year": 2023
+    },
+    {
+      "state": "DC",
+      "value": 17.3,
+      "year": 2023
+    },
+    {
+      "state": "DE",
+      "value": 20.1,
+      "year": 2023
+    },
+    {
+      "state": "FL",
+      "value": 19.9,
+      "year": 2023
+    },
+    {
+      "state": "GA",
+      "value": 19.6,
+      "year": 2023
+    },
+    {
+      "state": "GU",
+      "value": 26.1,
+      "year": 2023
+    },
+    {
+      "state": "HI",
+      "value": 21.3,
+      "year": 2023
+    },
+    {
+      "state": "IA",
+      "value": 26.4,
+      "year": 2023
+    },
+    {
+      "state": "ID",
+      "value": 20.1,
+      "year": 2023
+    },
+    {
+      "state": "IL",
+      "value": 17.7,
+      "year": 2023
+    },
+    {
+      "state": "IN",
+      "value": 25.5,
+      "year": 2023
+    },
+    {
+      "state": "KS",
+      "value": 22.5,
+      "year": 2023
+    },
+    {
+      "state": "LA",
+      "value": 26.6,
+      "year": 2023
+    },
+    {
+      "state": "MA",
+      "value": 16.5,
+      "year": 2023
+    },
+    {
+      "state": "MD",
+      "value": 22.0,
+      "year": 2023
+    },
+    {
+      "state": "ME",
+      "value": 22.2,
+      "year": 2023
+    },
+    {
+      "state": "MI",
+      "value": 19.8,
+      "year": 2023
+    },
+    {
+      "state": "MN",
+      "value": 20.0,
+      "year": 2023
+    },
+    {
+      "state": "MO",
+      "value": 19.8,
+      "year": 2023
+    },
+    {
+      "state": "MS",
+      "value": 26.2,
+      "year": 2023
+    },
+    {
+      "state": "MT",
+      "value": 21.3,
+      "year": 2023
+    },
+    {
+      "state": "NC",
+      "value": 14.6,
+      "year": 2023
+    },
+    {
+      "state": "ND",
+      "value": 21.8,
+      "year": 2023
+    },
+    {
+      "state": "NE",
+      "value": 19.1,
+      "year": 2023
+    },
+    {
+      "state": "NH",
+      "value": 18.2,
+      "year": 2023
+    },
+    {
+      "state": "NJ",
+      "value": 14.3,
+      "year": 2023
+    },
+    {
+      "state": "NM",
+      "value": 25.9,
+      "year": 2023
+    },
+    {
+      "state": "NV",
+      "value": 18.8,
+      "year": 2023
+    },
+    {
+      "state": "NY",
+      "value": 15.8,
+      "year": 2023
+    },
+    {
+      "state": "OH",
+      "value": 20.6,
+      "year": 2023
+    },
+    {
+      "state": "OK",
+      "value": 26.8,
+      "year": 2023
+    },
+    {
+      "state": "OR",
+      "value": 21.3,
+      "year": 2023
+    },
+    {
+      "state": "PR",
+      "value": 21.5,
+      "year": 2023
+    },
+    {
+      "state": "RI",
+      "value": 19.3,
+      "year": 2023
+    },
+    {
+      "state": "SC",
+      "value": 26.0,
+      "year": 2023
+    },
+    {
+      "state": "SD",
+      "value": 23.1,
+      "year": 2023
+    },
+    {
+      "state": "TN",
+      "value": 27.6,
+      "year": 2023
+    },
+    {
+      "state": "TX",
+      "value": 20.4,
+      "year": 2023
+    },
+    {
+      "state": "US",
+      "value": 19.5,
+      "year": 2023
+    },
+    {
+      "state": "UT",
+      "value": 16.4,
+      "year": 2023
+    },
+    {
+      "state": "VA",
+      "value": 18.7,
+      "year": 2023
+    },
+    {
+      "state": "VI",
+      "value": 24.9,
+      "year": 2023
+    },
+    {
+      "state": "VT",
+      "value": 16.0,
+      "year": 2023
+    },
+    {
+      "state": "WA",
+      "value": 18.9,
+      "year": 2023
+    },
+    {
+      "state": "WI",
+      "value": 20.0,
+      "year": 2023
+    },
+    {
+      "state": "WV",
+      "value": 26.7,
+      "year": 2023
+    },
+    {
+      "state": "WY",
+      "value": 23.7,
+      "year": 2023
+    }
+  ],
+  "25\u201334": [
+    {
+      "state": "AK",
+      "value": 26.8,
+      "year": 2019
+    },
+    {
+      "state": "AL",
+      "value": 36.4,
+      "year": 2019
+    },
+    {
+      "state": "AR",
+      "value": 36.3,
+      "year": 2019
+    },
+    {
+      "state": "AZ",
+      "value": 29.8,
+      "year": 2019
+    },
+    {
+      "state": "CA",
+      "value": 24.0,
+      "year": 2019
+    },
+    {
+      "state": "CO",
+      "value": 22.6,
+      "year": 2019
+    },
+    {
+      "state": "CT",
+      "value": 28.2,
+      "year": 2019
+    },
+    {
+      "state": "DC",
+      "value": 18.7,
+      "year": 2019
+    },
+    {
+      "state": "DE",
+      "value": 31.6,
+      "year": 2019
+    },
+    {
+      "state": "FL",
+      "value": 21.8,
+      "year": 2019
+    },
+    {
+      "state": "GA",
+      "value": 31.4,
+      "year": 2019
+    },
+    {
+      "state": "GU",
+      "value": 38.4,
+      "year": 2019
+    },
+    {
+      "state": "HI",
+      "value": 29.5,
+      "year": 2019
+    },
+    {
+      "state": "IA",
+      "value": 31.7,
+      "year": 2019
+    },
+    {
+      "state": "ID",
+      "value": 29.1,
+      "year": 2019
+    },
+    {
+      "state": "IL",
+      "value": 29.8,
+      "year": 2019
+    },
+    {
+      "state": "IN",
+      "value": 35.2,
+      "year": 2019
+    },
+    {
+      "state": "KS",
+      "value": 34.3,
+      "year": 2019
+    },
+    {
+      "state": "KY",
+      "value": 37.8,
+      "year": 2019
+    },
+    {
+      "state": "LA",
+      "value": 34.9,
+      "year": 2019
+    },
+    {
+      "state": "MA",
+      "value": 20.5,
+      "year": 2019
+    },
+    {
+      "state": "MD",
+      "value": 30.2,
+      "year": 2019
+    },
+    {
+      "state": "ME",
+      "value": 28.9,
+      "year": 2019
+    },
+    {
+      "state": "MI",
+      "value": 33.9,
+      "year": 2019
+    },
+    {
+      "state": "MN",
+      "value": 26.8,
+      "year": 2019
+    },
+    {
+      "state": "MO",
+      "value": 33.9,
+      "year": 2019
+    },
+    {
+      "state": "MS",
+      "value": 37.2,
+      "year": 2019
+    },
+    {
+      "state": "MT",
+      "value": 23.9,
+      "year": 2019
+    },
+    {
+      "state": "NC",
+      "value": 30.5,
+      "year": 2019
+    },
+    {
+      "state": "ND",
+      "value": 32.9,
+      "year": 2019
+    },
+    {
+      "state": "NE",
+      "value": 30.6,
+      "year": 2019
+    },
+    {
+      "state": "NH",
+      "value": 32.3,
+      "year": 2019
+    },
+    {
+      "state": "NM",
+      "value": 38.1,
+      "year": 2019
+    },
+    {
+      "state": "NV",
+      "value": 29.8,
+      "year": 2019
+    },
+    {
+      "state": "NY",
+      "value": 23.0,
+      "year": 2019
+    },
+    {
+      "state": "OH",
+      "value": 34.4,
+      "year": 2019
+    },
+    {
+      "state": "OK",
+      "value": 35.1,
+      "year": 2019
+    },
+    {
+      "state": "OR",
+      "value": 26.2,
+      "year": 2019
+    },
+    {
+      "state": "PA",
+      "value": 27.7,
+      "year": 2019
+    },
+    {
+      "state": "PR",
+      "value": 33.7,
+      "year": 2019
+    },
+    {
+      "state": "RI",
+      "value": 32.2,
+      "year": 2019
+    },
+    {
+      "state": "SC",
+      "value": 35.5,
+      "year": 2019
+    },
+    {
+      "state": "SD",
+      "value": 32.7,
+      "year": 2019
+    },
+    {
+      "state": "TN",
+      "value": 38.7,
+      "year": 2019
+    },
+    {
+      "state": "TX",
+      "value": 36.0,
+      "year": 2019
+    },
+    {
+      "state": "US",
+      "value": 29.5,
+      "year": 2019
+    },
+    {
+      "state": "UT",
+      "value": 27.4,
+      "year": 2019
+    },
+    {
+      "state": "VA",
+      "value": 29.4,
+      "year": 2019
+    },
+    {
+      "state": "VT",
+      "value": 23.4,
+      "year": 2019
+    },
+    {
+      "state": "WA",
+      "value": 25.2,
+      "year": 2019
+    },
+    {
+      "state": "WI",
+      "value": 31.7,
+      "year": 2019
+    },
+    {
+      "state": "WV",
+      "value": 38.5,
+      "year": 2019
+    },
+    {
+      "state": "WY",
+      "value": 25.6,
+      "year": 2019
+    },
+    {
+      "state": "AK",
+      "value": 31.4,
+      "year": 2020
+    },
+    {
+      "state": "AL",
+      "value": 37.5,
+      "year": 2020
+    },
+    {
+      "state": "AR",
+      "value": 34.1,
+      "year": 2020
+    },
+    {
+      "state": "AZ",
+      "value": 32.4,
+      "year": 2020
+    },
+    {
+      "state": "CA",
+      "value": 31.2,
+      "year": 2020
+    },
+    {
+      "state": "CO",
+      "value": 23.2,
+      "year": 2020
+    },
+    {
+      "state": "CT",
+      "value": 28.4,
+      "year": 2020
+    },
+    {
+      "state": "DC",
+      "value": 16.7,
+      "year": 2020
+    },
+    {
+      "state": "DE",
+      "value": 35.6,
+      "year": 2020
+    },
+    {
+      "state": "FL",
+      "value": 28.0,
+      "year": 2020
+    },
+    {
+      "state": "GA",
+      "value": 32.1,
+      "year": 2020
+    },
+    {
+      "state": "GU",
+      "value": 32.5,
+      "year": 2020
+    },
+    {
+      "state": "HI",
+      "value": 25.1,
+      "year": 2020
+    },
+    {
+      "state": "IA",
+      "value": 36.8,
+      "year": 2020
+    },
+    {
+      "state": "ID",
+      "value": 31.3,
+      "year": 2020
+    },
+    {
+      "state": "IL",
+      "value": 28.6,
+      "year": 2020
+    },
+    {
+      "state": "IN",
+      "value": 38.0,
+      "year": 2020
+    },
+    {
+      "state": "KS",
+      "value": 36.6,
+      "year": 2020
+    },
+    {
+      "state": "KY",
+      "value": 35.0,
+      "year": 2020
+    },
+    {
+      "state": "LA",
+      "value": 37.2,
+      "year": 2020
+    },
+    {
+      "state": "MA",
+      "value": 21.4,
+      "year": 2020
+    },
+    {
+      "state": "MD",
+      "value": 31.3,
+      "year": 2020
+    },
+    {
+      "state": "ME",
+      "value": 31.0,
+      "year": 2020
+    },
+    {
+      "state": "MI",
+      "value": 33.2,
+      "year": 2020
+    },
+    {
+      "state": "MN",
+      "value": 28.3,
+      "year": 2020
+    },
+    {
+      "state": "MO",
+      "value": 35.0,
+      "year": 2020
+    },
+    {
+      "state": "MS",
+      "value": 38.9,
+      "year": 2020
+    },
+    {
+      "state": "MT",
+      "value": 27.8,
+      "year": 2020
+    },
+    {
+      "state": "NC",
+      "value": 29.7,
+      "year": 2020
+    },
+    {
+      "state": "ND",
+      "value": 32.2,
+      "year": 2020
+    },
+    {
+      "state": "NE",
+      "value": 31.5,
+      "year": 2020
+    },
+    {
+      "state": "NH",
+      "value": 32.3,
+      "year": 2020
+    },
+    {
+      "state": "NJ",
+      "value": 26.0,
+      "year": 2020
+    },
+    {
+      "state": "NM",
+      "value": 30.7,
+      "year": 2020
+    },
+    {
+      "state": "NV",
+      "value": 22.8,
+      "year": 2020
+    },
+    {
+      "state": "NY",
+      "value": 25.0,
+      "year": 2020
+    },
+    {
+      "state": "OH",
+      "value": 36.8,
+      "year": 2020
+    },
+    {
+      "state": "OK",
+      "value": 37.3,
+      "year": 2020
+    },
+    {
+      "state": "OR",
+      "value": 28.6,
+      "year": 2020
+    },
+    {
+      "state": "PA",
+      "value": 30.6,
+      "year": 2020
+    },
+    {
+      "state": "PR",
+      "value": 27.2,
+      "year": 2020
+    },
+    {
+      "state": "RI",
+      "value": 36.2,
+      "year": 2020
+    },
+    {
+      "state": "SC",
+      "value": 36.2,
+      "year": 2020
+    },
+    {
+      "state": "SD",
+      "value": 33.0,
+      "year": 2020
+    },
+    {
+      "state": "TN",
+      "value": 31.8,
+      "year": 2020
+    },
+    {
+      "state": "TX",
+      "value": 34.0,
+      "year": 2020
+    },
+    {
+      "state": "US",
+      "value": 30.9,
+      "year": 2020
+    },
+    {
+      "state": "UT",
+      "value": 27.1,
+      "year": 2020
+    },
+    {
+      "state": "VA",
+      "value": 31.8,
+      "year": 2020
+    },
+    {
+      "state": "VT",
+      "value": 26.6,
+      "year": 2020
+    },
+    {
+      "state": "WA",
+      "value": 25.8,
+      "year": 2020
+    },
+    {
+      "state": "WI",
+      "value": 28.3,
+      "year": 2020
+    },
+    {
+      "state": "WV",
+      "value": 40.3,
+      "year": 2020
+    },
+    {
+      "state": "WY",
+      "value": 28.6,
+      "year": 2020
+    },
+    {
+      "state": "AK",
+      "value": 32.2,
+      "year": 2021
+    },
+    {
+      "state": "AL",
+      "value": 46.6,
+      "year": 2021
+    },
+    {
+      "state": "AR",
+      "value": 37.6,
+      "year": 2021
+    },
+    {
+      "state": "AZ",
+      "value": 30.7,
+      "year": 2021
+    },
+    {
+      "state": "CA",
+      "value": 26.7,
+      "year": 2021
+    },
+    {
+      "state": "CO",
+      "value": 23.1,
+      "year": 2021
+    },
+    {
+      "state": "CT",
+      "value": 32.2,
+      "year": 2021
+    },
+    {
+      "state": "DC",
+      "value": 19.3,
+      "year": 2021
+    },
+    {
+      "state": "DE",
+      "value": 31.4,
+      "year": 2021
+    },
+    {
+      "state": "GA",
+      "value": 34.5,
+      "year": 2021
+    },
+    {
+      "state": "GU",
+      "value": 38.4,
+      "year": 2021
+    },
+    {
+      "state": "HI",
+      "value": 29.8,
+      "year": 2021
+    },
+    {
+      "state": "IA",
+      "value": 37.8,
+      "year": 2021
+    },
+    {
+      "state": "ID",
+      "value": 31.0,
+      "year": 2021
+    },
+    {
+      "state": "IL",
+      "value": 33.1,
+      "year": 2021
+    },
+    {
+      "state": "IN",
+      "value": 36.0,
+      "year": 2021
+    },
+    {
+      "state": "KS",
+      "value": 37.1,
+      "year": 2021
+    },
+    {
+      "state": "KY",
+      "value": 41.6,
+      "year": 2021
+    },
+    {
+      "state": "LA",
+      "value": 36.7,
+      "year": 2021
+    },
+    {
+      "state": "MA",
+      "value": 25.7,
+      "year": 2021
+    },
+    {
+      "state": "MD",
+      "value": 34.7,
+      "year": 2021
+    },
+    {
+      "state": "ME",
+      "value": 29.4,
+      "year": 2021
+    },
+    {
+      "state": "MI",
+      "value": 33.9,
+      "year": 2021
+    },
+    {
+      "state": "MN",
+      "value": 31.5,
+      "year": 2021
+    },
+    {
+      "state": "MO",
+      "value": 36.5,
+      "year": 2021
+    },
+    {
+      "state": "MS",
+      "value": 40.0,
+      "year": 2021
+    },
+    {
+      "state": "MT",
+      "value": 32.6,
+      "year": 2021
+    },
+    {
+      "state": "NC",
+      "value": 33.9,
+      "year": 2021
+    },
+    {
+      "state": "ND",
+      "value": 32.0,
+      "year": 2021
+    },
+    {
+      "state": "NE",
+      "value": 34.4,
+      "year": 2021
+    },
+    {
+      "state": "NH",
+      "value": 27.8,
+      "year": 2021
+    },
+    {
+      "state": "NJ",
+      "value": 28.1,
+      "year": 2021
+    },
+    {
+      "state": "NM",
+      "value": 36.9,
+      "year": 2021
+    },
+    {
+      "state": "NV",
+      "value": 31.8,
+      "year": 2021
+    },
+    {
+      "state": "NY",
+      "value": 26.5,
+      "year": 2021
+    },
+    {
+      "state": "OH",
+      "value": 36.5,
+      "year": 2021
+    },
+    {
+      "state": "OK",
+      "value": 36.4,
+      "year": 2021
+    },
+    {
+      "state": "OR",
+      "value": 33.4,
+      "year": 2021
+    },
+    {
+      "state": "PA",
+      "value": 29.1,
+      "year": 2021
+    },
+    {
+      "state": "PR",
+      "value": 34.1,
+      "year": 2021
+    },
+    {
+      "state": "RI",
+      "value": 31.1,
+      "year": 2021
+    },
+    {
+      "state": "SC",
+      "value": 36.3,
+      "year": 2021
+    },
+    {
+      "state": "SD",
+      "value": 43.9,
+      "year": 2021
+    },
+    {
+      "state": "TN",
+      "value": 33.4,
+      "year": 2021
+    },
+    {
+      "state": "TX",
+      "value": 35.1,
+      "year": 2021
+    },
+    {
+      "state": "US",
+      "value": 32.0,
+      "year": 2021
+    },
+    {
+      "state": "UT",
+      "value": 32.2,
+      "year": 2021
+    },
+    {
+      "state": "VA",
+      "value": 32.9,
+      "year": 2021
+    },
+    {
+      "state": "VI",
+      "value": 27.5,
+      "year": 2021
+    },
+    {
+      "state": "VT",
+      "value": 28.2,
+      "year": 2021
+    },
+    {
+      "state": "WA",
+      "value": 28.4,
+      "year": 2021
+    },
+    {
+      "state": "WI",
+      "value": 28.3,
+      "year": 2021
+    },
+    {
+      "state": "WV",
+      "value": 39.8,
+      "year": 2021
+    },
+    {
+      "state": "WY",
+      "value": 31.9,
+      "year": 2021
+    },
+    {
+      "state": "AK",
+      "value": 29.5,
+      "year": 2022
+    },
+    {
+      "state": "AL",
+      "value": 37.4,
+      "year": 2022
+    },
+    {
+      "state": "AR",
+      "value": 39.0,
+      "year": 2022
+    },
+    {
+      "state": "AZ",
+      "value": 33.9,
+      "year": 2022
+    },
+    {
+      "state": "CA",
+      "value": 28.4,
+      "year": 2022
+    },
+    {
+      "state": "CO",
+      "value": 23.9,
+      "year": 2022
+    },
+    {
+      "state": "CT",
+      "value": 32.1,
+      "year": 2022
+    },
+    {
+      "state": "DC",
+      "value": 16.5,
+      "year": 2022
+    },
+    {
+      "state": "DE",
+      "value": 34.3,
+      "year": 2022
+    },
+    {
+      "state": "FL",
+      "value": 28.1,
+      "year": 2022
+    },
+    {
+      "state": "GA",
+      "value": 36.3,
+      "year": 2022
+    },
+    {
+      "state": "GU",
+      "value": 41.1,
+      "year": 2022
+    },
+    {
+      "state": "HI",
+      "value": 26.2,
+      "year": 2022
+    },
+    {
+      "state": "IA",
+      "value": 37.2,
+      "year": 2022
+    },
+    {
+      "state": "ID",
+      "value": 29.4,
+      "year": 2022
+    },
+    {
+      "state": "IL",
+      "value": 30.0,
+      "year": 2022
+    },
+    {
+      "state": "IN",
+      "value": 38.3,
+      "year": 2022
+    },
+    {
+      "state": "KS",
+      "value": 37.2,
+      "year": 2022
+    },
+    {
+      "state": "KY",
+      "value": 38.7,
+      "year": 2022
+    },
+    {
+      "state": "LA",
+      "value": 38.6,
+      "year": 2022
+    },
+    {
+      "state": "MA",
+      "value": 26.6,
+      "year": 2022
+    },
+    {
+      "state": "MD",
+      "value": 31.8,
+      "year": 2022
+    },
+    {
+      "state": "ME",
+      "value": 35.5,
+      "year": 2022
+    },
+    {
+      "state": "MI",
+      "value": 33.2,
+      "year": 2022
+    },
+    {
+      "state": "MN",
+      "value": 33.0,
+      "year": 2022
+    },
+    {
+      "state": "MO",
+      "value": 34.2,
+      "year": 2022
+    },
+    {
+      "state": "MS",
+      "value": 43.3,
+      "year": 2022
+    },
+    {
+      "state": "MT",
+      "value": 30.2,
+      "year": 2022
+    },
+    {
+      "state": "NC",
+      "value": 32.7,
+      "year": 2022
+    },
+    {
+      "state": "ND",
+      "value": 31.0,
+      "year": 2022
+    },
+    {
+      "state": "NE",
+      "value": 29.3,
+      "year": 2022
+    },
+    {
+      "state": "NH",
+      "value": 26.6,
+      "year": 2022
+    },
+    {
+      "state": "NJ",
+      "value": 28.9,
+      "year": 2022
+    },
+    {
+      "state": "NM",
+      "value": 37.7,
+      "year": 2022
+    },
+    {
+      "state": "NV",
+      "value": 33.7,
+      "year": 2022
+    },
+    {
+      "state": "NY",
+      "value": 26.7,
+      "year": 2022
+    },
+    {
+      "state": "OH",
+      "value": 34.3,
+      "year": 2022
+    },
+    {
+      "state": "OK",
+      "value": 42.7,
+      "year": 2022
+    },
+    {
+      "state": "OR",
+      "value": 30.0,
+      "year": 2022
+    },
+    {
+      "state": "PA",
+      "value": 30.4,
+      "year": 2022
+    },
+    {
+      "state": "PR",
+      "value": 36.0,
+      "year": 2022
+    },
+    {
+      "state": "RI",
+      "value": 30.8,
+      "year": 2022
+    },
+    {
+      "state": "SC",
+      "value": 36.8,
+      "year": 2022
+    },
+    {
+      "state": "SD",
+      "value": 42.1,
+      "year": 2022
+    },
+    {
+      "state": "TN",
+      "value": 43.5,
+      "year": 2022
+    },
+    {
+      "state": "TX",
+      "value": 32.9,
+      "year": 2022
+    },
+    {
+      "state": "US",
+      "value": 32.2,
+      "year": 2022
+    },
+    {
+      "state": "UT",
+      "value": 30.9,
+      "year": 2022
+    },
+    {
+      "state": "VA",
+      "value": 33.3,
+      "year": 2022
+    },
+    {
+      "state": "VI",
+      "value": 22.4,
+      "year": 2022
+    },
+    {
+      "state": "VT",
+      "value": 26.1,
+      "year": 2022
+    },
+    {
+      "state": "WA",
+      "value": 32.3,
+      "year": 2022
+    },
+    {
+      "state": "WI",
+      "value": 36.8,
+      "year": 2022
+    },
+    {
+      "state": "WV",
+      "value": 42.0,
+      "year": 2022
+    },
+    {
+      "state": "WY",
+      "value": 39.0,
+      "year": 2022
+    },
+    {
+      "state": "AK",
+      "value": 31.8,
+      "year": 2023
+    },
+    {
+      "state": "AL",
+      "value": 39.5,
+      "year": 2023
+    },
+    {
+      "state": "AR",
+      "value": 41.4,
+      "year": 2023
+    },
+    {
+      "state": "AZ",
+      "value": 31.9,
+      "year": 2023
+    },
+    {
+      "state": "CA",
+      "value": 29.0,
+      "year": 2023
+    },
+    {
+      "state": "CO",
+      "value": 20.7,
+      "year": 2023
+    },
+    {
+      "state": "CT",
+      "value": 31.0,
+      "year": 2023
+    },
+    {
+      "state": "DC",
+      "value": 19.3,
+      "year": 2023
+    },
+    {
+      "state": "DE",
+      "value": 36.6,
+      "year": 2023
+    },
+    {
+      "state": "FL",
+      "value": 27.3,
+      "year": 2023
+    },
+    {
+      "state": "GA",
+      "value": 33.3,
+      "year": 2023
+    },
+    {
+      "state": "GU",
+      "value": 48.4,
+      "year": 2023
+    },
+    {
+      "state": "HI",
+      "value": 30.2,
+      "year": 2023
+    },
+    {
+      "state": "IA",
+      "value": 39.3,
+      "year": 2023
+    },
+    {
+      "state": "ID",
+      "value": 31.9,
+      "year": 2023
+    },
+    {
+      "state": "IL",
+      "value": 35.6,
+      "year": 2023
+    },
+    {
+      "state": "IN",
+      "value": 37.9,
+      "year": 2023
+    },
+    {
+      "state": "KS",
+      "value": 32.8,
+      "year": 2023
+    },
+    {
+      "state": "LA",
+      "value": 40.7,
+      "year": 2023
+    },
+    {
+      "state": "MA",
+      "value": 24.7,
+      "year": 2023
+    },
+    {
+      "state": "MD",
+      "value": 28.8,
+      "year": 2023
+    },
+    {
+      "state": "ME",
+      "value": 33.9,
+      "year": 2023
+    },
+    {
+      "state": "MI",
+      "value": 36.1,
+      "year": 2023
+    },
+    {
+      "state": "MN",
+      "value": 29.4,
+      "year": 2023
+    },
+    {
+      "state": "MO",
+      "value": 37.2,
+      "year": 2023
+    },
+    {
+      "state": "MS",
+      "value": 39.6,
+      "year": 2023
+    },
+    {
+      "state": "MT",
+      "value": 26.5,
+      "year": 2023
+    },
+    {
+      "state": "NC",
+      "value": 33.6,
+      "year": 2023
+    },
+    {
+      "state": "ND",
+      "value": 37.3,
+      "year": 2023
+    },
+    {
+      "state": "NE",
+      "value": 35.8,
+      "year": 2023
+    },
+    {
+      "state": "NH",
+      "value": 31.1,
+      "year": 2023
+    },
+    {
+      "state": "NJ",
+      "value": 27.8,
+      "year": 2023
+    },
+    {
+      "state": "NM",
+      "value": 42.9,
+      "year": 2023
+    },
+    {
+      "state": "NV",
+      "value": 28.6,
+      "year": 2023
+    },
+    {
+      "state": "NY",
+      "value": 26.5,
+      "year": 2023
+    },
+    {
+      "state": "OH",
+      "value": 34.3,
+      "year": 2023
+    },
+    {
+      "state": "OK",
+      "value": 41.8,
+      "year": 2023
+    },
+    {
+      "state": "OR",
+      "value": 30.2,
+      "year": 2023
+    },
+    {
+      "state": "PR",
+      "value": 33.4,
+      "year": 2023
+    },
+    {
+      "state": "RI",
+      "value": 33.0,
+      "year": 2023
+    },
+    {
+      "state": "SC",
+      "value": 33.3,
+      "year": 2023
+    },
+    {
+      "state": "SD",
+      "value": 35.9,
+      "year": 2023
+    },
+    {
+      "state": "TN",
+      "value": 40.5,
+      "year": 2023
+    },
+    {
+      "state": "TX",
+      "value": 34.0,
+      "year": 2023
+    },
+    {
+      "state": "US",
+      "value": 32.1,
+      "year": 2023
+    },
+    {
+      "state": "UT",
+      "value": 30.9,
+      "year": 2023
+    },
+    {
+      "state": "VA",
+      "value": 35.1,
+      "year": 2023
+    },
+    {
+      "state": "VI",
+      "value": 34.9,
+      "year": 2023
+    },
+    {
+      "state": "VT",
+      "value": 33.4,
+      "year": 2023
+    },
+    {
+      "state": "WA",
+      "value": 28.8,
+      "year": 2023
+    },
+    {
+      "state": "WI",
+      "value": 31.1,
+      "year": 2023
+    },
+    {
+      "state": "WV",
+      "value": 47.7,
+      "year": 2023
+    },
+    {
+      "state": "WY",
+      "value": 29.5,
+      "year": 2023
+    }
+  ],
+  "35\u201344": [
+    {
+      "state": "AK",
+      "value": 35.9,
+      "year": 2019
+    },
+    {
+      "state": "AL",
+      "value": 40.3,
+      "year": 2019
+    },
+    {
+      "state": "AR",
+      "value": 45.1,
+      "year": 2019
+    },
+    {
+      "state": "AZ",
+      "value": 35.7,
+      "year": 2019
+    },
+    {
+      "state": "CA",
+      "value": 30.4,
+      "year": 2019
+    },
+    {
+      "state": "CO",
+      "value": 25.4,
+      "year": 2019
+    },
+    {
+      "state": "CT",
+      "value": 32.0,
+      "year": 2019
+    },
+    {
+      "state": "DC",
+      "value": 21.1,
+      "year": 2019
+    },
+    {
+      "state": "DE",
+      "value": 35.8,
+      "year": 2019
+    },
+    {
+      "state": "FL",
+      "value": 26.8,
+      "year": 2019
+    },
+    {
+      "state": "GA",
+      "value": 40.1,
+      "year": 2019
+    },
+    {
+      "state": "GU",
+      "value": 39.3,
+      "year": 2019
+    },
+    {
+      "state": "HI",
+      "value": 28.7,
+      "year": 2019
+    },
+    {
+      "state": "IA",
+      "value": 38.9,
+      "year": 2019
+    },
+    {
+      "state": "ID",
+      "value": 30.2,
+      "year": 2019
+    },
+    {
+      "state": "IL",
+      "value": 34.9,
+      "year": 2019
+    },
+    {
+      "state": "IN",
+      "value": 37.4,
+      "year": 2019
+    },
+    {
+      "state": "KS",
+      "value": 39.8,
+      "year": 2019
+    },
+    {
+      "state": "KY",
+      "value": 37.1,
+      "year": 2019
+    },
+    {
+      "state": "LA",
+      "value": 40.9,
+      "year": 2019
+    },
+    {
+      "state": "MA",
+      "value": 31.7,
+      "year": 2019
+    },
+    {
+      "state": "MD",
+      "value": 34.1,
+      "year": 2019
+    },
+    {
+      "state": "ME",
+      "value": 34.2,
+      "year": 2019
+    },
+    {
+      "state": "MI",
+      "value": 37.3,
+      "year": 2019
+    },
+    {
+      "state": "MN",
+      "value": 31.9,
+      "year": 2019
+    },
+    {
+      "state": "MO",
+      "value": 34.3,
+      "year": 2019
+    },
+    {
+      "state": "MS",
+      "value": 46.9,
+      "year": 2019
+    },
+    {
+      "state": "MT",
+      "value": 29.4,
+      "year": 2019
+    },
+    {
+      "state": "NC",
+      "value": 37.4,
+      "year": 2019
+    },
+    {
+      "state": "ND",
+      "value": 46.5,
+      "year": 2019
+    },
+    {
+      "state": "NE",
+      "value": 39.3,
+      "year": 2019
+    },
+    {
+      "state": "NH",
+      "value": 37.6,
+      "year": 2019
+    },
+    {
+      "state": "NM",
+      "value": 32.9,
+      "year": 2019
+    },
+    {
+      "state": "NV",
+      "value": 34.8,
+      "year": 2019
+    },
+    {
+      "state": "NY",
+      "value": 31.8,
+      "year": 2019
+    },
+    {
+      "state": "OH",
+      "value": 34.7,
+      "year": 2019
+    },
+    {
+      "state": "OK",
+      "value": 39.9,
+      "year": 2019
+    },
+    {
+      "state": "OR",
+      "value": 30.9,
+      "year": 2019
+    },
+    {
+      "state": "PA",
+      "value": 37.4,
+      "year": 2019
+    },
+    {
+      "state": "PR",
+      "value": 35.5,
+      "year": 2019
+    },
+    {
+      "state": "RI",
+      "value": 31.1,
+      "year": 2019
+    },
+    {
+      "state": "SC",
+      "value": 38.3,
+      "year": 2019
+    },
+    {
+      "state": "SD",
+      "value": 34.7,
+      "year": 2019
+    },
+    {
+      "state": "TN",
+      "value": 39.8,
+      "year": 2019
+    },
+    {
+      "state": "TX",
+      "value": 37.9,
+      "year": 2019
+    },
+    {
+      "state": "US",
+      "value": 34.6,
+      "year": 2019
+    },
+    {
+      "state": "UT",
+      "value": 33.0,
+      "year": 2019
+    },
+    {
+      "state": "VA",
+      "value": 34.1,
+      "year": 2019
+    },
+    {
+      "state": "VT",
+      "value": 34.2,
+      "year": 2019
+    },
+    {
+      "state": "WA",
+      "value": 31.4,
+      "year": 2019
+    },
+    {
+      "state": "WI",
+      "value": 38.7,
+      "year": 2019
+    },
+    {
+      "state": "WV",
+      "value": 42.6,
+      "year": 2019
+    },
+    {
+      "state": "WY",
+      "value": 32.3,
+      "year": 2019
+    },
+    {
+      "state": "AK",
+      "value": 32.4,
+      "year": 2020
+    },
+    {
+      "state": "AL",
+      "value": 43.6,
+      "year": 2020
+    },
+    {
+      "state": "AR",
+      "value": 44.7,
+      "year": 2020
+    },
+    {
+      "state": "AZ",
+      "value": 36.5,
+      "year": 2020
+    },
+    {
+      "state": "CA",
+      "value": 32.4,
+      "year": 2020
+    },
+    {
+      "state": "CO",
+      "value": 26.6,
+      "year": 2020
+    },
+    {
+      "state": "CT",
+      "value": 34.1,
+      "year": 2020
+    },
+    {
+      "state": "DC",
+      "value": 25.6,
+      "year": 2020
+    },
+    {
+      "state": "DE",
+      "value": 39.8,
+      "year": 2020
+    },
+    {
+      "state": "FL",
+      "value": 30.7,
+      "year": 2020
+    },
+    {
+      "state": "GA",
+      "value": 36.7,
+      "year": 2020
+    },
+    {
+      "state": "GU",
+      "value": 41.2,
+      "year": 2020
+    },
+    {
+      "state": "HI",
+      "value": 29.5,
+      "year": 2020
+    },
+    {
+      "state": "IA",
+      "value": 41.7,
+      "year": 2020
+    },
+    {
+      "state": "ID",
+      "value": 31.6,
+      "year": 2020
+    },
+    {
+      "state": "IL",
+      "value": 37.3,
+      "year": 2020
+    },
+    {
+      "state": "IN",
+      "value": 40.9,
+      "year": 2020
+    },
+    {
+      "state": "KS",
+      "value": 39.9,
+      "year": 2020
+    },
+    {
+      "state": "KY",
+      "value": 41.4,
+      "year": 2020
+    },
+    {
+      "state": "LA",
+      "value": 42.6,
+      "year": 2020
+    },
+    {
+      "state": "MA",
+      "value": 28.9,
+      "year": 2020
+    },
+    {
+      "state": "MD",
+      "value": 34.9,
+      "year": 2020
+    },
+    {
+      "state": "ME",
+      "value": 36.0,
+      "year": 2020
+    },
+    {
+      "state": "MI",
+      "value": 40.2,
+      "year": 2020
+    },
+    {
+      "state": "MN",
+      "value": 33.2,
+      "year": 2020
+    },
+    {
+      "state": "MO",
+      "value": 37.0,
+      "year": 2020
+    },
+    {
+      "state": "MS",
+      "value": 44.2,
+      "year": 2020
+    },
+    {
+      "state": "MT",
+      "value": 34.4,
+      "year": 2020
+    },
+    {
+      "state": "NC",
+      "value": 38.1,
+      "year": 2020
+    },
+    {
+      "state": "ND",
+      "value": 37.2,
+      "year": 2020
+    },
+    {
+      "state": "NE",
+      "value": 35.2,
+      "year": 2020
+    },
+    {
+      "state": "NH",
+      "value": 37.8,
+      "year": 2020
+    },
+    {
+      "state": "NJ",
+      "value": 32.4,
+      "year": 2020
+    },
+    {
+      "state": "NM",
+      "value": 37.6,
+      "year": 2020
+    },
+    {
+      "state": "NV",
+      "value": 25.7,
+      "year": 2020
+    },
+    {
+      "state": "NY",
+      "value": 29.8,
+      "year": 2020
+    },
+    {
+      "state": "OH",
+      "value": 39.8,
+      "year": 2020
+    },
+    {
+      "state": "OK",
+      "value": 41.7,
+      "year": 2020
+    },
+    {
+      "state": "OR",
+      "value": 33.1,
+      "year": 2020
+    },
+    {
+      "state": "PA",
+      "value": 35.5,
+      "year": 2020
+    },
+    {
+      "state": "PR",
+      "value": 37.1,
+      "year": 2020
+    },
+    {
+      "state": "RI",
+      "value": 33.4,
+      "year": 2020
+    },
+    {
+      "state": "SC",
+      "value": 43.7,
+      "year": 2020
+    },
+    {
+      "state": "SD",
+      "value": 35.5,
+      "year": 2020
+    },
+    {
+      "state": "TN",
+      "value": 40.4,
+      "year": 2020
+    },
+    {
+      "state": "TX",
+      "value": 36.4,
+      "year": 2020
+    },
+    {
+      "state": "US",
+      "value": 35.5,
+      "year": 2020
+    },
+    {
+      "state": "UT",
+      "value": 33.4,
+      "year": 2020
+    },
+    {
+      "state": "VA",
+      "value": 36.0,
+      "year": 2020
+    },
+    {
+      "state": "VT",
+      "value": 27.2,
+      "year": 2020
+    },
+    {
+      "state": "WA",
+      "value": 31.9,
+      "year": 2020
+    },
+    {
+      "state": "WI",
+      "value": 40.9,
+      "year": 2020
+    },
+    {
+      "state": "WV",
+      "value": 47.1,
+      "year": 2020
+    },
+    {
+      "state": "WY",
+      "value": 32.7,
+      "year": 2020
+    },
+    {
+      "state": "AK",
+      "value": 33.3,
+      "year": 2021
+    },
+    {
+      "state": "AL",
+      "value": 45.8,
+      "year": 2021
+    },
+    {
+      "state": "AR",
+      "value": 45.3,
+      "year": 2021
+    },
+    {
+      "state": "AZ",
+      "value": 36.9,
+      "year": 2021
+    },
+    {
+      "state": "CA",
+      "value": 33.0,
+      "year": 2021
+    },
+    {
+      "state": "CO",
+      "value": 27.5,
+      "year": 2021
+    },
+    {
+      "state": "CT",
+      "value": 32.0,
+      "year": 2021
+    },
+    {
+      "state": "DC",
+      "value": 26.3,
+      "year": 2021
+    },
+    {
+      "state": "DE",
+      "value": 38.3,
+      "year": 2021
+    },
+    {
+      "state": "GA",
+      "value": 38.3,
+      "year": 2021
+    },
+    {
+      "state": "GU",
+      "value": 26.7,
+      "year": 2021
+    },
+    {
+      "state": "HI",
+      "value": 28.3,
+      "year": 2021
+    },
+    {
+      "state": "IA",
+      "value": 41.6,
+      "year": 2021
+    },
+    {
+      "state": "ID",
+      "value": 37.7,
+      "year": 2021
+    },
+    {
+      "state": "IL",
+      "value": 38.8,
+      "year": 2021
+    },
+    {
+      "state": "IN",
+      "value": 41.1,
+      "year": 2021
+    },
+    {
+      "state": "KS",
+      "value": 40.9,
+      "year": 2021
+    },
+    {
+      "state": "KY",
+      "value": 43.4,
+      "year": 2021
+    },
+    {
+      "state": "LA",
+      "value": 42.8,
+      "year": 2021
+    },
+    {
+      "state": "MA",
+      "value": 31.6,
+      "year": 2021
+    },
+    {
+      "state": "MD",
+      "value": 37.0,
+      "year": 2021
+    },
+    {
+      "state": "ME",
+      "value": 36.5,
+      "year": 2021
+    },
+    {
+      "state": "MI",
+      "value": 37.0,
+      "year": 2021
+    },
+    {
+      "state": "MN",
+      "value": 35.8,
+      "year": 2021
+    },
+    {
+      "state": "MO",
+      "value": 42.7,
+      "year": 2021
+    },
+    {
+      "state": "MS",
+      "value": 38.8,
+      "year": 2021
+    },
+    {
+      "state": "MT",
+      "value": 33.2,
+      "year": 2021
+    },
+    {
+      "state": "NC",
+      "value": 43.2,
+      "year": 2021
+    },
+    {
+      "state": "ND",
+      "value": 40.4,
+      "year": 2021
+    },
+    {
+      "state": "NE",
+      "value": 41.0,
+      "year": 2021
+    },
+    {
+      "state": "NH",
+      "value": 39.7,
+      "year": 2021
+    },
+    {
+      "state": "NJ",
+      "value": 32.8,
+      "year": 2021
+    },
+    {
+      "state": "NM",
+      "value": 40.3,
+      "year": 2021
+    },
+    {
+      "state": "NV",
+      "value": 35.9,
+      "year": 2021
+    },
+    {
+      "state": "NY",
+      "value": 29.6,
+      "year": 2021
+    },
+    {
+      "state": "OH",
+      "value": 42.1,
+      "year": 2021
+    },
+    {
+      "state": "OK",
+      "value": 46.0,
+      "year": 2021
+    },
+    {
+      "state": "OR",
+      "value": 33.7,
+      "year": 2021
+    },
+    {
+      "state": "PA",
+      "value": 37.4,
+      "year": 2021
+    },
+    {
+      "state": "PR",
+      "value": 40.2,
+      "year": 2021
+    },
+    {
+      "state": "RI",
+      "value": 35.1,
+      "year": 2021
+    },
+    {
+      "state": "SC",
+      "value": 40.6,
+      "year": 2021
+    },
+    {
+      "state": "SD",
+      "value": 40.7,
+      "year": 2021
+    },
+    {
+      "state": "TN",
+      "value": 41.0,
+      "year": 2021
+    },
+    {
+      "state": "TX",
+      "value": 38.2,
+      "year": 2021
+    },
+    {
+      "state": "US",
+      "value": 36.8,
+      "year": 2021
+    },
+    {
+      "state": "UT",
+      "value": 34.9,
+      "year": 2021
+    },
+    {
+      "state": "VA",
+      "value": 36.7,
+      "year": 2021
+    },
+    {
+      "state": "VI",
+      "value": 51.3,
+      "year": 2021
+    },
+    {
+      "state": "VT",
+      "value": 33.0,
+      "year": 2021
+    },
+    {
+      "state": "WA",
+      "value": 30.7,
+      "year": 2021
+    },
+    {
+      "state": "WI",
+      "value": 33.4,
+      "year": 2021
+    },
+    {
+      "state": "WV",
+      "value": 45.2,
+      "year": 2021
+    },
+    {
+      "state": "WY",
+      "value": 33.6,
+      "year": 2021
+    },
+    {
+      "state": "AK",
+      "value": 36.0,
+      "year": 2022
+    },
+    {
+      "state": "AL",
+      "value": 43.2,
+      "year": 2022
+    },
+    {
+      "state": "AR",
+      "value": 40.0,
+      "year": 2022
+    },
+    {
+      "state": "AZ",
+      "value": 34.9,
+      "year": 2022
+    },
+    {
+      "state": "CA",
+      "value": 34.8,
+      "year": 2022
+    },
+    {
+      "state": "CO",
+      "value": 25.3,
+      "year": 2022
+    },
+    {
+      "state": "CT",
+      "value": 32.8,
+      "year": 2022
+    },
+    {
+      "state": "DC",
+      "value": 24.6,
+      "year": 2022
+    },
+    {
+      "state": "DE",
+      "value": 42.4,
+      "year": 2022
+    },
+    {
+      "state": "FL",
+      "value": 35.8,
+      "year": 2022
+    },
+    {
+      "state": "GA",
+      "value": 44.0,
+      "year": 2022
+    },
+    {
+      "state": "GU",
+      "value": 40.1,
+      "year": 2022
+    },
+    {
+      "state": "HI",
+      "value": 33.9,
+      "year": 2022
+    },
+    {
+      "state": "IA",
+      "value": 41.3,
+      "year": 2022
+    },
+    {
+      "state": "ID",
+      "value": 38.2,
+      "year": 2022
+    },
+    {
+      "state": "IL",
+      "value": 32.3,
+      "year": 2022
+    },
+    {
+      "state": "IN",
+      "value": 44.0,
+      "year": 2022
+    },
+    {
+      "state": "KS",
+      "value": 42.6,
+      "year": 2022
+    },
+    {
+      "state": "KY",
+      "value": 43.8,
+      "year": 2022
+    },
+    {
+      "state": "LA",
+      "value": 47.0,
+      "year": 2022
+    },
+    {
+      "state": "MA",
+      "value": 28.2,
+      "year": 2022
+    },
+    {
+      "state": "MD",
+      "value": 38.9,
+      "year": 2022
+    },
+    {
+      "state": "ME",
+      "value": 34.2,
+      "year": 2022
+    },
+    {
+      "state": "MI",
+      "value": 38.9,
+      "year": 2022
+    },
+    {
+      "state": "MN",
+      "value": 35.6,
+      "year": 2022
+    },
+    {
+      "state": "MO",
+      "value": 41.6,
+      "year": 2022
+    },
+    {
+      "state": "MS",
+      "value": 41.9,
+      "year": 2022
+    },
+    {
+      "state": "MT",
+      "value": 34.6,
+      "year": 2022
+    },
+    {
+      "state": "NC",
+      "value": 35.7,
+      "year": 2022
+    },
+    {
+      "state": "ND",
+      "value": 42.4,
+      "year": 2022
+    },
+    {
+      "state": "NE",
+      "value": 41.5,
+      "year": 2022
+    },
+    {
+      "state": "NH",
+      "value": 34.5,
+      "year": 2022
+    },
+    {
+      "state": "NJ",
+      "value": 31.9,
+      "year": 2022
+    },
+    {
+      "state": "NM",
+      "value": 37.8,
+      "year": 2022
+    },
+    {
+      "state": "NV",
+      "value": 39.4,
+      "year": 2022
+    },
+    {
+      "state": "NY",
+      "value": 35.1,
+      "year": 2022
+    },
+    {
+      "state": "OH",
+      "value": 44.2,
+      "year": 2022
+    },
+    {
+      "state": "OK",
+      "value": 45.5,
+      "year": 2022
+    },
+    {
+      "state": "OR",
+      "value": 34.9,
+      "year": 2022
+    },
+    {
+      "state": "PA",
+      "value": 35.5,
+      "year": 2022
+    },
+    {
+      "state": "PR",
+      "value": 41.9,
+      "year": 2022
+    },
+    {
+      "state": "RI",
+      "value": 32.0,
+      "year": 2022
+    },
+    {
+      "state": "SC",
+      "value": 40.2,
+      "year": 2022
+    },
+    {
+      "state": "SD",
+      "value": 41.5,
+      "year": 2022
+    },
+    {
+      "state": "TN",
+      "value": 41.4,
+      "year": 2022
+    },
+    {
+      "state": "TX",
+      "value": 39.0,
+      "year": 2022
+    },
+    {
+      "state": "US",
+      "value": 37.4,
+      "year": 2022
+    },
+    {
+      "state": "UT",
+      "value": 34.7,
+      "year": 2022
+    },
+    {
+      "state": "VA",
+      "value": 41.1,
+      "year": 2022
+    },
+    {
+      "state": "VI",
+      "value": 30.2,
+      "year": 2022
+    },
+    {
+      "state": "VT",
+      "value": 29.8,
+      "year": 2022
+    },
+    {
+      "state": "WA",
+      "value": 33.1,
+      "year": 2022
+    },
+    {
+      "state": "WI",
+      "value": 44.1,
+      "year": 2022
+    },
+    {
+      "state": "WV",
+      "value": 44.0,
+      "year": 2022
+    },
+    {
+      "state": "WY",
+      "value": 35.2,
+      "year": 2022
+    },
+    {
+      "state": "AK",
+      "value": 39.2,
+      "year": 2023
+    },
+    {
+      "state": "AL",
+      "value": 45.3,
+      "year": 2023
+    },
+    {
+      "state": "AR",
+      "value": 46.5,
+      "year": 2023
+    },
+    {
+      "state": "AZ",
+      "value": 36.5,
+      "year": 2023
+    },
+    {
+      "state": "CA",
+      "value": 31.5,
+      "year": 2023
+    },
+    {
+      "state": "CO",
+      "value": 26.2,
+      "year": 2023
+    },
+    {
+      "state": "CT",
+      "value": 33.5,
+      "year": 2023
+    },
+    {
+      "state": "DC",
+      "value": 22.4,
+      "year": 2023
+    },
+    {
+      "state": "DE",
+      "value": 38.4,
+      "year": 2023
+    },
+    {
+      "state": "FL",
+      "value": 29.8,
+      "year": 2023
+    },
+    {
+      "state": "GA",
+      "value": 37.6,
+      "year": 2023
+    },
+    {
+      "state": "GU",
+      "value": 30.4,
+      "year": 2023
+    },
+    {
+      "state": "HI",
+      "value": 28.3,
+      "year": 2023
+    },
+    {
+      "state": "IA",
+      "value": 39.7,
+      "year": 2023
+    },
+    {
+      "state": "ID",
+      "value": 30.6,
+      "year": 2023
+    },
+    {
+      "state": "IL",
+      "value": 40.1,
+      "year": 2023
+    },
+    {
+      "state": "IN",
+      "value": 43.0,
+      "year": 2023
+    },
+    {
+      "state": "KS",
+      "value": 44.0,
+      "year": 2023
+    },
+    {
+      "state": "LA",
+      "value": 43.0,
+      "year": 2023
+    },
+    {
+      "state": "MA",
+      "value": 29.5,
+      "year": 2023
+    },
+    {
+      "state": "MD",
+      "value": 39.8,
+      "year": 2023
+    },
+    {
+      "state": "ME",
+      "value": 35.1,
+      "year": 2023
+    },
+    {
+      "state": "MI",
+      "value": 37.3,
+      "year": 2023
+    },
+    {
+      "state": "MN",
+      "value": 36.8,
+      "year": 2023
+    },
+    {
+      "state": "MO",
+      "value": 35.7,
+      "year": 2023
+    },
+    {
+      "state": "MS",
+      "value": 47.8,
+      "year": 2023
+    },
+    {
+      "state": "MT",
+      "value": 32.3,
+      "year": 2023
+    },
+    {
+      "state": "NC",
+      "value": 36.4,
+      "year": 2023
+    },
+    {
+      "state": "ND",
+      "value": 39.1,
+      "year": 2023
+    },
+    {
+      "state": "NE",
+      "value": 41.8,
+      "year": 2023
+    },
+    {
+      "state": "NH",
+      "value": 38.0,
+      "year": 2023
+    },
+    {
+      "state": "NJ",
+      "value": 31.5,
+      "year": 2023
+    },
+    {
+      "state": "NM",
+      "value": 41.5,
+      "year": 2023
+    },
+    {
+      "state": "NV",
+      "value": 35.4,
+      "year": 2023
+    },
+    {
+      "state": "NY",
+      "value": 31.2,
+      "year": 2023
+    },
+    {
+      "state": "OH",
+      "value": 42.0,
+      "year": 2023
+    },
+    {
+      "state": "OK",
+      "value": 41.8,
+      "year": 2023
+    },
+    {
+      "state": "OR",
+      "value": 35.2,
+      "year": 2023
+    },
+    {
+      "state": "PR",
+      "value": 44.1,
+      "year": 2023
+    },
+    {
+      "state": "RI",
+      "value": 38.6,
+      "year": 2023
+    },
+    {
+      "state": "SC",
+      "value": 37.5,
+      "year": 2023
+    },
+    {
+      "state": "SD",
+      "value": 39.9,
+      "year": 2023
+    },
+    {
+      "state": "TN",
+      "value": 40.6,
+      "year": 2023
+    },
+    {
+      "state": "TX",
+      "value": 36.5,
+      "year": 2023
+    },
+    {
+      "state": "US",
+      "value": 35.9,
+      "year": 2023
+    },
+    {
+      "state": "UT",
+      "value": 33.1,
+      "year": 2023
+    },
+    {
+      "state": "VA",
+      "value": 39.3,
+      "year": 2023
+    },
+    {
+      "state": "VI",
+      "value": 28.3,
+      "year": 2023
+    },
+    {
+      "state": "VT",
+      "value": 31.9,
+      "year": 2023
+    },
+    {
+      "state": "WA",
+      "value": 35.8,
+      "year": 2023
+    },
+    {
+      "state": "WI",
+      "value": 39.8,
+      "year": 2023
+    },
+    {
+      "state": "WV",
+      "value": 45.3,
+      "year": 2023
+    },
+    {
+      "state": "WY",
+      "value": 35.7,
+      "year": 2023
+    }
+  ],
+  "45\u201354": [
+    {
+      "state": "AK",
+      "value": 42.3,
+      "year": 2019
+    },
+    {
+      "state": "AL",
+      "value": 41.5,
+      "year": 2019
+    },
+    {
+      "state": "AR",
+      "value": 43.7,
+      "year": 2019
+    },
+    {
+      "state": "AZ",
+      "value": 39.9,
+      "year": 2019
+    },
+    {
+      "state": "CA",
+      "value": 33.7,
+      "year": 2019
+    },
+    {
+      "state": "CO",
+      "value": 27.4,
+      "year": 2019
+    },
+    {
+      "state": "CT",
+      "value": 33.1,
+      "year": 2019
+    },
+    {
+      "state": "DC",
+      "value": 28.8,
+      "year": 2019
+    },
+    {
+      "state": "DE",
+      "value": 40.5,
+      "year": 2019
+    },
+    {
+      "state": "FL",
+      "value": 33.8,
+      "year": 2019
+    },
+    {
+      "state": "GA",
+      "value": 37.8,
+      "year": 2019
+    },
+    {
+      "state": "GU",
+      "value": 39.4,
+      "year": 2019
+    },
+    {
+      "state": "HI",
+      "value": 29.8,
+      "year": 2019
+    },
+    {
+      "state": "IA",
+      "value": 41.4,
+      "year": 2019
+    },
+    {
+      "state": "ID",
+      "value": 34.2,
+      "year": 2019
+    },
+    {
+      "state": "IL",
+      "value": 35.3,
+      "year": 2019
+    },
+    {
+      "state": "IN",
+      "value": 39.4,
+      "year": 2019
+    },
+    {
+      "state": "KS",
+      "value": 39.7,
+      "year": 2019
+    },
+    {
+      "state": "KY",
+      "value": 44.0,
+      "year": 2019
+    },
+    {
+      "state": "LA",
+      "value": 43.7,
+      "year": 2019
+    },
+    {
+      "state": "MA",
+      "value": 26.1,
+      "year": 2019
+    },
+    {
+      "state": "MD",
+      "value": 38.4,
+      "year": 2019
+    },
+    {
+      "state": "ME",
+      "value": 40.3,
+      "year": 2019
+    },
+    {
+      "state": "MI",
+      "value": 43.6,
+      "year": 2019
+    },
+    {
+      "state": "MN",
+      "value": 34.7,
+      "year": 2019
+    },
+    {
+      "state": "MO",
+      "value": 46.6,
+      "year": 2019
+    },
+    {
+      "state": "MS",
+      "value": 50.1,
+      "year": 2019
+    },
+    {
+      "state": "MT",
+      "value": 33.7,
+      "year": 2019
+    },
+    {
+      "state": "NC",
+      "value": 42.2,
+      "year": 2019
+    },
+    {
+      "state": "ND",
+      "value": 42.1,
+      "year": 2019
+    },
+    {
+      "state": "NE",
+      "value": 38.5,
+      "year": 2019
+    },
+    {
+      "state": "NH",
+      "value": 34.6,
+      "year": 2019
+    },
+    {
+      "state": "NM",
+      "value": 39.7,
+      "year": 2019
+    },
+    {
+      "state": "NV",
+      "value": 35.5,
+      "year": 2019
+    },
+    {
+      "state": "NY",
+      "value": 32.9,
+      "year": 2019
+    },
+    {
+      "state": "OH",
+      "value": 39.7,
+      "year": 2019
+    },
+    {
+      "state": "OK",
+      "value": 45.3,
+      "year": 2019
+    },
+    {
+      "state": "OR",
+      "value": 35.5,
+      "year": 2019
+    },
+    {
+      "state": "PA",
+      "value": 38.7,
+      "year": 2019
+    },
+    {
+      "state": "PR",
+      "value": 38.8,
+      "year": 2019
+    },
+    {
+      "state": "RI",
+      "value": 31.9,
+      "year": 2019
+    },
+    {
+      "state": "SC",
+      "value": 39.3,
+      "year": 2019
+    },
+    {
+      "state": "SD",
+      "value": 37.5,
+      "year": 2019
+    },
+    {
+      "state": "TN",
+      "value": 42.5,
+      "year": 2019
+    },
+    {
+      "state": "TX",
+      "value": 40.8,
+      "year": 2019
+    },
+    {
+      "state": "US",
+      "value": 37.6,
+      "year": 2019
+    },
+    {
+      "state": "UT",
+      "value": 35.1,
+      "year": 2019
+    },
+    {
+      "state": "VA",
+      "value": 38.8,
+      "year": 2019
+    },
+    {
+      "state": "VT",
+      "value": 30.6,
+      "year": 2019
+    },
+    {
+      "state": "WA",
+      "value": 33.7,
+      "year": 2019
+    },
+    {
+      "state": "WI",
+      "value": 39.3,
+      "year": 2019
+    },
+    {
+      "state": "WV",
+      "value": 50.2,
+      "year": 2019
+    },
+    {
+      "state": "WY",
+      "value": 37.2,
+      "year": 2019
+    },
+    {
+      "state": "AK",
+      "value": 38.2,
+      "year": 2020
+    },
+    {
+      "state": "AL",
+      "value": 48.0,
+      "year": 2020
+    },
+    {
+      "state": "AR",
+      "value": 42.0,
+      "year": 2020
+    },
+    {
+      "state": "AZ",
+      "value": 37.1,
+      "year": 2020
+    },
+    {
+      "state": "CA",
+      "value": 33.9,
+      "year": 2020
+    },
+    {
+      "state": "CO",
+      "value": 26.6,
+      "year": 2020
+    },
+    {
+      "state": "CT",
+      "value": 34.2,
+      "year": 2020
+    },
+    {
+      "state": "DC",
+      "value": 32.2,
+      "year": 2020
+    },
+    {
+      "state": "DE",
+      "value": 42.0,
+      "year": 2020
+    },
+    {
+      "state": "FL",
+      "value": 33.8,
+      "year": 2020
+    },
+    {
+      "state": "GA",
+      "value": 42.8,
+      "year": 2020
+    },
+    {
+      "state": "GU",
+      "value": 38.1,
+      "year": 2020
+    },
+    {
+      "state": "HI",
+      "value": 30.9,
+      "year": 2020
+    },
+    {
+      "state": "IA",
+      "value": 44.8,
+      "year": 2020
+    },
+    {
+      "state": "ID",
+      "value": 40.4,
+      "year": 2020
+    },
+    {
+      "state": "IL",
+      "value": 35.0,
+      "year": 2020
+    },
+    {
+      "state": "IN",
+      "value": 40.2,
+      "year": 2020
+    },
+    {
+      "state": "KS",
+      "value": 43.3,
+      "year": 2020
+    },
+    {
+      "state": "KY",
+      "value": 46.6,
+      "year": 2020
+    },
+    {
+      "state": "LA",
+      "value": 44.5,
+      "year": 2020
+    },
+    {
+      "state": "MA",
+      "value": 26.1,
+      "year": 2020
+    },
+    {
+      "state": "MD",
+      "value": 36.9,
+      "year": 2020
+    },
+    {
+      "state": "ME",
+      "value": 37.3,
+      "year": 2020
+    },
+    {
+      "state": "MI",
+      "value": 42.8,
+      "year": 2020
+    },
+    {
+      "state": "MN",
+      "value": 37.2,
+      "year": 2020
+    },
+    {
+      "state": "MO",
+      "value": 40.2,
+      "year": 2020
+    },
+    {
+      "state": "MS",
+      "value": 49.0,
+      "year": 2020
+    },
+    {
+      "state": "MT",
+      "value": 30.2,
+      "year": 2020
+    },
+    {
+      "state": "NC",
+      "value": 40.8,
+      "year": 2020
+    },
+    {
+      "state": "ND",
+      "value": 39.3,
+      "year": 2020
+    },
+    {
+      "state": "NE",
+      "value": 41.8,
+      "year": 2020
+    },
+    {
+      "state": "NH",
+      "value": 36.4,
+      "year": 2020
+    },
+    {
+      "state": "NJ",
+      "value": 31.4,
+      "year": 2020
+    },
+    {
+      "state": "NM",
+      "value": 43.0,
+      "year": 2020
+    },
+    {
+      "state": "NV",
+      "value": 35.6,
+      "year": 2020
+    },
+    {
+      "state": "NY",
+      "value": 31.8,
+      "year": 2020
+    },
+    {
+      "state": "OH",
+      "value": 42.6,
+      "year": 2020
+    },
+    {
+      "state": "OK",
+      "value": 44.1,
+      "year": 2020
+    },
+    {
+      "state": "OR",
+      "value": 35.0,
+      "year": 2020
+    },
+    {
+      "state": "PA",
+      "value": 39.3,
+      "year": 2020
+    },
+    {
+      "state": "PR",
+      "value": 39.5,
+      "year": 2020
+    },
+    {
+      "state": "RI",
+      "value": 33.2,
+      "year": 2020
+    },
+    {
+      "state": "SC",
+      "value": 39.5,
+      "year": 2020
+    },
+    {
+      "state": "SD",
+      "value": 43.0,
+      "year": 2020
+    },
+    {
+      "state": "TN",
+      "value": 41.1,
+      "year": 2020
+    },
+    {
+      "state": "TX",
+      "value": 46.8,
+      "year": 2020
+    },
+    {
+      "state": "US",
+      "value": 38.1,
+      "year": 2020
+    },
+    {
+      "state": "UT",
+      "value": 34.0,
+      "year": 2020
+    },
+    {
+      "state": "VA",
+      "value": 38.6,
+      "year": 2020
+    },
+    {
+      "state": "VT",
+      "value": 31.1,
+      "year": 2020
+    },
+    {
+      "state": "WA",
+      "value": 32.8,
+      "year": 2020
+    },
+    {
+      "state": "WI",
+      "value": 36.8,
+      "year": 2020
+    },
+    {
+      "state": "WV",
+      "value": 49.2,
+      "year": 2020
+    },
+    {
+      "state": "WY",
+      "value": 39.9,
+      "year": 2020
+    },
+    {
+      "state": "AK",
+      "value": 42.9,
+      "year": 2021
+    },
+    {
+      "state": "AL",
+      "value": 46.4,
+      "year": 2021
+    },
+    {
+      "state": "AR",
+      "value": 45.3,
+      "year": 2021
+    },
+    {
+      "state": "AZ",
+      "value": 35.8,
+      "year": 2021
+    },
+    {
+      "state": "CA",
+      "value": 29.6,
+      "year": 2021
+    },
+    {
+      "state": "CO",
+      "value": 33.0,
+      "year": 2021
+    },
+    {
+      "state": "CT",
+      "value": 36.0,
+      "year": 2021
+    },
+    {
+      "state": "DC",
+      "value": 31.0,
+      "year": 2021
+    },
+    {
+      "state": "DE",
+      "value": 39.6,
+      "year": 2021
+    },
+    {
+      "state": "GA",
+      "value": 42.2,
+      "year": 2021
+    },
+    {
+      "state": "GU",
+      "value": 43.9,
+      "year": 2021
+    },
+    {
+      "state": "HI",
+      "value": 34.8,
+      "year": 2021
+    },
+    {
+      "state": "IA",
+      "value": 44.2,
+      "year": 2021
+    },
+    {
+      "state": "ID",
+      "value": 38.4,
+      "year": 2021
+    },
+    {
+      "state": "IL",
+      "value": 38.5,
+      "year": 2021
+    },
+    {
+      "state": "IN",
+      "value": 42.1,
+      "year": 2021
+    },
+    {
+      "state": "KS",
+      "value": 42.7,
+      "year": 2021
+    },
+    {
+      "state": "KY",
+      "value": 49.0,
+      "year": 2021
+    },
+    {
+      "state": "LA",
+      "value": 44.9,
+      "year": 2021
+    },
+    {
+      "state": "MA",
+      "value": 30.2,
+      "year": 2021
+    },
+    {
+      "state": "MD",
+      "value": 40.9,
+      "year": 2021
+    },
+    {
+      "state": "ME",
+      "value": 39.1,
+      "year": 2021
+    },
+    {
+      "state": "MI",
+      "value": 40.6,
+      "year": 2021
+    },
+    {
+      "state": "MN",
+      "value": 38.3,
+      "year": 2021
+    },
+    {
+      "state": "MO",
+      "value": 43.6,
+      "year": 2021
+    },
+    {
+      "state": "MS",
+      "value": 51.6,
+      "year": 2021
+    },
+    {
+      "state": "MT",
+      "value": 36.0,
+      "year": 2021
+    },
+    {
+      "state": "NC",
+      "value": 38.4,
+      "year": 2021
+    },
+    {
+      "state": "ND",
+      "value": 41.9,
+      "year": 2021
+    },
+    {
+      "state": "NE",
+      "value": 42.0,
+      "year": 2021
+    },
+    {
+      "state": "NH",
+      "value": 38.8,
+      "year": 2021
+    },
+    {
+      "state": "NJ",
+      "value": 28.7,
+      "year": 2021
+    },
+    {
+      "state": "NM",
+      "value": 47.8,
+      "year": 2021
+    },
+    {
+      "state": "NV",
+      "value": 39.9,
+      "year": 2021
+    },
+    {
+      "state": "NY",
+      "value": 35.2,
+      "year": 2021
+    },
+    {
+      "state": "OH",
+      "value": 45.7,
+      "year": 2021
+    },
+    {
+      "state": "OK",
+      "value": 50.0,
+      "year": 2021
+    },
+    {
+      "state": "OR",
+      "value": 37.5,
+      "year": 2021
+    },
+    {
+      "state": "PA",
+      "value": 40.9,
+      "year": 2021
+    },
+    {
+      "state": "PR",
+      "value": 45.4,
+      "year": 2021
+    },
+    {
+      "state": "RI",
+      "value": 36.8,
+      "year": 2021
+    },
+    {
+      "state": "SC",
+      "value": 47.1,
+      "year": 2021
+    },
+    {
+      "state": "SD",
+      "value": 45.3,
+      "year": 2021
+    },
+    {
+      "state": "TN",
+      "value": 43.3,
+      "year": 2021
+    },
+    {
+      "state": "TX",
+      "value": 47.6,
+      "year": 2021
+    },
+    {
+      "state": "US",
+      "value": 39.3,
+      "year": 2021
+    },
+    {
+      "state": "UT",
+      "value": 37.0,
+      "year": 2021
+    },
+    {
+      "state": "VA",
+      "value": 42.7,
+      "year": 2021
+    },
+    {
+      "state": "VI",
+      "value": 59.7,
+      "year": 2021
+    },
+    {
+      "state": "VT",
+      "value": 35.0,
+      "year": 2021
+    },
+    {
+      "state": "WA",
+      "value": 33.0,
+      "year": 2021
+    },
+    {
+      "state": "WI",
+      "value": 44.9,
+      "year": 2021
+    },
+    {
+      "state": "WV",
+      "value": 48.0,
+      "year": 2021
+    },
+    {
+      "state": "WY",
+      "value": 34.8,
+      "year": 2021
+    },
+    {
+      "state": "AK",
+      "value": 41.8,
+      "year": 2022
+    },
+    {
+      "state": "AL",
+      "value": 48.1,
+      "year": 2022
+    },
+    {
+      "state": "AR",
+      "value": 46.1,
+      "year": 2022
+    },
+    {
+      "state": "AZ",
+      "value": 41.6,
+      "year": 2022
+    },
+    {
+      "state": "CA",
+      "value": 32.7,
+      "year": 2022
+    },
+    {
+      "state": "CO",
+      "value": 29.2,
+      "year": 2022
+    },
+    {
+      "state": "CT",
+      "value": 33.7,
+      "year": 2022
+    },
+    {
+      "state": "DC",
+      "value": 31.0,
+      "year": 2022
+    },
+    {
+      "state": "DE",
+      "value": 44.6,
+      "year": 2022
+    },
+    {
+      "state": "FL",
+      "value": 38.7,
+      "year": 2022
+    },
+    {
+      "state": "GA",
+      "value": 42.9,
+      "year": 2022
+    },
+    {
+      "state": "GU",
+      "value": 42.5,
+      "year": 2022
+    },
+    {
+      "state": "HI",
+      "value": 34.4,
+      "year": 2022
+    },
+    {
+      "state": "IA",
+      "value": 46.8,
+      "year": 2022
+    },
+    {
+      "state": "ID",
+      "value": 39.0,
+      "year": 2022
+    },
+    {
+      "state": "IL",
+      "value": 40.0,
+      "year": 2022
+    },
+    {
+      "state": "IN",
+      "value": 46.1,
+      "year": 2022
+    },
+    {
+      "state": "KS",
+      "value": 38.7,
+      "year": 2022
+    },
+    {
+      "state": "KY",
+      "value": 42.6,
+      "year": 2022
+    },
+    {
+      "state": "LA",
+      "value": 48.2,
+      "year": 2022
+    },
+    {
+      "state": "MA",
+      "value": 31.4,
+      "year": 2022
+    },
+    {
+      "state": "MD",
+      "value": 40.0,
+      "year": 2022
+    },
+    {
+      "state": "ME",
+      "value": 37.8,
+      "year": 2022
+    },
+    {
+      "state": "MI",
+      "value": 39.9,
+      "year": 2022
+    },
+    {
+      "state": "MN",
+      "value": 40.2,
+      "year": 2022
+    },
+    {
+      "state": "MO",
+      "value": 45.7,
+      "year": 2022
+    },
+    {
+      "state": "MS",
+      "value": 48.3,
+      "year": 2022
+    },
+    {
+      "state": "MT",
+      "value": 33.9,
+      "year": 2022
+    },
+    {
+      "state": "NC",
+      "value": 43.1,
+      "year": 2022
+    },
+    {
+      "state": "ND",
+      "value": 42.9,
+      "year": 2022
+    },
+    {
+      "state": "NE",
+      "value": 44.2,
+      "year": 2022
+    },
+    {
+      "state": "NH",
+      "value": 37.0,
+      "year": 2022
+    },
+    {
+      "state": "NJ",
+      "value": 34.5,
+      "year": 2022
+    },
+    {
+      "state": "NM",
+      "value": 38.3,
+      "year": 2022
+    },
+    {
+      "state": "NV",
+      "value": 37.5,
+      "year": 2022
+    },
+    {
+      "state": "NY",
+      "value": 35.7,
+      "year": 2022
+    },
+    {
+      "state": "OH",
+      "value": 46.2,
+      "year": 2022
+    },
+    {
+      "state": "OK",
+      "value": 48.5,
+      "year": 2022
+    },
+    {
+      "state": "OR",
+      "value": 37.3,
+      "year": 2022
+    },
+    {
+      "state": "PA",
+      "value": 39.6,
+      "year": 2022
+    },
+    {
+      "state": "PR",
+      "value": 47.4,
+      "year": 2022
+    },
+    {
+      "state": "RI",
+      "value": 33.8,
+      "year": 2022
+    },
+    {
+      "state": "SC",
+      "value": 40.9,
+      "year": 2022
+    },
+    {
+      "state": "SD",
+      "value": 42.1,
+      "year": 2022
+    },
+    {
+      "state": "TN",
+      "value": 47.3,
+      "year": 2022
+    },
+    {
+      "state": "TX",
+      "value": 44.4,
+      "year": 2022
+    },
+    {
+      "state": "US",
+      "value": 39.9,
+      "year": 2022
+    },
+    {
+      "state": "UT",
+      "value": 37.5,
+      "year": 2022
+    },
+    {
+      "state": "VA",
+      "value": 40.3,
+      "year": 2022
+    },
+    {
+      "state": "VI",
+      "value": 42.5,
+      "year": 2022
+    },
+    {
+      "state": "VT",
+      "value": 31.6,
+      "year": 2022
+    },
+    {
+      "state": "WA",
+      "value": 38.3,
+      "year": 2022
+    },
+    {
+      "state": "WI",
+      "value": 43.0,
+      "year": 2022
+    },
+    {
+      "state": "WV",
+      "value": 48.3,
+      "year": 2022
+    },
+    {
+      "state": "WY",
+      "value": 41.2,
+      "year": 2022
+    },
+    {
+      "state": "AK",
+      "value": 43.9,
+      "year": 2023
+    },
+    {
+      "state": "AL",
+      "value": 44.6,
+      "year": 2023
+    },
+    {
+      "state": "AR",
+      "value": 43.4,
+      "year": 2023
+    },
+    {
+      "state": "AZ",
+      "value": 36.9,
+      "year": 2023
+    },
+    {
+      "state": "CA",
+      "value": 34.1,
+      "year": 2023
+    },
+    {
+      "state": "CO",
+      "value": 32.6,
+      "year": 2023
+    },
+    {
+      "state": "CT",
+      "value": 31.9,
+      "year": 2023
+    },
+    {
+      "state": "DC",
+      "value": 29.1,
+      "year": 2023
+    },
+    {
+      "state": "DE",
+      "value": 41.2,
+      "year": 2023
+    },
+    {
+      "state": "FL",
+      "value": 36.6,
+      "year": 2023
+    },
+    {
+      "state": "GA",
+      "value": 44.1,
+      "year": 2023
+    },
+    {
+      "state": "GU",
+      "value": 38.4,
+      "year": 2023
+    },
+    {
+      "state": "HI",
+      "value": 31.8,
+      "year": 2023
+    },
+    {
+      "state": "IA",
+      "value": 42.7,
+      "year": 2023
+    },
+    {
+      "state": "ID",
+      "value": 36.3,
+      "year": 2023
+    },
+    {
+      "state": "IL",
+      "value": 41.6,
+      "year": 2023
+    },
+    {
+      "state": "IN",
+      "value": 42.3,
+      "year": 2023
+    },
+    {
+      "state": "KS",
+      "value": 40.7,
+      "year": 2023
+    },
+    {
+      "state": "LA",
+      "value": 46.2,
+      "year": 2023
+    },
+    {
+      "state": "MA",
+      "value": 32.5,
+      "year": 2023
+    },
+    {
+      "state": "MD",
+      "value": 38.3,
+      "year": 2023
+    },
+    {
+      "state": "ME",
+      "value": 40.2,
+      "year": 2023
+    },
+    {
+      "state": "MI",
+      "value": 44.2,
+      "year": 2023
+    },
+    {
+      "state": "MN",
+      "value": 38.6,
+      "year": 2023
+    },
+    {
+      "state": "MO",
+      "value": 41.5,
+      "year": 2023
+    },
+    {
+      "state": "MS",
+      "value": 47.3,
+      "year": 2023
+    },
+    {
+      "state": "MT",
+      "value": 36.7,
+      "year": 2023
+    },
+    {
+      "state": "NC",
+      "value": 41.5,
+      "year": 2023
+    },
+    {
+      "state": "ND",
+      "value": 43.5,
+      "year": 2023
+    },
+    {
+      "state": "NE",
+      "value": 43.4,
+      "year": 2023
+    },
+    {
+      "state": "NH",
+      "value": 42.9,
+      "year": 2023
+    },
+    {
+      "state": "NJ",
+      "value": 34.7,
+      "year": 2023
+    },
+    {
+      "state": "NM",
+      "value": 44.2,
+      "year": 2023
+    },
+    {
+      "state": "NV",
+      "value": 37.8,
+      "year": 2023
+    },
+    {
+      "state": "NY",
+      "value": 32.8,
+      "year": 2023
+    },
+    {
+      "state": "OH",
+      "value": 44.2,
+      "year": 2023
+    },
+    {
+      "state": "OK",
+      "value": 46.8,
+      "year": 2023
+    },
+    {
+      "state": "OR",
+      "value": 40.6,
+      "year": 2023
+    },
+    {
+      "state": "PR",
+      "value": 49.5,
+      "year": 2023
+    },
+    {
+      "state": "RI",
+      "value": 39.2,
+      "year": 2023
+    },
+    {
+      "state": "SC",
+      "value": 44.1,
+      "year": 2023
+    },
+    {
+      "state": "SD",
+      "value": 42.4,
+      "year": 2023
+    },
+    {
+      "state": "TN",
+      "value": 42.9,
+      "year": 2023
+    },
+    {
+      "state": "TX",
+      "value": 42.9,
+      "year": 2023
+    },
+    {
+      "state": "US",
+      "value": 39.2,
+      "year": 2023
+    },
+    {
+      "state": "UT",
+      "value": 37.8,
+      "year": 2023
+    },
+    {
+      "state": "VA",
+      "value": 37.1,
+      "year": 2023
+    },
+    {
+      "state": "VI",
+      "value": 40.2,
+      "year": 2023
+    },
+    {
+      "state": "VT",
+      "value": 35.3,
+      "year": 2023
+    },
+    {
+      "state": "WA",
+      "value": 36.6,
+      "year": 2023
+    },
+    {
+      "state": "WI",
+      "value": 42.7,
+      "year": 2023
+    },
+    {
+      "state": "WV",
+      "value": 49.3,
+      "year": 2023
+    },
+    {
+      "state": "WY",
+      "value": 40.1,
+      "year": 2023
+    }
+  ],
+  "55\u201364": [
+    {
+      "state": "AK",
+      "value": 30.8,
+      "year": 2019
+    },
+    {
+      "state": "AL",
+      "value": 41.2,
+      "year": 2019
+    },
+    {
+      "state": "AR",
+      "value": 40.6,
+      "year": 2019
+    },
+    {
+      "state": "AZ",
+      "value": 38.5,
+      "year": 2019
+    },
+    {
+      "state": "CA",
+      "value": 29.8,
+      "year": 2019
+    },
+    {
+      "state": "CO",
+      "value": 27.8,
+      "year": 2019
+    },
+    {
+      "state": "CT",
+      "value": 32.5,
+      "year": 2019
+    },
+    {
+      "state": "DC",
+      "value": 40.5,
+      "year": 2019
+    },
+    {
+      "state": "DE",
+      "value": 40.1,
+      "year": 2019
+    },
+    {
+      "state": "FL",
+      "value": 31.3,
+      "year": 2019
+    },
+    {
+      "state": "GA",
+      "value": 41.0,
+      "year": 2019
+    },
+    {
+      "state": "GU",
+      "value": 31.1,
+      "year": 2019
+    },
+    {
+      "state": "HI",
+      "value": 25.1,
+      "year": 2019
+    },
+    {
+      "state": "IA",
+      "value": 39.1,
+      "year": 2019
+    },
+    {
+      "state": "ID",
+      "value": 33.3,
+      "year": 2019
+    },
+    {
+      "state": "IL",
+      "value": 37.5,
+      "year": 2019
+    },
+    {
+      "state": "IN",
+      "value": 39.7,
+      "year": 2019
+    },
+    {
+      "state": "KS",
+      "value": 40.1,
+      "year": 2019
+    },
+    {
+      "state": "KY",
+      "value": 40.8,
+      "year": 2019
+    },
+    {
+      "state": "LA",
+      "value": 41.9,
+      "year": 2019
+    },
+    {
+      "state": "MA",
+      "value": 28.7,
+      "year": 2019
+    },
+    {
+      "state": "MD",
+      "value": 36.5,
+      "year": 2019
+    },
+    {
+      "state": "ME",
+      "value": 36.3,
+      "year": 2019
+    },
+    {
+      "state": "MI",
+      "value": 43.1,
+      "year": 2019
+    },
+    {
+      "state": "MN",
+      "value": 35.6,
+      "year": 2019
+    },
+    {
+      "state": "MO",
+      "value": 37.7,
+      "year": 2019
+    },
+    {
+      "state": "MS",
+      "value": 45.9,
+      "year": 2019
+    },
+    {
+      "state": "MT",
+      "value": 33.2,
+      "year": 2019
+    },
+    {
+      "state": "NC",
+      "value": 37.7,
+      "year": 2019
+    },
+    {
+      "state": "ND",
+      "value": 37.4,
+      "year": 2019
+    },
+    {
+      "state": "NE",
+      "value": 40.4,
+      "year": 2019
+    },
+    {
+      "state": "NH",
+      "value": 33.5,
+      "year": 2019
+    },
+    {
+      "state": "NM",
+      "value": 33.5,
+      "year": 2019
+    },
+    {
+      "state": "NV",
+      "value": 33.5,
+      "year": 2019
+    },
+    {
+      "state": "NY",
+      "value": 32.0,
+      "year": 2019
+    },
+    {
+      "state": "OH",
+      "value": 42.2,
+      "year": 2019
+    },
+    {
+      "state": "OK",
+      "value": 43.1,
+      "year": 2019
+    },
+    {
+      "state": "OR",
+      "value": 31.8,
+      "year": 2019
+    },
+    {
+      "state": "PA",
+      "value": 37.8,
+      "year": 2019
+    },
+    {
+      "state": "PR",
+      "value": 38.8,
+      "year": 2019
+    },
+    {
+      "state": "RI",
+      "value": 33.4,
+      "year": 2019
+    },
+    {
+      "state": "SC",
+      "value": 38.6,
+      "year": 2019
+    },
+    {
+      "state": "SD",
+      "value": 43.9,
+      "year": 2019
+    },
+    {
+      "state": "TN",
+      "value": 41.6,
+      "year": 2019
+    },
+    {
+      "state": "TX",
+      "value": 36.6,
+      "year": 2019
+    },
+    {
+      "state": "US",
+      "value": 36.0,
+      "year": 2019
+    },
+    {
+      "state": "UT",
+      "value": 34.7,
+      "year": 2019
+    },
+    {
+      "state": "VA",
+      "value": 36.8,
+      "year": 2019
+    },
+    {
+      "state": "VT",
+      "value": 30.3,
+      "year": 2019
+    },
+    {
+      "state": "WA",
+      "value": 33.1,
+      "year": 2019
+    },
+    {
+      "state": "WI",
+      "value": 39.0,
+      "year": 2019
+    },
+    {
+      "state": "WV",
+      "value": 43.7,
+      "year": 2019
+    },
+    {
+      "state": "WY",
+      "value": 32.5,
+      "year": 2019
+    },
+    {
+      "state": "AK",
+      "value": 33.7,
+      "year": 2020
+    },
+    {
+      "state": "AL",
+      "value": 42.0,
+      "year": 2020
+    },
+    {
+      "state": "AR",
+      "value": 41.5,
+      "year": 2020
+    },
+    {
+      "state": "AZ",
+      "value": 33.8,
+      "year": 2020
+    },
+    {
+      "state": "CA",
+      "value": 36.5,
+      "year": 2020
+    },
+    {
+      "state": "CO",
+      "value": 28.0,
+      "year": 2020
+    },
+    {
+      "state": "CT",
+      "value": 31.2,
+      "year": 2020
+    },
+    {
+      "state": "DC",
+      "value": 31.4,
+      "year": 2020
+    },
+    {
+      "state": "DE",
+      "value": 39.9,
+      "year": 2020
+    },
+    {
+      "state": "FL",
+      "value": 32.1,
+      "year": 2020
+    },
+    {
+      "state": "GA",
+      "value": 35.7,
+      "year": 2020
+    },
+    {
+      "state": "GU",
+      "value": 26.6,
+      "year": 2020
+    },
+    {
+      "state": "HI",
+      "value": 27.8,
+      "year": 2020
+    },
+    {
+      "state": "IA",
+      "value": 41.7,
+      "year": 2020
+    },
+    {
+      "state": "ID",
+      "value": 33.3,
+      "year": 2020
+    },
+    {
+      "state": "IL",
+      "value": 39.1,
+      "year": 2020
+    },
+    {
+      "state": "IN",
+      "value": 42.5,
+      "year": 2020
+    },
+    {
+      "state": "KS",
+      "value": 39.5,
+      "year": 2020
+    },
+    {
+      "state": "KY",
+      "value": 42.5,
+      "year": 2020
+    },
+    {
+      "state": "LA",
+      "value": 40.4,
+      "year": 2020
+    },
+    {
+      "state": "MA",
+      "value": 29.6,
+      "year": 2020
+    },
+    {
+      "state": "MD",
+      "value": 35.3,
+      "year": 2020
+    },
+    {
+      "state": "ME",
+      "value": 34.2,
+      "year": 2020
+    },
+    {
+      "state": "MI",
+      "value": 37.2,
+      "year": 2020
+    },
+    {
+      "state": "MN",
+      "value": 35.0,
+      "year": 2020
+    },
+    {
+      "state": "MO",
+      "value": 39.4,
+      "year": 2020
+    },
+    {
+      "state": "MS",
+      "value": 43.9,
+      "year": 2020
+    },
+    {
+      "state": "MT",
+      "value": 34.6,
+      "year": 2020
+    },
+    {
+      "state": "NC",
+      "value": 37.7,
+      "year": 2020
+    },
+    {
+      "state": "ND",
+      "value": 36.5,
+      "year": 2020
+    },
+    {
+      "state": "NE",
+      "value": 40.7,
+      "year": 2020
+    },
+    {
+      "state": "NH",
+      "value": 33.8,
+      "year": 2020
+    },
+    {
+      "state": "NJ",
+      "value": 32.6,
+      "year": 2020
+    },
+    {
+      "state": "NM",
+      "value": 35.8,
+      "year": 2020
+    },
+    {
+      "state": "NV",
+      "value": 36.9,
+      "year": 2020
+    },
+    {
+      "state": "NY",
+      "value": 29.9,
+      "year": 2020
+    },
+    {
+      "state": "OH",
+      "value": 38.1,
+      "year": 2020
+    },
+    {
+      "state": "OK",
+      "value": 42.3,
+      "year": 2020
+    },
+    {
+      "state": "OR",
+      "value": 29.8,
+      "year": 2020
+    },
+    {
+      "state": "PA",
+      "value": 35.3,
+      "year": 2020
+    },
+    {
+      "state": "PR",
+      "value": 41.8,
+      "year": 2020
+    },
+    {
+      "state": "RI",
+      "value": 33.5,
+      "year": 2020
+    },
+    {
+      "state": "SC",
+      "value": 43.3,
+      "year": 2020
+    },
+    {
+      "state": "SD",
+      "value": 36.0,
+      "year": 2020
+    },
+    {
+      "state": "TN",
+      "value": 43.7,
+      "year": 2020
+    },
+    {
+      "state": "TX",
+      "value": 40.9,
+      "year": 2020
+    },
+    {
+      "state": "US",
+      "value": 36.3,
+      "year": 2020
+    },
+    {
+      "state": "UT",
+      "value": 33.4,
+      "year": 2020
+    },
+    {
+      "state": "VA",
+      "value": 37.4,
+      "year": 2020
+    },
+    {
+      "state": "VT",
+      "value": 29.5,
+      "year": 2020
+    },
+    {
+      "state": "WA",
+      "value": 29.7,
+      "year": 2020
+    },
+    {
+      "state": "WI",
+      "value": 35.3,
+      "year": 2020
+    },
+    {
+      "state": "WV",
+      "value": 42.0,
+      "year": 2020
+    },
+    {
+      "state": "WY",
+      "value": 32.2,
+      "year": 2020
+    },
+    {
+      "state": "AK",
+      "value": 34.4,
+      "year": 2021
+    },
+    {
+      "state": "AL",
+      "value": 44.4,
+      "year": 2021
+    },
+    {
+      "state": "AR",
+      "value": 42.6,
+      "year": 2021
+    },
+    {
+      "state": "AZ",
+      "value": 35.1,
+      "year": 2021
+    },
+    {
+      "state": "CA",
+      "value": 31.7,
+      "year": 2021
+    },
+    {
+      "state": "CO",
+      "value": 28.5,
+      "year": 2021
+    },
+    {
+      "state": "CT",
+      "value": 34.8,
+      "year": 2021
+    },
+    {
+      "state": "DC",
+      "value": 34.6,
+      "year": 2021
+    },
+    {
+      "state": "DE",
+      "value": 39.3,
+      "year": 2021
+    },
+    {
+      "state": "GA",
+      "value": 39.0,
+      "year": 2021
+    },
+    {
+      "state": "GU",
+      "value": 39.7,
+      "year": 2021
+    },
+    {
+      "state": "HI",
+      "value": 22.6,
+      "year": 2021
+    },
+    {
+      "state": "IA",
+      "value": 37.5,
+      "year": 2021
+    },
+    {
+      "state": "ID",
+      "value": 38.1,
+      "year": 2021
+    },
+    {
+      "state": "IL",
+      "value": 40.0,
+      "year": 2021
+    },
+    {
+      "state": "IN",
+      "value": 41.9,
+      "year": 2021
+    },
+    {
+      "state": "KS",
+      "value": 42.8,
+      "year": 2021
+    },
+    {
+      "state": "KY",
+      "value": 43.6,
+      "year": 2021
+    },
+    {
+      "state": "LA",
+      "value": 45.9,
+      "year": 2021
+    },
+    {
+      "state": "MA",
+      "value": 34.6,
+      "year": 2021
+    },
+    {
+      "state": "MD",
+      "value": 40.4,
+      "year": 2021
+    },
+    {
+      "state": "ME",
+      "value": 36.8,
+      "year": 2021
+    },
+    {
+      "state": "MI",
+      "value": 39.6,
+      "year": 2021
+    },
+    {
+      "state": "MN",
+      "value": 37.3,
+      "year": 2021
+    },
+    {
+      "state": "MO",
+      "value": 41.5,
+      "year": 2021
+    },
+    {
+      "state": "MS",
+      "value": 47.9,
+      "year": 2021
+    },
+    {
+      "state": "MT",
+      "value": 36.5,
+      "year": 2021
+    },
+    {
+      "state": "NC",
+      "value": 45.2,
+      "year": 2021
+    },
+    {
+      "state": "ND",
+      "value": 42.5,
+      "year": 2021
+    },
+    {
+      "state": "NE",
+      "value": 42.3,
+      "year": 2021
+    },
+    {
+      "state": "NH",
+      "value": 34.0,
+      "year": 2021
+    },
+    {
+      "state": "NJ",
+      "value": 34.4,
+      "year": 2021
+    },
+    {
+      "state": "NM",
+      "value": 35.6,
+      "year": 2021
+    },
+    {
+      "state": "NV",
+      "value": 33.1,
+      "year": 2021
+    },
+    {
+      "state": "NY",
+      "value": 34.2,
+      "year": 2021
+    },
+    {
+      "state": "OH",
+      "value": 42.1,
+      "year": 2021
+    },
+    {
+      "state": "OK",
+      "value": 42.0,
+      "year": 2021
+    },
+    {
+      "state": "OR",
+      "value": 34.4,
+      "year": 2021
+    },
+    {
+      "state": "PA",
+      "value": 40.0,
+      "year": 2021
+    },
+    {
+      "state": "PR",
+      "value": 42.2,
+      "year": 2021
+    },
+    {
+      "state": "RI",
+      "value": 33.3,
+      "year": 2021
+    },
+    {
+      "state": "SC",
+      "value": 38.1,
+      "year": 2021
+    },
+    {
+      "state": "SD",
+      "value": 44.8,
+      "year": 2021
+    },
+    {
+      "state": "TN",
+      "value": 38.0,
+      "year": 2021
+    },
+    {
+      "state": "TX",
+      "value": 42.2,
+      "year": 2021
+    },
+    {
+      "state": "US",
+      "value": 38.1,
+      "year": 2021
+    },
+    {
+      "state": "UT",
+      "value": 37.1,
+      "year": 2021
+    },
+    {
+      "state": "VA",
+      "value": 41.4,
+      "year": 2021
+    },
+    {
+      "state": "VI",
+      "value": 30.9,
+      "year": 2021
+    },
+    {
+      "state": "VT",
+      "value": 32.8,
+      "year": 2021
+    },
+    {
+      "state": "WA",
+      "value": 32.8,
+      "year": 2021
+    },
+    {
+      "state": "WI",
+      "value": 39.5,
+      "year": 2021
+    },
+    {
+      "state": "WV",
+      "value": 44.6,
+      "year": 2021
+    },
+    {
+      "state": "WY",
+      "value": 34.2,
+      "year": 2021
+    },
+    {
+      "state": "AK",
+      "value": 33.1,
+      "year": 2022
+    },
+    {
+      "state": "AL",
+      "value": 41.6,
+      "year": 2022
+    },
+    {
+      "state": "AR",
+      "value": 40.8,
+      "year": 2022
+    },
+    {
+      "state": "AZ",
+      "value": 35.1,
+      "year": 2022
+    },
+    {
+      "state": "CA",
+      "value": 29.6,
+      "year": 2022
+    },
+    {
+      "state": "CO",
+      "value": 31.2,
+      "year": 2022
+    },
+    {
+      "state": "CT",
+      "value": 34.8,
+      "year": 2022
+    },
+    {
+      "state": "DC",
+      "value": 36.3,
+      "year": 2022
+    },
+    {
+      "state": "DE",
+      "value": 42.0,
+      "year": 2022
+    },
+    {
+      "state": "FL",
+      "value": 34.9,
+      "year": 2022
+    },
+    {
+      "state": "GA",
+      "value": 39.4,
+      "year": 2022
+    },
+    {
+      "state": "GU",
+      "value": 28.2,
+      "year": 2022
+    },
+    {
+      "state": "HI",
+      "value": 25.6,
+      "year": 2022
+    },
+    {
+      "state": "IA",
+      "value": 40.1,
+      "year": 2022
+    },
+    {
+      "state": "ID",
+      "value": 36.9,
+      "year": 2022
+    },
+    {
+      "state": "IL",
+      "value": 43.5,
+      "year": 2022
+    },
+    {
+      "state": "IN",
+      "value": 40.9,
+      "year": 2022
+    },
+    {
+      "state": "KS",
+      "value": 40.4,
+      "year": 2022
+    },
+    {
+      "state": "KY",
+      "value": 41.5,
+      "year": 2022
+    },
+    {
+      "state": "LA",
+      "value": 43.1,
+      "year": 2022
+    },
+    {
+      "state": "MA",
+      "value": 33.2,
+      "year": 2022
+    },
+    {
+      "state": "MD",
+      "value": 37.3,
+      "year": 2022
+    },
+    {
+      "state": "ME",
+      "value": 39.2,
+      "year": 2022
+    },
+    {
+      "state": "MI",
+      "value": 39.2,
+      "year": 2022
+    },
+    {
+      "state": "MN",
+      "value": 38.6,
+      "year": 2022
+    },
+    {
+      "state": "MO",
+      "value": 40.5,
+      "year": 2022
+    },
+    {
+      "state": "MS",
+      "value": 45.5,
+      "year": 2022
+    },
+    {
+      "state": "MT",
+      "value": 36.3,
+      "year": 2022
+    },
+    {
+      "state": "NC",
+      "value": 41.1,
+      "year": 2022
+    },
+    {
+      "state": "ND",
+      "value": 41.5,
+      "year": 2022
+    },
+    {
+      "state": "NE",
+      "value": 38.2,
+      "year": 2022
+    },
+    {
+      "state": "NH",
+      "value": 36.2,
+      "year": 2022
+    },
+    {
+      "state": "NJ",
+      "value": 33.6,
+      "year": 2022
+    },
+    {
+      "state": "NM",
+      "value": 38.0,
+      "year": 2022
+    },
+    {
+      "state": "NV",
+      "value": 34.5,
+      "year": 2022
+    },
+    {
+      "state": "NY",
+      "value": 33.5,
+      "year": 2022
+    },
+    {
+      "state": "OH",
+      "value": 40.9,
+      "year": 2022
+    },
+    {
+      "state": "OK",
+      "value": 39.9,
+      "year": 2022
+    },
+    {
+      "state": "OR",
+      "value": 38.1,
+      "year": 2022
+    },
+    {
+      "state": "PA",
+      "value": 38.6,
+      "year": 2022
+    },
+    {
+      "state": "PR",
+      "value": 38.0,
+      "year": 2022
+    },
+    {
+      "state": "RI",
+      "value": 34.3,
+      "year": 2022
+    },
+    {
+      "state": "SC",
+      "value": 39.4,
+      "year": 2022
+    },
+    {
+      "state": "SD",
+      "value": 41.1,
+      "year": 2022
+    },
+    {
+      "state": "TN",
+      "value": 41.8,
+      "year": 2022
+    },
+    {
+      "state": "TX",
+      "value": 41.1,
+      "year": 2022
+    },
+    {
+      "state": "US",
+      "value": 37.4,
+      "year": 2022
+    },
+    {
+      "state": "UT",
+      "value": 36.6,
+      "year": 2022
+    },
+    {
+      "state": "VA",
+      "value": 40.2,
+      "year": 2022
+    },
+    {
+      "state": "VI",
+      "value": 57.6,
+      "year": 2022
+    },
+    {
+      "state": "VT",
+      "value": 30.0,
+      "year": 2022
+    },
+    {
+      "state": "WA",
+      "value": 34.1,
+      "year": 2022
+    },
+    {
+      "state": "WI",
+      "value": 40.9,
+      "year": 2022
+    },
+    {
+      "state": "WV",
+      "value": 46.3,
+      "year": 2022
+    },
+    {
+      "state": "WY",
+      "value": 36.5,
+      "year": 2022
+    },
+    {
+      "state": "AK",
+      "value": 39.0,
+      "year": 2023
+    },
+    {
+      "state": "AL",
+      "value": 46.8,
+      "year": 2023
+    },
+    {
+      "state": "AR",
+      "value": 47.2,
+      "year": 2023
+    },
+    {
+      "state": "AZ",
+      "value": 39.6,
+      "year": 2023
+    },
+    {
+      "state": "CA",
+      "value": 31.4,
+      "year": 2023
+    },
+    {
+      "state": "CO",
+      "value": 30.8,
+      "year": 2023
+    },
+    {
+      "state": "CT",
+      "value": 35.7,
+      "year": 2023
+    },
+    {
+      "state": "DC",
+      "value": 32.9,
+      "year": 2023
+    },
+    {
+      "state": "DE",
+      "value": 43.8,
+      "year": 2023
+    },
+    {
+      "state": "FL",
+      "value": 36.4,
+      "year": 2023
+    },
+    {
+      "state": "GA",
+      "value": 42.6,
+      "year": 2023
+    },
+    {
+      "state": "GU",
+      "value": 34.8,
+      "year": 2023
+    },
+    {
+      "state": "HI",
+      "value": 27.7,
+      "year": 2023
+    },
+    {
+      "state": "IA",
+      "value": 45.1,
+      "year": 2023
+    },
+    {
+      "state": "ID",
+      "value": 35.9,
+      "year": 2023
+    },
+    {
+      "state": "IL",
+      "value": 40.8,
+      "year": 2023
+    },
+    {
+      "state": "IN",
+      "value": 42.6,
+      "year": 2023
+    },
+    {
+      "state": "KS",
+      "value": 41.9,
+      "year": 2023
+    },
+    {
+      "state": "LA",
+      "value": 45.9,
+      "year": 2023
+    },
+    {
+      "state": "MA",
+      "value": 33.3,
+      "year": 2023
+    },
+    {
+      "state": "MD",
+      "value": 40.8,
+      "year": 2023
+    },
+    {
+      "state": "ME",
+      "value": 35.1,
+      "year": 2023
+    },
+    {
+      "state": "MI",
+      "value": 41.0,
+      "year": 2023
+    },
+    {
+      "state": "MN",
+      "value": 39.7,
+      "year": 2023
+    },
+    {
+      "state": "MO",
+      "value": 43.4,
+      "year": 2023
+    },
+    {
+      "state": "MS",
+      "value": 49.4,
+      "year": 2023
+    },
+    {
+      "state": "MT",
+      "value": 34.7,
+      "year": 2023
+    },
+    {
+      "state": "NC",
+      "value": 41.8,
+      "year": 2023
+    },
+    {
+      "state": "ND",
+      "value": 37.2,
+      "year": 2023
+    },
+    {
+      "state": "NE",
+      "value": 42.4,
+      "year": 2023
+    },
+    {
+      "state": "NH",
+      "value": 36.9,
+      "year": 2023
+    },
+    {
+      "state": "NJ",
+      "value": 33.0,
+      "year": 2023
+    },
+    {
+      "state": "NM",
+      "value": 34.5,
+      "year": 2023
+    },
+    {
+      "state": "NV",
+      "value": 36.2,
+      "year": 2023
+    },
+    {
+      "state": "NY",
+      "value": 33.7,
+      "year": 2023
+    },
+    {
+      "state": "OH",
+      "value": 42.7,
+      "year": 2023
+    },
+    {
+      "state": "OK",
+      "value": 43.8,
+      "year": 2023
+    },
+    {
+      "state": "OR",
+      "value": 38.5,
+      "year": 2023
+    },
+    {
+      "state": "PR",
+      "value": 38.9,
+      "year": 2023
+    },
+    {
+      "state": "RI",
+      "value": 32.8,
+      "year": 2023
+    },
+    {
+      "state": "SC",
+      "value": 44.5,
+      "year": 2023
+    },
+    {
+      "state": "SD",
+      "value": 42.4,
+      "year": 2023
+    },
+    {
+      "state": "TN",
+      "value": 40.7,
+      "year": 2023
+    },
+    {
+      "state": "TX",
+      "value": 38.6,
+      "year": 2023
+    },
+    {
+      "state": "US",
+      "value": 38.3,
+      "year": 2023
+    },
+    {
+      "state": "UT",
+      "value": 37.0,
+      "year": 2023
+    },
+    {
+      "state": "VA",
+      "value": 39.0,
+      "year": 2023
+    },
+    {
+      "state": "VI",
+      "value": 34.9,
+      "year": 2023
+    },
+    {
+      "state": "VT",
+      "value": 33.1,
+      "year": 2023
+    },
+    {
+      "state": "WA",
+      "value": 33.3,
+      "year": 2023
+    },
+    {
+      "state": "WI",
+      "value": 44.4,
+      "year": 2023
+    },
+    {
+      "state": "WV",
+      "value": 45.8,
+      "year": 2023
+    },
+    {
+      "state": "WY",
+      "value": 41.8,
+      "year": 2023
+    }
+  ],
+  "65+": [
+    {
+      "state": "AK",
+      "value": 30.2,
+      "year": 2019
+    },
+    {
+      "state": "AL",
+      "value": 31.3,
+      "year": 2019
+    },
+    {
+      "state": "AR",
+      "value": 32.4,
+      "year": 2019
+    },
+    {
+      "state": "AZ",
+      "value": 25.7,
+      "year": 2019
+    },
+    {
+      "state": "CA",
+      "value": 23.3,
+      "year": 2019
+    },
+    {
+      "state": "CO",
+      "value": 24.2,
+      "year": 2019
+    },
+    {
+      "state": "CT",
+      "value": 28.2,
+      "year": 2019
+    },
+    {
+      "state": "DC",
+      "value": 25.9,
+      "year": 2019
+    },
+    {
+      "state": "DE",
+      "value": 32.6,
+      "year": 2019
+    },
+    {
+      "state": "FL",
+      "value": 27.6,
+      "year": 2019
+    },
+    {
+      "state": "GA",
+      "value": 29.6,
+      "year": 2019
+    },
+    {
+      "state": "GU",
+      "value": 23.4,
+      "year": 2019
+    },
+    {
+      "state": "HI",
+      "value": 18.8,
+      "year": 2019
+    },
+    {
+      "state": "IA",
+      "value": 33.3,
+      "year": 2019
+    },
+    {
+      "state": "ID",
+      "value": 29.1,
+      "year": 2019
+    },
+    {
+      "state": "IL",
+      "value": 32.5,
+      "year": 2019
+    },
+    {
+      "state": "IN",
+      "value": 33.6,
+      "year": 2019
+    },
+    {
+      "state": "KS",
+      "value": 32.9,
+      "year": 2019
+    },
+    {
+      "state": "KY",
+      "value": 32.6,
+      "year": 2019
+    },
+    {
+      "state": "LA",
+      "value": 30.2,
+      "year": 2019
+    },
+    {
+      "state": "MA",
+      "value": 26.7,
+      "year": 2019
+    },
+    {
+      "state": "MD",
+      "value": 30.4,
+      "year": 2019
+    },
+    {
+      "state": "ME",
+      "value": 28.7,
+      "year": 2019
+    },
+    {
+      "state": "MI",
+      "value": 34.4,
+      "year": 2019
+    },
+    {
+      "state": "MN",
+      "value": 29.7,
+      "year": 2019
+    },
+    {
+      "state": "MO",
+      "value": 31.9,
+      "year": 2019
+    },
+    {
+      "state": "MS",
+      "value": 36.4,
+      "year": 2019
+    },
+    {
+      "state": "MT",
+      "value": 29.5,
+      "year": 2019
+    },
+    {
+      "state": "NC",
+      "value": 31.6,
+      "year": 2019
+    },
+    {
+      "state": "ND",
+      "value": 33.4,
+      "year": 2019
+    },
+    {
+      "state": "NE",
+      "value": 34.0,
+      "year": 2019
+    },
+    {
+      "state": "NH",
+      "value": 28.0,
+      "year": 2019
+    },
+    {
+      "state": "NM",
+      "value": 24.9,
+      "year": 2019
+    },
+    {
+      "state": "NV",
+      "value": 28.6,
+      "year": 2019
+    },
+    {
+      "state": "NY",
+      "value": 24.5,
+      "year": 2019
+    },
+    {
+      "state": "OH",
+      "value": 33.6,
+      "year": 2019
+    },
+    {
+      "state": "OK",
+      "value": 31.2,
+      "year": 2019
+    },
+    {
+      "state": "OR",
+      "value": 28.4,
+      "year": 2019
+    },
+    {
+      "state": "PA",
+      "value": 31.9,
+      "year": 2019
+    },
+    {
+      "state": "PR",
+      "value": 26.3,
+      "year": 2019
+    },
+    {
+      "state": "RI",
+      "value": 29.0,
+      "year": 2019
+    },
+    {
+      "state": "SC",
+      "value": 32.5,
+      "year": 2019
+    },
+    {
+      "state": "SD",
+      "value": 29.8,
+      "year": 2019
+    },
+    {
+      "state": "TN",
+      "value": 32.7,
+      "year": 2019
+    },
+    {
+      "state": "TX",
+      "value": 29.8,
+      "year": 2019
+    },
+    {
+      "state": "US",
+      "value": 29.3,
+      "year": 2019
+    },
+    {
+      "state": "UT",
+      "value": 30.1,
+      "year": 2019
+    },
+    {
+      "state": "VA",
+      "value": 29.7,
+      "year": 2019
+    },
+    {
+      "state": "VT",
+      "value": 25.2,
+      "year": 2019
+    },
+    {
+      "state": "WA",
+      "value": 27.9,
+      "year": 2019
+    },
+    {
+      "state": "WI",
+      "value": 33.3,
+      "year": 2019
+    },
+    {
+      "state": "WV",
+      "value": 36.4,
+      "year": 2019
+    },
+    {
+      "state": "WY",
+      "value": 28.7,
+      "year": 2019
+    },
+    {
+      "state": "AK",
+      "value": 32.7,
+      "year": 2020
+    },
+    {
+      "state": "AL",
+      "value": 34.9,
+      "year": 2020
+    },
+    {
+      "state": "AR",
+      "value": 30.5,
+      "year": 2020
+    },
+    {
+      "state": "AZ",
+      "value": 25.8,
+      "year": 2020
+    },
+    {
+      "state": "CA",
+      "value": 26.1,
+      "year": 2020
+    },
+    {
+      "state": "CO",
+      "value": 23.9,
+      "year": 2020
+    },
+    {
+      "state": "CT",
+      "value": 27.6,
+      "year": 2020
+    },
+    {
+      "state": "DC",
+      "value": 24.2,
+      "year": 2020
+    },
+    {
+      "state": "DE",
+      "value": 37.6,
+      "year": 2020
+    },
+    {
+      "state": "FL",
+      "value": 27.4,
+      "year": 2020
+    },
+    {
+      "state": "GA",
+      "value": 32.6,
+      "year": 2020
+    },
+    {
+      "state": "GU",
+      "value": 35.7,
+      "year": 2020
+    },
+    {
+      "state": "HI",
+      "value": 18.7,
+      "year": 2020
+    },
+    {
+      "state": "IA",
+      "value": 31.8,
+      "year": 2020
+    },
+    {
+      "state": "ID",
+      "value": 28.9,
+      "year": 2020
+    },
+    {
+      "state": "IL",
+      "value": 31.6,
+      "year": 2020
+    },
+    {
+      "state": "IN",
+      "value": 34.3,
+      "year": 2020
+    },
+    {
+      "state": "KS",
+      "value": 31.2,
+      "year": 2020
+    },
+    {
+      "state": "KY",
+      "value": 28.4,
+      "year": 2020
+    },
+    {
+      "state": "LA",
+      "value": 36.2,
+      "year": 2020
+    },
+    {
+      "state": "MA",
+      "value": 24.9,
+      "year": 2020
+    },
+    {
+      "state": "MD",
+      "value": 28.5,
+      "year": 2020
+    },
+    {
+      "state": "ME",
+      "value": 27.4,
+      "year": 2020
+    },
+    {
+      "state": "MI",
+      "value": 35.6,
+      "year": 2020
+    },
+    {
+      "state": "MN",
+      "value": 30.6,
+      "year": 2020
+    },
+    {
+      "state": "MO",
+      "value": 31.1,
+      "year": 2020
+    },
+    {
+      "state": "MS",
+      "value": 33.6,
+      "year": 2020
+    },
+    {
+      "state": "MT",
+      "value": 27.2,
+      "year": 2020
+    },
+    {
+      "state": "NC",
+      "value": 31.3,
+      "year": 2020
+    },
+    {
+      "state": "ND",
+      "value": 32.1,
+      "year": 2020
+    },
+    {
+      "state": "NE",
+      "value": 33.5,
+      "year": 2020
+    },
+    {
+      "state": "NH",
+      "value": 25.9,
+      "year": 2020
+    },
+    {
+      "state": "NJ",
+      "value": 26.2,
+      "year": 2020
+    },
+    {
+      "state": "NM",
+      "value": 24.1,
+      "year": 2020
+    },
+    {
+      "state": "NV",
+      "value": 28.9,
+      "year": 2020
+    },
+    {
+      "state": "NY",
+      "value": 23.6,
+      "year": 2020
+    },
+    {
+      "state": "OH",
+      "value": 32.6,
+      "year": 2020
+    },
+    {
+      "state": "OK",
+      "value": 29.9,
+      "year": 2020
+    },
+    {
+      "state": "OR",
+      "value": 25.5,
+      "year": 2020
+    },
+    {
+      "state": "PA",
+      "value": 29.4,
+      "year": 2020
+    },
+    {
+      "state": "PR",
+      "value": 24.1,
+      "year": 2020
+    },
+    {
+      "state": "RI",
+      "value": 26.4,
+      "year": 2020
+    },
+    {
+      "state": "SC",
+      "value": 31.8,
+      "year": 2020
+    },
+    {
+      "state": "SD",
+      "value": 32.4,
+      "year": 2020
+    },
+    {
+      "state": "TN",
+      "value": 30.3,
+      "year": 2020
+    },
+    {
+      "state": "TX",
+      "value": 32.6,
+      "year": 2020
+    },
+    {
+      "state": "US",
+      "value": 29.3,
+      "year": 2020
+    },
+    {
+      "state": "UT",
+      "value": 28.4,
+      "year": 2020
+    },
+    {
+      "state": "VA",
+      "value": 28.2,
+      "year": 2020
+    },
+    {
+      "state": "VT",
+      "value": 26.1,
+      "year": 2020
+    },
+    {
+      "state": "WA",
+      "value": 27.9,
+      "year": 2020
+    },
+    {
+      "state": "WI",
+      "value": 30.6,
+      "year": 2020
+    },
+    {
+      "state": "WV",
+      "value": 33.9,
+      "year": 2020
+    },
+    {
+      "state": "WY",
+      "value": 29.6,
+      "year": 2020
+    },
+    {
+      "state": "AK",
+      "value": 31.8,
+      "year": 2021
+    },
+    {
+      "state": "AL",
+      "value": 30.9,
+      "year": 2021
+    },
+    {
+      "state": "AR",
+      "value": 33.4,
+      "year": 2021
+    },
+    {
+      "state": "AZ",
+      "value": 28.3,
+      "year": 2021
+    },
+    {
+      "state": "CA",
+      "value": 23.9,
+      "year": 2021
+    },
+    {
+      "state": "CO",
+      "value": 22.9,
+      "year": 2021
+    },
+    {
+      "state": "CT",
+      "value": 26.6,
+      "year": 2021
+    },
+    {
+      "state": "DC",
+      "value": 24.0,
+      "year": 2021
+    },
+    {
+      "state": "DE",
+      "value": 32.9,
+      "year": 2021
+    },
+    {
+      "state": "GA",
+      "value": 28.7,
+      "year": 2021
+    },
+    {
+      "state": "GU",
+      "value": 17.6,
+      "year": 2021
+    },
+    {
+      "state": "HI",
+      "value": 16.6,
+      "year": 2021
+    },
+    {
+      "state": "IA",
+      "value": 34.7,
+      "year": 2021
+    },
+    {
+      "state": "ID",
+      "value": 27.7,
+      "year": 2021
+    },
+    {
+      "state": "IL",
+      "value": 32.4,
+      "year": 2021
+    },
+    {
+      "state": "IN",
+      "value": 33.1,
+      "year": 2021
+    },
+    {
+      "state": "KS",
+      "value": 31.1,
+      "year": 2021
+    },
+    {
+      "state": "KY",
+      "value": 35.3,
+      "year": 2021
+    },
+    {
+      "state": "LA",
+      "value": 35.3,
+      "year": 2021
+    },
+    {
+      "state": "MA",
+      "value": 26.3,
+      "year": 2021
+    },
+    {
+      "state": "MD",
+      "value": 30.1,
+      "year": 2021
+    },
+    {
+      "state": "ME",
+      "value": 27.5,
+      "year": 2021
+    },
+    {
+      "state": "MI",
+      "value": 31.4,
+      "year": 2021
+    },
+    {
+      "state": "MN",
+      "value": 30.8,
+      "year": 2021
+    },
+    {
+      "state": "MO",
+      "value": 32.5,
+      "year": 2021
+    },
+    {
+      "state": "MS",
+      "value": 31.5,
+      "year": 2021
+    },
+    {
+      "state": "MT",
+      "value": 30.9,
+      "year": 2021
+    },
+    {
+      "state": "NC",
+      "value": 33.0,
+      "year": 2021
+    },
+    {
+      "state": "ND",
+      "value": 35.6,
+      "year": 2021
+    },
+    {
+      "state": "NE",
+      "value": 34.9,
+      "year": 2021
+    },
+    {
+      "state": "NH",
+      "value": 25.9,
+      "year": 2021
+    },
+    {
+      "state": "NJ",
+      "value": 26.3,
+      "year": 2021
+    },
+    {
+      "state": "NM",
+      "value": 26.7,
+      "year": 2021
+    },
+    {
+      "state": "NV",
+      "value": 25.1,
+      "year": 2021
+    },
+    {
+      "state": "NY",
+      "value": 27.1,
+      "year": 2021
+    },
+    {
+      "state": "OH",
+      "value": 35.7,
+      "year": 2021
+    },
+    {
+      "state": "OK",
+      "value": 33.2,
+      "year": 2021
+    },
+    {
+      "state": "OR",
+      "value": 25.0,
+      "year": 2021
+    },
+    {
+      "state": "PA",
+      "value": 31.0,
+      "year": 2021
+    },
+    {
+      "state": "PR",
+      "value": 29.6,
+      "year": 2021
+    },
+    {
+      "state": "RI",
+      "value": 24.9,
+      "year": 2021
+    },
+    {
+      "state": "SC",
+      "value": 32.5,
+      "year": 2021
+    },
+    {
+      "state": "SD",
+      "value": 34.3,
+      "year": 2021
+    },
+    {
+      "state": "TN",
+      "value": 28.9,
+      "year": 2021
+    },
+    {
+      "state": "TX",
+      "value": 30.6,
+      "year": 2021
+    },
+    {
+      "state": "US",
+      "value": 29.5,
+      "year": 2021
+    },
+    {
+      "state": "UT",
+      "value": 28.7,
+      "year": 2021
+    },
+    {
+      "state": "VA",
+      "value": 31.6,
+      "year": 2021
+    },
+    {
+      "state": "VI",
+      "value": 18.9,
+      "year": 2021
+    },
+    {
+      "state": "VT",
+      "value": 26.8,
+      "year": 2021
+    },
+    {
+      "state": "WA",
+      "value": 26.9,
+      "year": 2021
+    },
+    {
+      "state": "WI",
+      "value": 32.3,
+      "year": 2021
+    },
+    {
+      "state": "WV",
+      "value": 35.9,
+      "year": 2021
+    },
+    {
+      "state": "WY",
+      "value": 29.6,
+      "year": 2021
+    },
+    {
+      "state": "AK",
+      "value": 28.0,
+      "year": 2022
+    },
+    {
+      "state": "AL",
+      "value": 36.3,
+      "year": 2022
+    },
+    {
+      "state": "AR",
+      "value": 32.3,
+      "year": 2022
+    },
+    {
+      "state": "AZ",
+      "value": 30.4,
+      "year": 2022
+    },
+    {
+      "state": "CA",
+      "value": 25.5,
+      "year": 2022
+    },
+    {
+      "state": "CO",
+      "value": 24.0,
+      "year": 2022
+    },
+    {
+      "state": "CT",
+      "value": 28.6,
+      "year": 2022
+    },
+    {
+      "state": "DC",
+      "value": 23.2,
+      "year": 2022
+    },
+    {
+      "state": "DE",
+      "value": 35.0,
+      "year": 2022
+    },
+    {
+      "state": "FL",
+      "value": 29.2,
+      "year": 2022
+    },
+    {
+      "state": "GA",
+      "value": 32.3,
+      "year": 2022
+    },
+    {
+      "state": "GU",
+      "value": 16.0,
+      "year": 2022
+    },
+    {
+      "state": "HI",
+      "value": 18.0,
+      "year": 2022
+    },
+    {
+      "state": "IA",
+      "value": 35.1,
+      "year": 2022
+    },
+    {
+      "state": "ID",
+      "value": 30.9,
+      "year": 2022
+    },
+    {
+      "state": "IL",
+      "value": 31.6,
+      "year": 2022
+    },
+    {
+      "state": "IN",
+      "value": 32.4,
+      "year": 2022
+    },
+    {
+      "state": "KS",
+      "value": 31.5,
+      "year": 2022
+    },
+    {
+      "state": "KY",
+      "value": 33.7,
+      "year": 2022
+    },
+    {
+      "state": "LA",
+      "value": 37.3,
+      "year": 2022
+    },
+    {
+      "state": "MA",
+      "value": 27.0,
+      "year": 2022
+    },
+    {
+      "state": "MD",
+      "value": 27.9,
+      "year": 2022
+    },
+    {
+      "state": "ME",
+      "value": 28.4,
+      "year": 2022
+    },
+    {
+      "state": "MI",
+      "value": 33.4,
+      "year": 2022
+    },
+    {
+      "state": "MN",
+      "value": 32.0,
+      "year": 2022
+    },
+    {
+      "state": "MO",
+      "value": 33.3,
+      "year": 2022
+    },
+    {
+      "state": "MS",
+      "value": 32.7,
+      "year": 2022
+    },
+    {
+      "state": "MT",
+      "value": 28.1,
+      "year": 2022
+    },
+    {
+      "state": "NC",
+      "value": 30.1,
+      "year": 2022
+    },
+    {
+      "state": "ND",
+      "value": 33.3,
+      "year": 2022
+    },
+    {
+      "state": "NE",
+      "value": 34.6,
+      "year": 2022
+    },
+    {
+      "state": "NH",
+      "value": 27.4,
+      "year": 2022
+    },
+    {
+      "state": "NJ",
+      "value": 27.3,
+      "year": 2022
+    },
+    {
+      "state": "NM",
+      "value": 23.9,
+      "year": 2022
+    },
+    {
+      "state": "NV",
+      "value": 28.7,
+      "year": 2022
+    },
+    {
+      "state": "NY",
+      "value": 28.1,
+      "year": 2022
+    },
+    {
+      "state": "OH",
+      "value": 35.3,
+      "year": 2022
+    },
+    {
+      "state": "OK",
+      "value": 34.2,
+      "year": 2022
+    },
+    {
+      "state": "OR",
+      "value": 25.9,
+      "year": 2022
+    },
+    {
+      "state": "PA",
+      "value": 34.3,
+      "year": 2022
+    },
+    {
+      "state": "PR",
+      "value": 27.1,
+      "year": 2022
+    },
+    {
+      "state": "RI",
+      "value": 29.2,
+      "year": 2022
+    },
+    {
+      "state": "SC",
+      "value": 30.6,
+      "year": 2022
+    },
+    {
+      "state": "SD",
+      "value": 32.6,
+      "year": 2022
+    },
+    {
+      "state": "TN",
+      "value": 33.8,
+      "year": 2022
+    },
+    {
+      "state": "TX",
+      "value": 33.1,
+      "year": 2022
+    },
+    {
+      "state": "US",
+      "value": 30.6,
+      "year": 2022
+    },
+    {
+      "state": "UT",
+      "value": 30.2,
+      "year": 2022
+    },
+    {
+      "state": "VA",
+      "value": 34.8,
+      "year": 2022
+    },
+    {
+      "state": "VI",
+      "value": 18.1,
+      "year": 2022
+    },
+    {
+      "state": "VT",
+      "value": 26.5,
+      "year": 2022
+    },
+    {
+      "state": "WA",
+      "value": 29.0,
+      "year": 2022
+    },
+    {
+      "state": "WI",
+      "value": 34.4,
+      "year": 2022
+    },
+    {
+      "state": "WV",
+      "value": 35.8,
+      "year": 2022
+    },
+    {
+      "state": "WY",
+      "value": 31.2,
+      "year": 2022
+    },
+    {
+      "state": "AK",
+      "value": 32.7,
+      "year": 2023
+    },
+    {
+      "state": "AL",
+      "value": 33.6,
+      "year": 2023
+    },
+    {
+      "state": "AR",
+      "value": 34.2,
+      "year": 2023
+    },
+    {
+      "state": "AZ",
+      "value": 27.2,
+      "year": 2023
+    },
+    {
+      "state": "CA",
+      "value": 23.4,
+      "year": 2023
+    },
+    {
+      "state": "CO",
+      "value": 23.9,
+      "year": 2023
+    },
+    {
+      "state": "CT",
+      "value": 27.1,
+      "year": 2023
+    },
+    {
+      "state": "DC",
+      "value": 25.9,
+      "year": 2023
+    },
+    {
+      "state": "DE",
+      "value": 33.0,
+      "year": 2023
+    },
+    {
+      "state": "FL",
+      "value": 28.4,
+      "year": 2023
+    },
+    {
+      "state": "GA",
+      "value": 32.1,
+      "year": 2023
+    },
+    {
+      "state": "GU",
+      "value": 21.8,
+      "year": 2023
+    },
+    {
+      "state": "HI",
+      "value": 20.5,
+      "year": 2023
+    },
+    {
+      "state": "IA",
+      "value": 34.8,
+      "year": 2023
+    },
+    {
+      "state": "ID",
+      "value": 30.6,
+      "year": 2023
+    },
+    {
+      "state": "IL",
+      "value": 35.8,
+      "year": 2023
+    },
+    {
+      "state": "IN",
+      "value": 35.3,
+      "year": 2023
+    },
+    {
+      "state": "KS",
+      "value": 33.9,
+      "year": 2023
+    },
+    {
+      "state": "LA",
+      "value": 36.1,
+      "year": 2023
+    },
+    {
+      "state": "MA",
+      "value": 26.1,
+      "year": 2023
+    },
+    {
+      "state": "MD",
+      "value": 32.0,
+      "year": 2023
+    },
+    {
+      "state": "ME",
+      "value": 29.6,
+      "year": 2023
+    },
+    {
+      "state": "MI",
+      "value": 32.8,
+      "year": 2023
+    },
+    {
+      "state": "MN",
+      "value": 32.5,
+      "year": 2023
+    },
+    {
+      "state": "MO",
+      "value": 32.8,
+      "year": 2023
+    },
+    {
+      "state": "MS",
+      "value": 32.2,
+      "year": 2023
+    },
+    {
+      "state": "MT",
+      "value": 29.9,
+      "year": 2023
+    },
+    {
+      "state": "NC",
+      "value": 32.3,
+      "year": 2023
+    },
+    {
+      "state": "ND",
+      "value": 34.8,
+      "year": 2023
+    },
+    {
+      "state": "NE",
+      "value": 35.1,
+      "year": 2023
+    },
+    {
+      "state": "NH",
+      "value": 28.0,
+      "year": 2023
+    },
+    {
+      "state": "NJ",
+      "value": 27.8,
+      "year": 2023
+    },
+    {
+      "state": "NM",
+      "value": 27.6,
+      "year": 2023
+    },
+    {
+      "state": "NV",
+      "value": 26.4,
+      "year": 2023
+    },
+    {
+      "state": "NY",
+      "value": 26.1,
+      "year": 2023
+    },
+    {
+      "state": "OH",
+      "value": 33.7,
+      "year": 2023
+    },
+    {
+      "state": "OK",
+      "value": 32.8,
+      "year": 2023
+    },
+    {
+      "state": "OR",
+      "value": 33.2,
+      "year": 2023
+    },
+    {
+      "state": "PR",
+      "value": 29.2,
+      "year": 2023
+    },
+    {
+      "state": "RI",
+      "value": 27.3,
+      "year": 2023
+    },
+    {
+      "state": "SC",
+      "value": 31.5,
+      "year": 2023
+    },
+    {
+      "state": "SD",
+      "value": 33.3,
+      "year": 2023
+    },
+    {
+      "state": "TN",
+      "value": 33.4,
+      "year": 2023
+    },
+    {
+      "state": "TX",
+      "value": 32.8,
+      "year": 2023
+    },
+    {
+      "state": "US",
+      "value": 30.2,
+      "year": 2023
+    },
+    {
+      "state": "UT",
+      "value": 27.9,
+      "year": 2023
+    },
+    {
+      "state": "VA",
+      "value": 33.6,
+      "year": 2023
+    },
+    {
+      "state": "VI",
+      "value": 26.2,
+      "year": 2023
+    },
+    {
+      "state": "VT",
+      "value": 24.4,
+      "year": 2023
+    },
+    {
+      "state": "WA",
+      "value": 28.1,
+      "year": 2023
+    },
+    {
+      "state": "WI",
+      "value": 34.3,
+      "year": 2023
+    },
+    {
+      "state": "WV",
+      "value": 34.7,
+      "year": 2023
+    },
+    {
+      "state": "WY",
+      "value": 30.0,
+      "year": 2023
+    }
+  ]
+}

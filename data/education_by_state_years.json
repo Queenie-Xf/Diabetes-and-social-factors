@@ -1,0 +1,1379 @@
+{
+  "AL": {
+    "2019": {
+      "High school graduate": 33.2,
+      "Some college": 46.1,
+      "Bachelor's degree or higher": 7.5
+    },
+    "2020": {
+      "High school graduate": 34.0,
+      "Some college": 45.8,
+      "Bachelor's degree or higher": 8.0
+    },
+    "2021": {
+      "High school graduate": 34.9,
+      "Some college": 44.6,
+      "Bachelor's degree or higher": 8.3
+    },
+    "2022": {
+      "High school graduate": 35.5,
+      "Some college": 44.0,
+      "Bachelor's degree or higher": 8.5
+    },
+    "2023": {
+      "High school graduate": 36.1,
+      "Some college": 43.3,
+      "Bachelor's degree or higher": 9.0
+    }
+  },
+  "AK": {
+    "2019": {
+      "High school graduate": 41.0,
+      "Some college": 39.5,
+      "Bachelor's degree or higher": 6.4
+    },
+    "2020": {
+      "High school graduate": 42.3,
+      "Some college": 39.1,
+      "Bachelor's degree or higher": 6.1
+    },
+    "2021": {
+      "High school graduate": 44.0,
+      "Some college": 37.9,
+      "Bachelor's degree or higher": 5.5
+    },
+    "2022": {
+      "High school graduate": 46.3,
+      "Some college": 35.5,
+      "Bachelor's degree or higher": 5.7
+    },
+    "2023": {
+      "High school graduate": 47.9,
+      "Some college": 34.1,
+      "Bachelor's degree or higher": 5.2
+    }
+  },
+  "AZ": {
+    "2019": {
+      "High school graduate": 33.1,
+      "Some college": 43.0,
+      "Bachelor's degree or higher": 8.4
+    },
+    "2020": {
+      "High school graduate": 34.3,
+      "Some college": 42.0,
+      "Bachelor's degree or higher": 9.1
+    },
+    "2021": {
+      "High school graduate": 34.4,
+      "Some college": 41.3,
+      "Bachelor's degree or higher": 9.6
+    },
+    "2022": {
+      "High school graduate": 34.9,
+      "Some college": 40.5,
+      "Bachelor's degree or higher": 10.2
+    },
+    "2023": {
+      "High school graduate": 35.8,
+      "Some college": 39.5,
+      "Bachelor's degree or higher": 10.7
+    }
+  },
+  "AR": {
+    "2019": {
+      "High school graduate": 34.1,
+      "Some college": 45.1,
+      "Bachelor's degree or higher": 8.1
+    },
+    "2020": {
+      "High school graduate": 34.7,
+      "Some college": 44.2,
+      "Bachelor's degree or higher": 8.7
+    },
+    "2021": {
+      "High school graduate": 36.2,
+      "Some college": 42.9,
+      "Bachelor's degree or higher": 9.0
+    },
+    "2022": {
+      "High school graduate": 36.8,
+      "Some college": 41.9,
+      "Bachelor's degree or higher": 9.3
+    },
+    "2023": {
+      "High school graduate": 37.2,
+      "Some college": 41.0,
+      "Bachelor's degree or higher": 10.0
+    }
+  },
+  "CA": {
+    "2019": {
+      "High school graduate": 30.4,
+      "Some college": 47.9,
+      "Bachelor's degree or higher": 10.7
+    },
+    "2020": {
+      "High school graduate": 31.3,
+      "Some college": 47.0,
+      "Bachelor's degree or higher": 11.5
+    },
+    "2021": {
+      "High school graduate": 32.1,
+      "Some college": 46.1,
+      "Bachelor's degree or higher": 11.8
+    },
+    "2022": {
+      "High school graduate": 33.1,
+      "Some college": 44.9,
+      "Bachelor's degree or higher": 12.2
+    },
+    "2023": {
+      "High school graduate": 34.1,
+      "Some college": 43.8,
+      "Bachelor's degree or higher": 12.5
+    }
+  },
+  "CO": {
+    "2019": {
+      "High school graduate": 31.5,
+      "Some college": 43.4,
+      "Bachelor's degree or higher": 12.6
+    },
+    "2020": {
+      "High school graduate": 32.1,
+      "Some college": 42.3,
+      "Bachelor's degree or higher": 13.2
+    },
+    "2021": {
+      "High school graduate": 32.7,
+      "Some college": 41.3,
+      "Bachelor's degree or higher": 13.8
+    },
+    "2022": {
+      "High school graduate": 33.1,
+      "Some college": 40.4,
+      "Bachelor's degree or higher": 14.4
+    },
+    "2023": {
+      "High school graduate": 33.8,
+      "Some college": 40.1,
+      "Bachelor's degree or higher": 14.3
+    }
+  },
+  "CT": {
+    "2019": {
+      "High school graduate": 28.8,
+      "Some college": 44.8,
+      "Bachelor's degree or higher": 16.0
+    },
+    "2020": {
+      "High school graduate": 29.4,
+      "Some college": 43.9,
+      "Bachelor's degree or higher": 16.9
+    },
+    "2021": {
+      "High school graduate": 30.2,
+      "Some college": 43.0,
+      "Bachelor's degree or higher": 17.2
+    },
+    "2022": {
+      "High school graduate": 29.8,
+      "Some college": 43.4,
+      "Bachelor's degree or higher": 17.8
+    },
+    "2023": {
+      "High school graduate": 31.1,
+      "Some college": 40.6,
+      "Bachelor's degree or higher": 19.0
+    }
+  },
+  "DE": {
+    "2019": {
+      "High school graduate": 32.9,
+      "Some college": 43.7,
+      "Bachelor's degree or higher": 9.8
+    },
+    "2020": {
+      "High school graduate": 34.4,
+      "Some college": 42.7,
+      "Bachelor's degree or higher": 9.7
+    },
+    "2021": {
+      "High school graduate": 34.5,
+      "Some college": 42.9,
+      "Bachelor's degree or higher": 10.2
+    },
+    "2022": {
+      "High school graduate": 35.2,
+      "Some college": 41.6,
+      "Bachelor's degree or higher": 10.4
+    },
+    "2023": {
+      "High school graduate": 36.0,
+      "Some college": 40.8,
+      "Bachelor's degree or higher": 10.7
+    }
+  },
+  "DC": {
+    "2019": {
+      "High school graduate": 27.2,
+      "Some college": 42.6,
+      "Bachelor's degree or higher": 22.5
+    },
+    "2020": {
+      "High school graduate": 27.3,
+      "Some college": 40.8,
+      "Bachelor's degree or higher": 24.5
+    },
+    "2021": {
+      "High school graduate": 25.8,
+      "Some college": 42.0,
+      "Bachelor's degree or higher": 25.3
+    },
+    "2022": {
+      "High school graduate": 25.8,
+      "Some college": 36.7,
+      "Bachelor's degree or higher": 29.6
+    },
+    "2023": {
+      "High school graduate": 22.8,
+      "Some college": 39.9,
+      "Bachelor's degree or higher": 29.3
+    }
+  },
+  "FL": {
+    "2019": {
+      "High school graduate": 30.8,
+      "Some college": 44.5,
+      "Bachelor's degree or higher": 9.6
+    },
+    "2020": {
+      "High school graduate": 31.7,
+      "Some college": 43.6,
+      "Bachelor's degree or higher": 10.3
+    },
+    "2021": {
+      "High school graduate": 32.6,
+      "Some college": 42.6,
+      "Bachelor's degree or higher": 10.8
+    },
+    "2022": {
+      "High school graduate": 33.2,
+      "Some college": 42.5,
+      "Bachelor's degree or higher": 11.1
+    },
+    "2023": {
+      "High school graduate": 33.7,
+      "Some college": 41.9,
+      "Bachelor's degree or higher": 11.5
+    }
+  },
+  "GA": {
+    "2019": {
+      "High school graduate": 33.1,
+      "Some college": 42.1,
+      "Bachelor's degree or higher": 9.4
+    },
+    "2020": {
+      "High school graduate": 33.2,
+      "Some college": 41.8,
+      "Bachelor's degree or higher": 10.0
+    },
+    "2021": {
+      "High school graduate": 34.1,
+      "Some college": 41.0,
+      "Bachelor's degree or higher": 10.2
+    },
+    "2022": {
+      "High school graduate": 35.0,
+      "Some college": 39.9,
+      "Bachelor's degree or higher": 10.7
+    },
+    "2023": {
+      "High school graduate": 36.1,
+      "Some college": 38.7,
+      "Bachelor's degree or higher": 11.0
+    }
+  },
+  "HI": {
+    "2019": {
+      "High school graduate": 40.1,
+      "Some college": 43.7,
+      "Bachelor's degree or higher": 8.8
+    },
+    "2020": {
+      "High school graduate": 40.8,
+      "Some college": 43.2,
+      "Bachelor's degree or higher": 9.0
+    },
+    "2021": {
+      "High school graduate": 40.7,
+      "Some college": 42.7,
+      "Bachelor's degree or higher": 9.5
+    },
+    "2022": {
+      "High school graduate": 42.5,
+      "Some college": 39.7,
+      "Bachelor's degree or higher": 10.3
+    },
+    "2023": {
+      "High school graduate": 42.9,
+      "Some college": 38.8,
+      "Bachelor's degree or higher": 10.6
+    }
+  },
+  "ID": {
+    "2019": {
+      "High school graduate": 35.5,
+      "Some college": 44.3,
+      "Bachelor's degree or higher": 6.9
+    },
+    "2020": {
+      "High school graduate": 36.3,
+      "Some college": 42.9,
+      "Bachelor's degree or higher": 7.8
+    },
+    "2021": {
+      "High school graduate": 37.7,
+      "Some college": 41.3,
+      "Bachelor's degree or higher": 7.4
+    },
+    "2022": {
+      "High school graduate": 38.0,
+      "Some college": 42.5,
+      "Bachelor's degree or higher": 7.3
+    },
+    "2023": {
+      "High school graduate": 38.5,
+      "Some college": 42.1,
+      "Bachelor's degree or higher": 7.2
+    }
+  },
+  "IL": {
+    "2019": {
+      "High school graduate": 29.3,
+      "Some college": 45.0,
+      "Bachelor's degree or higher": 13.8
+    },
+    "2020": {
+      "High school graduate": 30.0,
+      "Some college": 43.8,
+      "Bachelor's degree or higher": 14.4
+    },
+    "2021": {
+      "High school graduate": 30.6,
+      "Some college": 43.0,
+      "Bachelor's degree or higher": 14.8
+    },
+    "2022": {
+      "High school graduate": 32.0,
+      "Some college": 41.2,
+      "Bachelor's degree or higher": 15.5
+    },
+    "2023": {
+      "High school graduate": 33.1,
+      "Some college": 40.1,
+      "Bachelor's degree or higher": 15.6
+    }
+  },
+  "IN": {
+    "2019": {
+      "High school graduate": 32.5,
+      "Some college": 42.1,
+      "Bachelor's degree or higher": 10.3
+    },
+    "2020": {
+      "High school graduate": 34.0,
+      "Some college": 41.0,
+      "Bachelor's degree or higher": 10.6
+    },
+    "2021": {
+      "High school graduate": 35.3,
+      "Some college": 39.6,
+      "Bachelor's degree or higher": 11.0
+    },
+    "2022": {
+      "High school graduate": 36.1,
+      "Some college": 38.4,
+      "Bachelor's degree or higher": 11.2
+    },
+    "2023": {
+      "High school graduate": 37.2,
+      "Some college": 37.2,
+      "Bachelor's degree or higher": 11.5
+    }
+  },
+  "IA": {
+    "2019": {
+      "High school graduate": 27.4,
+      "Some college": 51.1,
+      "Bachelor's degree or higher": 11.2
+    },
+    "2020": {
+      "High school graduate": 28.1,
+      "Some college": 50.1,
+      "Bachelor's degree or higher": 11.7
+    },
+    "2021": {
+      "High school graduate": 29.1,
+      "Some college": 48.7,
+      "Bachelor's degree or higher": 11.7
+    },
+    "2022": {
+      "High school graduate": 29.7,
+      "Some college": 48.0,
+      "Bachelor's degree or higher": 11.7
+    },
+    "2023": {
+      "High school graduate": 31.0,
+      "Some college": 46.8,
+      "Bachelor's degree or higher": 11.7
+    }
+  },
+  "KS": {
+    "2019": {
+      "High school graduate": 29.3,
+      "Some college": 48.4,
+      "Bachelor's degree or higher": 10.8
+    },
+    "2020": {
+      "High school graduate": 29.7,
+      "Some college": 47.5,
+      "Bachelor's degree or higher": 11.3
+    },
+    "2021": {
+      "High school graduate": 30.3,
+      "Some college": 46.7,
+      "Bachelor's degree or higher": 11.7
+    },
+    "2022": {
+      "High school graduate": 31.6,
+      "Some college": 45.5,
+      "Bachelor's degree or higher": 11.6
+    },
+    "2023": {
+      "High school graduate": 32.6,
+      "Some college": 44.1,
+      "Bachelor's degree or higher": 11.9
+    }
+  },
+  "KY": {
+    "2019": {
+      "High school graduate": 35.9,
+      "Some college": 42.8,
+      "Bachelor's degree or higher": 8.9
+    },
+    "2020": {
+      "High school graduate": 36.2,
+      "Some college": 42.3,
+      "Bachelor's degree or higher": 9.5
+    },
+    "2021": {
+      "High school graduate": 37.3,
+      "Some college": 41.1,
+      "Bachelor's degree or higher": 10.1
+    },
+    "2022": {
+      "High school graduate": 38.2,
+      "Some college": 39.2,
+      "Bachelor's degree or higher": 10.7
+    },
+    "2023": {
+      "High school graduate": 38.9,
+      "Some college": 38.7,
+      "Bachelor's degree or higher": 10.9
+    }
+  },
+  "LA": {
+    "2019": {
+      "High school graduate": 34.3,
+      "Some college": 41.6,
+      "Bachelor's degree or higher": 7.8
+    },
+    "2020": {
+      "High school graduate": 34.9,
+      "Some college": 41.0,
+      "Bachelor's degree or higher": 8.4
+    },
+    "2021": {
+      "High school graduate": 35.3,
+      "Some college": 40.7,
+      "Bachelor's degree or higher": 8.6
+    },
+    "2022": {
+      "High school graduate": 35.8,
+      "Some college": 41.2,
+      "Bachelor's degree or higher": 8.6
+    },
+    "2023": {
+      "High school graduate": 36.5,
+      "Some college": 40.8,
+      "Bachelor's degree or higher": 8.8
+    }
+  },
+  "ME": {
+    "2019": {
+      "High school graduate": 33.2,
+      "Some college": 44.6,
+      "Bachelor's degree or higher": 11.2
+    },
+    "2020": {
+      "High school graduate": 33.5,
+      "Some college": 43.6,
+      "Bachelor's degree or higher": 12.4
+    },
+    "2021": {
+      "High school graduate": 34.5,
+      "Some college": 43.1,
+      "Bachelor's degree or higher": 11.7
+    },
+    "2022": {
+      "High school graduate": 35.8,
+      "Some college": 41.9,
+      "Bachelor's degree or higher": 12.0
+    },
+    "2023": {
+      "High school graduate": 35.8,
+      "Some college": 41.8,
+      "Bachelor's degree or higher": 12.3
+    }
+  },
+  "MD": {
+    "2019": {
+      "High school graduate": 30.2,
+      "Some college": 44.4,
+      "Bachelor's degree or higher": 14.3
+    },
+    "2020": {
+      "High school graduate": 30.9,
+      "Some college": 43.1,
+      "Bachelor's degree or higher": 14.6
+    },
+    "2021": {
+      "High school graduate": 31.4,
+      "Some college": 41.9,
+      "Bachelor's degree or higher": 15.2
+    },
+    "2022": {
+      "High school graduate": 32.2,
+      "Some college": 40.0,
+      "Bachelor's degree or higher": 16.0
+    },
+    "2023": {
+      "High school graduate": 32.8,
+      "Some college": 38.9,
+      "Bachelor's degree or higher": 16.0
+    }
+  },
+  "MA": {
+    "2019": {
+      "High school graduate": 27.0,
+      "Some college": 44.2,
+      "Bachelor's degree or higher": 18.5
+    },
+    "2020": {
+      "High school graduate": 27.6,
+      "Some college": 43.4,
+      "Bachelor's degree or higher": 19.1
+    },
+    "2021": {
+      "High school graduate": 28.2,
+      "Some college": 42.7,
+      "Bachelor's degree or higher": 19.3
+    },
+    "2022": {
+      "High school graduate": 29.5,
+      "Some college": 40.4,
+      "Bachelor's degree or higher": 20.2
+    },
+    "2023": {
+      "High school graduate": 30.4,
+      "Some college": 39.7,
+      "Bachelor's degree or higher": 20.5
+    }
+  },
+  "MI": {
+    "2019": {
+      "High school graduate": 30.4,
+      "Some college": 46.2,
+      "Bachelor's degree or higher": 10.7
+    },
+    "2020": {
+      "High school graduate": 31.2,
+      "Some college": 45.0,
+      "Bachelor's degree or higher": 11.4
+    },
+    "2021": {
+      "High school graduate": 32.2,
+      "Some college": 44.0,
+      "Bachelor's degree or higher": 11.8
+    },
+    "2022": {
+      "High school graduate": 33.3,
+      "Some college": 42.7,
+      "Bachelor's degree or higher": 12.0
+    },
+    "2023": {
+      "High school graduate": 34.4,
+      "Some college": 41.4,
+      "Bachelor's degree or higher": 12.3
+    }
+  },
+  "MN": {
+    "2019": {
+      "High school graduate": 28.0,
+      "Some college": 45.7,
+      "Bachelor's degree or higher": 14.0
+    },
+    "2020": {
+      "High school graduate": 28.5,
+      "Some college": 45.1,
+      "Bachelor's degree or higher": 14.6
+    },
+    "2021": {
+      "High school graduate": 29.4,
+      "Some college": 44.1,
+      "Bachelor's degree or higher": 14.5
+    },
+    "2022": {
+      "High school graduate": 30.8,
+      "Some college": 42.2,
+      "Bachelor's degree or higher": 14.8
+    },
+    "2023": {
+      "High school graduate": 31.4,
+      "Some college": 41.5,
+      "Bachelor's degree or higher": 15.2
+    }
+  },
+  "MS": {
+    "2019": {
+      "High school graduate": 29.8,
+      "Some college": 49.1,
+      "Bachelor's degree or higher": 6.6
+    },
+    "2020": {
+      "High school graduate": 30.1,
+      "Some college": 48.9,
+      "Bachelor's degree or higher": 6.9
+    },
+    "2021": {
+      "High school graduate": 30.8,
+      "Some college": 48.2,
+      "Bachelor's degree or higher": 7.4
+    },
+    "2022": {
+      "High school graduate": 31.7,
+      "Some college": 47.5,
+      "Bachelor's degree or higher": 7.4
+    },
+    "2023": {
+      "High school graduate": 33.0,
+      "Some college": 46.1,
+      "Bachelor's degree or higher": 7.7
+    }
+  },
+  "MO": {
+    "2019": {
+      "High school graduate": 31.3,
+      "Some college": 45.8,
+      "Bachelor's degree or higher": 10.5
+    },
+    "2020": {
+      "High school graduate": 32.5,
+      "Some college": 44.8,
+      "Bachelor's degree or higher": 11.0
+    },
+    "2021": {
+      "High school graduate": 33.1,
+      "Some college": 43.9,
+      "Bachelor's degree or higher": 11.4
+    },
+    "2022": {
+      "High school graduate": 33.7,
+      "Some college": 43.3,
+      "Bachelor's degree or higher": 11.8
+    },
+    "2023": {
+      "High school graduate": 34.9,
+      "Some college": 42.0,
+      "Bachelor's degree or higher": 12.2
+    }
+  },
+  "MT": {
+    "2019": {
+      "High school graduate": 35.3,
+      "Some college": 43.3,
+      "Bachelor's degree or higher": 8.8
+    },
+    "2020": {
+      "High school graduate": 34.8,
+      "Some college": 43.5,
+      "Bachelor's degree or higher": 10.2
+    },
+    "2021": {
+      "High school graduate": 35.9,
+      "Some college": 41.5,
+      "Bachelor's degree or higher": 10.6
+    },
+    "2022": {
+      "High school graduate": 36.7,
+      "Some college": 40.1,
+      "Bachelor's degree or higher": 11.0
+    },
+    "2023": {
+      "High school graduate": 37.8,
+      "Some college": 39.2,
+      "Bachelor's degree or higher": 11.0
+    }
+  },
+  "NE": {
+    "2019": {
+      "High school graduate": 28.7,
+      "Some college": 48.5,
+      "Bachelor's degree or higher": 12.5
+    },
+    "2020": {
+      "High school graduate": 29.6,
+      "Some college": 47.9,
+      "Bachelor's degree or higher": 12.5
+    },
+    "2021": {
+      "High school graduate": 29.6,
+      "Some college": 46.3,
+      "Bachelor's degree or higher": 13.2
+    },
+    "2022": {
+      "High school graduate": 30.3,
+      "Some college": 44.9,
+      "Bachelor's degree or higher": 13.6
+    },
+    "2023": {
+      "High school graduate": 31.0,
+      "Some college": 44.6,
+      "Bachelor's degree or higher": 13.5
+    }
+  },
+  "NV": {
+    "2019": {
+      "High school graduate": 39.1,
+      "Some college": 39.5,
+      "Bachelor's degree or higher": 5.8
+    },
+    "2020": {
+      "High school graduate": 40.9,
+      "Some college": 38.4,
+      "Bachelor's degree or higher": 6.3
+    },
+    "2021": {
+      "High school graduate": 42.3,
+      "Some college": 36.9,
+      "Bachelor's degree or higher": 6.7
+    },
+    "2022": {
+      "High school graduate": 42.5,
+      "Some college": 36.6,
+      "Bachelor's degree or higher": 7.1
+    },
+    "2023": {
+      "High school graduate": 42.5,
+      "Some college": 35.9,
+      "Bachelor's degree or higher": 7.8
+    }
+  },
+  "NH": {
+    "2019": {
+      "High school graduate": 32.3,
+      "Some college": 44.2,
+      "Bachelor's degree or higher": 13.7
+    },
+    "2020": {
+      "High school graduate": 32.7,
+      "Some college": 44.0,
+      "Bachelor's degree or higher": 14.1
+    },
+    "2021": {
+      "High school graduate": 33.7,
+      "Some college": 43.6,
+      "Bachelor's degree or higher": 13.5
+    },
+    "2022": {
+      "High school graduate": 34.3,
+      "Some college": 41.8,
+      "Bachelor's degree or higher": 13.9
+    },
+    "2023": {
+      "High school graduate": 34.2,
+      "Some college": 42.0,
+      "Bachelor's degree or higher": 14.1
+    }
+  },
+  "NJ": {
+    "2019": {
+      "High school graduate": 28.5,
+      "Some college": 43.9,
+      "Bachelor's degree or higher": 16.8
+    },
+    "2020": {
+      "High school graduate": 29.0,
+      "Some college": 43.0,
+      "Bachelor's degree or higher": 17.8
+    },
+    "2021": {
+      "High school graduate": 29.4,
+      "Some college": 42.2,
+      "Bachelor's degree or higher": 18.3
+    },
+    "2022": {
+      "High school graduate": 30.0,
+      "Some college": 41.3,
+      "Bachelor's degree or higher": 18.7
+    },
+    "2023": {
+      "High school graduate": 30.9,
+      "Some college": 40.1,
+      "Bachelor's degree or higher": 19.1
+    }
+  },
+  "NM": {
+    "2019": {
+      "High school graduate": 32.2,
+      "Some college": 44.9,
+      "Bachelor's degree or higher": 6.3
+    },
+    "2020": {
+      "High school graduate": 33.9,
+      "Some college": 43.7,
+      "Bachelor's degree or higher": 6.8
+    },
+    "2021": {
+      "High school graduate": 35.0,
+      "Some college": 41.9,
+      "Bachelor's degree or higher": 7.0
+    },
+    "2022": {
+      "High school graduate": 36.4,
+      "Some college": 40.9,
+      "Bachelor's degree or higher": 7.2
+    },
+    "2023": {
+      "High school graduate": 37.8,
+      "Some college": 39.0,
+      "Bachelor's degree or higher": 7.8
+    }
+  },
+  "NY": {
+    "2019": {
+      "High school graduate": 26.8,
+      "Some college": 45.3,
+      "Bachelor's degree or higher": 16.8
+    },
+    "2020": {
+      "High school graduate": 27.1,
+      "Some college": 44.5,
+      "Bachelor's degree or higher": 17.6
+    },
+    "2021": {
+      "High school graduate": 27.6,
+      "Some college": 43.9,
+      "Bachelor's degree or higher": 18.0
+    },
+    "2022": {
+      "High school graduate": 28.6,
+      "Some college": 42.6,
+      "Bachelor's degree or higher": 18.6
+    },
+    "2023": {
+      "High school graduate": 29.5,
+      "Some college": 41.8,
+      "Bachelor's degree or higher": 19.1
+    }
+  },
+  "NC": {
+    "2019": {
+      "High school graduate": 31.3,
+      "Some college": 45.5,
+      "Bachelor's degree or higher": 10.3
+    },
+    "2020": {
+      "High school graduate": 32.0,
+      "Some college": 45.0,
+      "Bachelor's degree or higher": 10.7
+    },
+    "2021": {
+      "High school graduate": 32.6,
+      "Some college": 44.4,
+      "Bachelor's degree or higher": 11.1
+    },
+    "2022": {
+      "High school graduate": 33.4,
+      "Some college": 43.1,
+      "Bachelor's degree or higher": 11.8
+    },
+    "2023": {
+      "High school graduate": 34.2,
+      "Some college": 42.3,
+      "Bachelor's degree or higher": 12.1
+    }
+  },
+  "ND": {
+    "2019": {
+      "High school graduate": 27.9,
+      "Some college": 51.1,
+      "Bachelor's degree or higher": 12.9
+    },
+    "2020": {
+      "High school graduate": 28.3,
+      "Some college": 49.8,
+      "Bachelor's degree or higher": 14.1
+    },
+    "2021": {
+      "High school graduate": 28.6,
+      "Some college": 49.2,
+      "Bachelor's degree or higher": 13.5
+    },
+    "2022": {
+      "High school graduate": 26.8,
+      "Some college": 49.4,
+      "Bachelor's degree or higher": 14.7
+    },
+    "2023": {
+      "High school graduate": 26.8,
+      "Some college": 48.6,
+      "Bachelor's degree or higher": 15.3
+    }
+  },
+  "OH": {
+    "2019": {
+      "High school graduate": 34.0,
+      "Some college": 42.6,
+      "Bachelor's degree or higher": 10.4
+    },
+    "2020": {
+      "High school graduate": 34.7,
+      "Some college": 42.0,
+      "Bachelor's degree or higher": 10.6
+    },
+    "2021": {
+      "High school graduate": 35.5,
+      "Some college": 41.0,
+      "Bachelor's degree or higher": 11.0
+    },
+    "2022": {
+      "High school graduate": 36.8,
+      "Some college": 39.3,
+      "Bachelor's degree or higher": 11.4
+    },
+    "2023": {
+      "High school graduate": 37.7,
+      "Some college": 38.2,
+      "Bachelor's degree or higher": 11.8
+    }
+  },
+  "OK": {
+    "2019": {
+      "High school graduate": 34.3,
+      "Some college": 42.9,
+      "Bachelor's degree or higher": 7.6
+    },
+    "2020": {
+      "High school graduate": 35.1,
+      "Some college": 42.3,
+      "Bachelor's degree or higher": 7.8
+    },
+    "2021": {
+      "High school graduate": 35.9,
+      "Some college": 41.2,
+      "Bachelor's degree or higher": 8.0
+    },
+    "2022": {
+      "High school graduate": 36.7,
+      "Some college": 40.6,
+      "Bachelor's degree or higher": 8.3
+    },
+    "2023": {
+      "High school graduate": 37.8,
+      "Some college": 39.4,
+      "Bachelor's degree or higher": 8.4
+    }
+  },
+  "OR": {
+    "2019": {
+      "High school graduate": 30.8,
+      "Some college": 45.5,
+      "Bachelor's degree or higher": 10.0
+    },
+    "2020": {
+      "High school graduate": 31.5,
+      "Some college": 45.2,
+      "Bachelor's degree or higher": 10.4
+    },
+    "2021": {
+      "High school graduate": 32.6,
+      "Some college": 44.2,
+      "Bachelor's degree or higher": 10.2
+    },
+    "2022": {
+      "High school graduate": 33.5,
+      "Some college": 43.2,
+      "Bachelor's degree or higher": 10.4
+    },
+    "2023": {
+      "High school graduate": 35.2,
+      "Some college": 41.7,
+      "Bachelor's degree or higher": 10.7
+    }
+  },
+  "PA": {
+    "2019": {
+      "High school graduate": 34.0,
+      "Some college": 41.2,
+      "Bachelor's degree or higher": 12.8
+    },
+    "2020": {
+      "High school graduate": 34.4,
+      "Some college": 40.2,
+      "Bachelor's degree or higher": 13.4
+    },
+    "2021": {
+      "High school graduate": 35.3,
+      "Some college": 39.2,
+      "Bachelor's degree or higher": 13.5
+    },
+    "2022": {
+      "High school graduate": 35.5,
+      "Some college": 39.1,
+      "Bachelor's degree or higher": 13.7
+    },
+    "2023": {
+      "High school graduate": 36.1,
+      "Some college": 38.7,
+      "Bachelor's degree or higher": 13.6
+    }
+  },
+  "RI": {
+    "2019": {
+      "High school graduate": 30.9,
+      "Some college": 47.2,
+      "Bachelor's degree or higher": 12.8
+    },
+    "2020": {
+      "High school graduate": 32.0,
+      "Some college": 46.4,
+      "Bachelor's degree or higher": 13.0
+    },
+    "2021": {
+      "High school graduate": 32.8,
+      "Some college": 45.8,
+      "Bachelor's degree or higher": 13.3
+    },
+    "2022": {
+      "High school graduate": 32.5,
+      "Some college": 43.9,
+      "Bachelor's degree or higher": 14.4
+    },
+    "2023": {
+      "High school graduate": 32.4,
+      "Some college": 43.3,
+      "Bachelor's degree or higher": 14.7
+    }
+  },
+  "SC": {
+    "2019": {
+      "High school graduate": 33.4,
+      "Some college": 44.5,
+      "Bachelor's degree or higher": 9.1
+    },
+    "2020": {
+      "High school graduate": 33.4,
+      "Some college": 44.3,
+      "Bachelor's degree or higher": 9.7
+    },
+    "2021": {
+      "High school graduate": 33.6,
+      "Some college": 43.6,
+      "Bachelor's degree or higher": 10.4
+    },
+    "2022": {
+      "High school graduate": 34.6,
+      "Some college": 42.5,
+      "Bachelor's degree or higher": 10.3
+    },
+    "2023": {
+      "High school graduate": 36.0,
+      "Some college": 41.0,
+      "Bachelor's degree or higher": 10.8
+    }
+  },
+  "SD": {
+    "2019": {
+      "High school graduate": 30.0,
+      "Some college": 45.9,
+      "Bachelor's degree or higher": 10.6
+    },
+    "2020": {
+      "High school graduate": 30.5,
+      "Some college": 43.7,
+      "Bachelor's degree or higher": 11.7
+    },
+    "2021": {
+      "High school graduate": 31.6,
+      "Some college": 42.3,
+      "Bachelor's degree or higher": 11.5
+    },
+    "2022": {
+      "High school graduate": 33.3,
+      "Some college": 40.9,
+      "Bachelor's degree or higher": 11.4
+    },
+    "2023": {
+      "High school graduate": 34.0,
+      "Some college": 40.4,
+      "Bachelor's degree or higher": 11.5
+    }
+  },
+  "TN": {
+    "2019": {
+      "High school graduate": 35.0,
+      "Some college": 43.5,
+      "Bachelor's degree or higher": 10.2
+    },
+    "2020": {
+      "High school graduate": 35.2,
+      "Some college": 42.7,
+      "Bachelor's degree or higher": 10.6
+    },
+    "2021": {
+      "High school graduate": 36.0,
+      "Some college": 41.8,
+      "Bachelor's degree or higher": 11.0
+    },
+    "2022": {
+      "High school graduate": 36.9,
+      "Some college": 40.9,
+      "Bachelor's degree or higher": 11.3
+    },
+    "2023": {
+      "High school graduate": 37.8,
+      "Some college": 39.4,
+      "Bachelor's degree or higher": 12.2
+    }
+  },
+  "TX": {
+    "2019": {
+      "High school graduate": 33.1,
+      "Some college": 43.4,
+      "Bachelor's degree or higher": 8.9
+    },
+    "2020": {
+      "High school graduate": 33.7,
+      "Some college": 42.6,
+      "Bachelor's degree or higher": 9.7
+    },
+    "2021": {
+      "High school graduate": 34.5,
+      "Some college": 41.6,
+      "Bachelor's degree or higher": 10.0
+    },
+    "2022": {
+      "High school graduate": 35.2,
+      "Some college": 40.5,
+      "Bachelor's degree or higher": 10.5
+    },
+    "2023": {
+      "High school graduate": 35.6,
+      "Some college": 39.8,
+      "Bachelor's degree or higher": 11.0
+    }
+  },
+  "UT": {
+    "2019": {
+      "High school graduate": 31.5,
+      "Some college": 50.1,
+      "Bachelor's degree or higher": 7.0
+    },
+    "2020": {
+      "High school graduate": 32.4,
+      "Some college": 49.6,
+      "Bachelor's degree or higher": 7.0
+    },
+    "2021": {
+      "High school graduate": 33.2,
+      "Some college": 48.6,
+      "Bachelor's degree or higher": 7.1
+    },
+    "2022": {
+      "High school graduate": 33.9,
+      "Some college": 47.7,
+      "Bachelor's degree or higher": 7.4
+    },
+    "2023": {
+      "High school graduate": 34.4,
+      "Some college": 47.0,
+      "Bachelor's degree or higher": 7.8
+    }
+  },
+  "VT": {
+    "2019": {
+      "High school graduate": 31.2,
+      "Some college": 46.8,
+      "Bachelor's degree or higher": 12.9
+    },
+    "2020": {
+      "High school graduate": 33.3,
+      "Some college": 45.8,
+      "Bachelor's degree or higher": 12.2
+    },
+    "2021": {
+      "High school graduate": 33.4,
+      "Some college": 45.0,
+      "Bachelor's degree or higher": 12.7
+    },
+    "2022": {
+      "High school graduate": 33.6,
+      "Some college": 44.4,
+      "Bachelor's degree or higher": 13.1
+    },
+    "2023": {
+      "High school graduate": 34.1,
+      "Some college": 44.3,
+      "Bachelor's degree or higher": 12.7
+    }
+  },
+  "VA": {
+    "2019": {
+      "High school graduate": 31.4,
+      "Some college": 45.5,
+      "Bachelor's degree or higher": 13.1
+    },
+    "2020": {
+      "High school graduate": 32.2,
+      "Some college": 44.1,
+      "Bachelor's degree or higher": 13.8
+    },
+    "2021": {
+      "High school graduate": 33.4,
+      "Some college": 42.9,
+      "Bachelor's degree or higher": 14.0
+    },
+    "2022": {
+      "High school graduate": 34.4,
+      "Some college": 41.6,
+      "Bachelor's degree or higher": 14.2
+    },
+    "2023": {
+      "High school graduate": 35.2,
+      "Some college": 40.5,
+      "Bachelor's degree or higher": 14.7
+    }
+  },
+  "WA": {
+    "2019": {
+      "High school graduate": 31.7,
+      "Some college": 42.9,
+      "Bachelor's degree or higher": 11.6
+    },
+    "2020": {
+      "High school graduate": 32.5,
+      "Some college": 41.8,
+      "Bachelor's degree or higher": 12.3
+    },
+    "2021": {
+      "High school graduate": 33.0,
+      "Some college": 41.5,
+      "Bachelor's degree or higher": 12.2
+    },
+    "2022": {
+      "High school graduate": 34.2,
+      "Some college": 39.7,
+      "Bachelor's degree or higher": 13.0
+    },
+    "2023": {
+      "High school graduate": 35.5,
+      "Some college": 38.2,
+      "Bachelor's degree or higher": 13.6
+    }
+  },
+  "WV": {
+    "2019": {
+      "High school graduate": 36.9,
+      "Some college": 42.9,
+      "Bachelor's degree or higher": 8.5
+    },
+    "2020": {
+      "High school graduate": 37.7,
+      "Some college": 41.9,
+      "Bachelor's degree or higher": 8.9
+    },
+    "2021": {
+      "High school graduate": 39.1,
+      "Some college": 40.1,
+      "Bachelor's degree or higher": 9.3
+    },
+    "2022": {
+      "High school graduate": 39.8,
+      "Some college": 39.2,
+      "Bachelor's degree or higher": 9.9
+    },
+    "2023": {
+      "High school graduate": 40.9,
+      "Some college": 38.4,
+      "Bachelor's degree or higher": 10.1
+    }
+  },
+  "WI": {
+    "2019": {
+      "High school graduate": 32.0,
+      "Some college": 45.6,
+      "Bachelor's degree or higher": 11.6
+    },
+    "2020": {
+      "High school graduate": 32.0,
+      "Some college": 45.1,
+      "Bachelor's degree or higher": 12.1
+    },
+    "2021": {
+      "High school graduate": 33.1,
+      "Some college": 43.9,
+      "Bachelor's degree or higher": 12.2
+    },
+    "2022": {
+      "High school graduate": 34.1,
+      "Some college": 42.2,
+      "Bachelor's degree or higher": 13.0
+    },
+    "2023": {
+      "High school graduate": 35.5,
+      "Some college": 41.0,
+      "Bachelor's degree or higher": 13.2
+    }
+  },
+  "WY": {
+    "2019": {
+      "High school graduate": 35.0,
+      "Some college": 45.4,
+      "Bachelor's degree or higher": 7.3
+    },
+    "2020": {
+      "High school graduate": 34.5,
+      "Some college": 45.0,
+      "Bachelor's degree or higher": 8.1
+    },
+    "2021": {
+      "High school graduate": 36.1,
+      "Some college": 43.8,
+      "Bachelor's degree or higher": 8.2
+    },
+    "2022": {
+      "High school graduate": 34.5,
+      "Some college": 45.0,
+      "Bachelor's degree or higher": 8.5
+    },
+    "2023": {
+      "High school graduate": 35.6,
+      "Some college": 44.4,
+      "Bachelor's degree or higher": 8.3
+    }
+  }
+}
